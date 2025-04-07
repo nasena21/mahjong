@@ -5,6 +5,7 @@ export default defineConfig({
   title: "Riichi Mahjong",
   description: "Riichi Mahjong Indonesia",
   base: '/mahjong/',
+  srcDir: 'docs',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
