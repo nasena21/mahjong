@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-import { getSidebar } from './getSidebar'
+import { getSidebar } from './getSidebar.ts'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -11,7 +11,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Guide', link: '01_guide/01_yaku' }
     ],
 
     sidebar: getSidebar(),

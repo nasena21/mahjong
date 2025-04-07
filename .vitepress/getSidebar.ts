@@ -3,43 +3,47 @@ import path from 'path'
 
 const docsRoot = path.resolve(__dirname, '../docs')
 
-// Optional: Manually control folder order
+// Manually control the order of folders here
+
 const manualOrder = [
-  '01_guide',
-  '02_yaku',
-  '03_rules'
-]
+    { dir: '01_guide', collapsed: false },
+    { dir: '02_yaku', collapsed: true },
+    { dir: '03_rules', collapsed: true },
+    { dir: '04_extra', collapsed: true }   
+  ]
 
 function toTitleCase(str: string): string {
   return str
-    .replace(/^\d+_/, '') // Remove folder number prefix
+    .replace(/^\d+_/, '') // Remove number prefix like "01_"
     .replace(/-/g, ' ')
     .replace(/(^\w|\s\w)/g, m => m.toUpperCase())
 }
 
 function readDirManualOrder() {
-  return manualOrder.map(dir => {
-    const fullPath = path.join(docsRoot, dir)
-    if (!fs.existsSync(fullPath)) return null
-
-    const files = fs.readdirSync(fullPath, { withFileTypes: true })
-      .filter(f => f.isFile() && f.name.endsWith('.md') && f.name !== 'index.md')
-
-    const items = files.map(f => {
-      const name = f.name.replace(/\.md$/, '')
+    return manualOrder.map(({ dir, collapsed }) => { // ← Destructure here
+      const fullPath = path.join(docsRoot, dir)
+      if (!fs.existsSync(fullPath)) return null
+  
+      const files = fs.readdirSync(fullPath, { withFileTypes: true })
+        .filter(f => f.isFile() && f.name.endsWith('.md'))
+  
+      const items = files.map(f => {
+        const name = f.name.replace(/\.md$/, '')
+        const link = name === 'index' ? `/${dir}/` : `/${dir}/${name}`
+        return {
+          text: toTitleCase(name),
+          link
+        }
+      })
+  
       return {
-        text: toTitleCase(name),
-        link: `/${dir}/${name}`
+        text: toTitleCase(dir),
+        collapsed,
+        items
       }
-    })
-
-    return {
-      text: toTitleCase(dir),
-      collapsed: true,
-      items
-    }
-  }).filter(Boolean)
-}
+    }).filter(Boolean)
+  }
+  
 
 export function getSidebar() {
   return readDirManualOrder()
