@@ -11,7 +11,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Guide', link: '01_guide/01_yaku' }
+      { text: 'Guide', link: '01_guide/01_Yaku' }
     ],
 
     sidebar: getSidebar(),
