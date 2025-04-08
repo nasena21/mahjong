@@ -22,7 +22,7 @@ const vitePressOptions = {
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/01_Guide/01_Yaku' }
+      { text: 'Guide', link: '/01_Guide/01_Tile' }
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
@@ -35,15 +35,16 @@ const vitePressOptions = {
   }
 }
 
-const vitePressSidebarOptions = {
-  documentRootPath: '.', // ✅ Correct root
+const vitePressSidebarOptions = { 
+  documentRootPath: '.', 
   collapsed: false,
   prefixSeparator: '_',
-  capitalizeFirst: true, // ✅ auto capitalize
-  removePrefixAfterOrdering: true, // ✅ remove `01_`
-  sortMenusOrderNumericallyFromTitle: true,
-  useTitleFromFrontmatter: true // ✅ use title from index.md
+  capitalizeFirst: true,
+  removePrefixAfterOrdering: true,
+  useTitleFromFrontmatter: true,
+  sortMenusByName: true // ✅ Sort by filename, not by title
 };
+
 
 
 export default defineConfig(

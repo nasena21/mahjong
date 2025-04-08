@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: Mulai dari Dasar
-      link: /01_Guide/01_Yaku
+      link: /01_Guide/01_Tile
     - theme: alt
       text: Apa itu Riichi Mahjong?
-      link: /01_Guide/01_Yaku
+      link: /00_Introduction/01_Introduction
 
 features:
   - title: Panduan Bahasa Indonesia

@@ -1,0 +1,6 @@
+img[alt="minipic"] {  
+    max-height: 90px; 
+    display: inline;
+    vertical-align: middle; /* Aligns with text properly */
+  }
+  
