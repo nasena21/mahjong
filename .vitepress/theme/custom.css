@@ -4,3 +4,14 @@ img[alt="minipic"] {
     vertical-align: middle; /* Aligns with text properly */
   }
   
+
+  /* docs/.vitepress/theme/custom.css */
+.logo {
+  width: 150px;             /* sesuaikan ukuran sesuai keinginan */
+  height: 150px;
+  background-image: url('/mahjong/logo.png'); /* pastikan path sesuai dengan base */
+  background-size: contain; /* atau cover, tergantung tampilan yang diinginkan */
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0 auto;           /* untuk center horizontal */
+}

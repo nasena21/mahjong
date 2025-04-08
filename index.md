@@ -6,6 +6,9 @@ hero:
   name: "Riichi Mahjong"
   text: "Indonesia"
   tagline: "Panduan lengkap bermain Riichi Mahjong dalam bahasa Indonesia"
+  image:
+    src: /hatsu.png
+    alt: hatsu
   actions:
     - theme: brand
       text: Mulai dari Dasar
