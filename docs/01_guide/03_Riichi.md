@@ -1,11 +1,10 @@
 ---
 outline: deep
-title: Basics
-sidebarOrder: 2
+title: Riichi
 
 ---
 
-# Basics
+# Riichi
 
 This page demonstrates usage of some of the runtime APIs provided by VitePress.
 

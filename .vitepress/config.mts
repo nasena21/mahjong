@@ -1,24 +1,56 @@
-import { defineConfig } from 'vitepress'
-import { getSidebar } from './getSidebar.ts'
+import { defineConfig } from 'vitepress';
+import { withSidebar } from 'vitepress-sidebar';
 
-// https://vitepress.dev/reference/site-config
-export default defineConfig({
+const vitePressOptions = {
   title: "Riichi Mahjong",
   description: "Riichi Mahjong Indonesia",
   base: '/mahjong/',
-  srcDir: 'docs',
+  srcDir: 'docs', // ✅ VitePress reads markdown from /docs
+  head: [
+    [
+      'link',
+      { rel: 'preconnect', href: 'https://fonts.googleapis.com' }
+    ],
+    [
+      'link',
+      { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }
+    ],
+    [
+      'link',
+      { rel: 'icon', href: '/mahjong/favicon.png' }
+    ],
+    [
+      'link',
+      { href: 'https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet', rel: 'stylesheet' }
+    ]
+  ],
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Guide', link: '01_guide/01_Yaku' }
+      { text: 'Guide', link: '/01_Guide/01_Yaku' }
     ],
-
-    sidebar: getSidebar(),
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
-  }
-})
+    ],
 
+    // ✅ Add search config inside themeConfig
+    search: {
+      provider: 'local'
+    }
+  }
+}
+
+const vitePressSidebarOptions = {
+  documentRootPath: 'docs', // ✅ Correct root
+  collapsed: false,
+  prefixSeparator: '_',
+  capitalizeFirst: true, // ✅ auto capitalize
+  removePrefixAfterOrdering: true, // ✅ remove `01_`
+  sortMenusOrderNumericallyFromTitle: true,
+  useTitleFromFrontmatter: true // ✅ use title from index.md
+};
+
+
+export default defineConfig(
+  withSidebar(vitePressOptions, vitePressSidebarOptions),
+);

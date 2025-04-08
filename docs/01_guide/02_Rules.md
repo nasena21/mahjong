@@ -1,7 +1,6 @@
 ---
 outline: deep
 title: Rules
-sidebarOrder: 1
 ---
 
 # Rules

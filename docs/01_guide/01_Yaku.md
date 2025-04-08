@@ -1,7 +1,6 @@
 ---
 outline: deep
 title: Yaku
-sidebarOrder: 3
 ---
 
 
