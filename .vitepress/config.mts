@@ -5,7 +5,6 @@ const vitePressOptions = {
   title: "Riichi Mahjong",
   description: "Riichi Mahjong Indonesia",
   base: '/mahjong/',
-  srcDir: 'docs', // ✅ VitePress reads markdown from /docs
   head: [
     [
       'link',
@@ -41,7 +40,7 @@ const vitePressOptions = {
 }
 
 const vitePressSidebarOptions = {
-  documentRootPath: 'docs', // ✅ Correct root
+  documentRootPath: '.', // ✅ Correct root
   collapsed: false,
   prefixSeparator: '_',
   capitalizeFirst: true, // ✅ auto capitalize
