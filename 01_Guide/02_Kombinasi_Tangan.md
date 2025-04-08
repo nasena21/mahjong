@@ -1,5 +1,6 @@
 ---
 title: Kombinasi Tangan
+order: 2
 ---
 
 # Kombinasi Tangan

@@ -42,8 +42,9 @@ const vitePressSidebarOptions = {
   capitalizeFirst: true,
   removePrefixAfterOrdering: true,
   useTitleFromFrontmatter: true,
-  sortMenusByName: true // ✅ Sort by filename, not by title
+  sortMenusByFrontmatterOrder: true // ✅ use frontmatter order to sort
 };
+
 
 
 

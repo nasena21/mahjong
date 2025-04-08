@@ -1,5 +1,6 @@
 ---
 title: Tile 
+order: 1
 ---
 
 # Tile dalam Riichi Mahjong

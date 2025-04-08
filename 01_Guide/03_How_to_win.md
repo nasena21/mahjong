@@ -1,5 +1,6 @@
 ---
 title: Cara Melengkapi Tangan dan Menang
+order: 3
 ---
 
 # Cara Melengkapi Tangan dan Menang
