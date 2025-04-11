@@ -11,6 +11,7 @@
     "docs:preview": "vitepress preview"
   },
   "dependencies": {
+    "@mdit/plugin-footnote": "^0.16.8",
     "gray-matter": "^4.0.3"
   }
 }

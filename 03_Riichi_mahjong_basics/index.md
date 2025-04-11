@@ -1,0 +1,4 @@
+---
+title: Riichi Mahjong Basics
+---
+

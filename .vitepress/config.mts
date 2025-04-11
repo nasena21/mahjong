@@ -22,7 +22,7 @@ const vitePressOptions = {
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/01_Guide/01_Tile' }
+      { text: 'Guide', link: '/00_About/01_Introduction' }
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
@@ -42,8 +42,9 @@ const vitePressSidebarOptions = {
   capitalizeFirst: true,
   removePrefixAfterOrdering: true,
   useTitleFromFrontmatter: true,
-  sortMenusByFrontmatterOrder: true // ✅ use frontmatter order to sort
-};
+  sortMenusByFrontmatterOrder: true, // ✅ use frontmatter order to sort
+  useFolderTitleFromIndexFile: true
+}
 
 
 

@@ -15,3 +15,52 @@ img[alt="minipic"] {
   background-position: center;
   margin: 0 auto;           /* untuk center horizontal */
 }
+
+
+img[alt="miniset"] {  
+  max-height: 60px; 
+  display: inline;
+  vertical-align: below; /* Aligns with text properly */
+  margin-left: 10px;
+  margin-right: -10px;
+}
+
+/* Container to line up the tiles */
+.mahjong-hand {
+  display: flex;
+  align-items: flex-end; /* Aligns bottom edge of tiles */
+  gap: 0; /* No gap between tiles unless you want one */
+  margin: 1em 0;
+}
+
+/* Style for each tile image */
+
+img[alt="firsttiles"] {
+  max-height: 60px;
+  display: inline;
+  vertical-align: bottom;
+  margin-right: -28px; /* Slight overlap to simulate real tile spacing */
+}
+
+img[alt="tiles"] {
+  max-height: 60px;
+  display: inline;
+  vertical-align: bottom;
+  margin-left: 10px;
+  margin-right: -28px; /* Slight overlap to simulate real tile spacing */
+}
+
+img[alt="righttiles"] {
+  max-height: 60px;
+  display: inline;
+  vertical-align: bottom;
+  margin-left: 10px;
+}
+
+img[alt="htiles"] {
+  max-height: 45px;
+  display: inline;
+  vertical-align: bottom;
+  margin-left: 10px;
+  margin-right: -28px; /* Slight overlap to simulate real tile spacing */
+}
