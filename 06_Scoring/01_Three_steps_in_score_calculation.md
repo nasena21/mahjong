@@ -5,20 +5,19 @@ order: 1
 
 # Three steps in score calculation
 
-6.1
-Three steps in score calculation
 Every rule book of mahjong has comprehensive scoring tables
 (similar to Tables 6.10 and 6.11 at the end of this chapter) that show
 all possible scores for all possible minipoints (fu). Although such
 tables are a good reference to have, it is not very eﬃcient to try to
 memorize everything in such tables.
+
 A more practical approach would be to focus on a small number
 of frequently observed patterns of scoring and memorize them cor-
 rectly, while ignoring other, less important ones. Before introducing
-
 some shortcuts to do eﬃcient scoring, let’s ﬁrst review the three required
 steps in score calculation, summarized in a box on the next
 page.
+
 Three steps in score calculation
 Step 1: Count the number of han.
 First, you need to ﬁgure out how many han a hand has. If
@@ -32,6 +31,7 @@ We will discuss some practical shortcuts below.
 Step 3: Get the score.
 Based on the number of han (and possibly minipoints), you
 get the score. You will have to memorize some score patterns.
+
 In the remainder of this chapter, I will ﬁrst introduce basic meth-
 ods of score calculation in Section 6.2. The basic methods involve
 using some shortcuts in Step 2 above. Once you master the basic

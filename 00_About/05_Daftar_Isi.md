@@ -45,6 +45,7 @@ title: Daftar Isi
 ## Strategy Principles
 
 ### 06. Scoring
+- [00. Scoring](../06_Scoring/00_Scoring.md)
 - [01. Three steps in score calculation](../06_Scoring/01_Three_steps_in_score_calculation.md)
 - [02. Basic scoring](../06_Scoring/02_Basic_scoring.md)
 - [03. Advanced scoring](../06_Scoring/03_Advanced_scoring.md)
