@@ -10,11 +10,14 @@ block, possibly from a ﬂoating tile we already have in the hand. In
 doing so, we should envision the kind of yaku that the hand is going
 to have eventually. Consider the following hand. Suppose you are
 the dealer and this is East-1. What would you discard?
+
 ȷﬀﬀ
 
 	%"
+
 As usual, we will split the hand into blocks. Notice that the hand
 has at most four blocks only.
+
 ȷﬀﬀ
 
 
@@ -25,8 +28,8 @@ has at most four blocks only.
 2
 | {z }
 | {z }
-We should thus compare the four ﬂoating tiles   % " in terms
 
+We should thus compare the four ﬂoating tiles   % " in terms
 of their relative capabilities to grow into an independent block. Of
 these four tiles,  is the strongest candidate, because it can form a
 side-wait protorun with two kinds of tiles,  and . Any simple tiles
@@ -36,6 +39,7 @@ a side-wait protorun, and 2 and 8 can become a side-wait protorun
 when paired with only one kind of tiles (3 or 7). However, number
 tiles are still stronger than honor tiles because honor tiles can never
 form a run.
+
 We should thus choose between the two honor tiles, % and ".
 Which one should we discard? Notice that this hand is clearly a
 pinfu hand and that it is currently lacking the head. Since value tiles
@@ -44,11 +48,14 @@ than ".
 We may want to choose a discard from an existing block rather
 than discarding a ﬂoating tile in order to enhance the hand value.
 Consider the following hand.
+
 ȷȷ
+
 From a pure perspective of tile eﬃciency, the discard choice should
 be either   or , for discarding either of the three will maximize
 tile acceptance. The block conﬁguration behind such a decision is as
 follows.
+
 ȷ
 ȷ
 
@@ -59,11 +66,12 @@ follows.
 | {z }
 |{z}
 | {z }
+
 However, doing so makes it almost inevitable that the hand ends up
 having a low score and/or a bad wait. Alternatively, we can expect
-
 the stretched single shape to produce two runs, to form
 a run, and the tiles in manzu (cracks) to produce one run, as follows.
+
 ȷȷ
 
 
@@ -73,6 +81,7 @@ a run, and the tiles in manzu (cracks) to produce one run, as follows.
 |{z}
 | {z }
 2
+
 We should thus discard the  for now, anticipating to discard the
 pair of  eventually. That way, we can expect to have tanyao, pinfu,
 and possibly sanshoku.

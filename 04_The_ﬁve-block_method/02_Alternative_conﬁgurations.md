@@ -5,8 +5,11 @@ order: 2
 
 # Alternative conﬁgurations
 Consider the following hand. What would you discard and why?
+
 ‌‌ȷ%%%
+
 Let’s ﬁrst divide the hand into ﬁve tile blocks.
+
 ‌‌ȷ
 
 
@@ -18,9 +21,11 @@ Let’s ﬁrst divide the hand into ﬁve tile blocks.
 | {z }
 |{z}
 | {z }
+
 This makes it clearer that, just like the previous example, ȷ is
 creating a redundant closed-wait protorun, so we should discard it.
 Also, discarding ȷ makes this a three-tile block.
+
 However, there is an alternative way to divide this hand into ﬁve
 blocks, and situational changes may call for such an alternative conﬁguration.
 Suppose that your opponents have already discarded all
@@ -38,6 +43,7 @@ Then, we might want to divide the hand in the following way instead.
 | {z }
 2
 | {z }
+
 That is, we aim to make the pair of ‌ the head of this hand, and
 we seek to have two runs in pinzu (dots). If we discard , this block
 becomes . Recall that a block like this can be split into  +  (recall the discussion of double closed shape in
@@ -45,6 +51,7 @@ Section 3.3.1). Therefore, this block can accept
  as well as -
 to make two runs in pinzu. The block in pinzu will have six tiles, but
 this is OK because this block is worth two.
+
 To master the ﬁve-block method, we need to be able to instanta-
 neously envision the ﬁrst block conﬁguration (4.3) the moment we
 see this hand. However, that is not enough. We should also be able
@@ -55,9 +62,11 @@ tile gets drawn or a new tile gets discarded. Therefore, the ideal
 evolve. We thus need to develop our skills to picture many possible
 ﬁve-block conﬁgurations and to prepare for possible situational
 changes that would call for a change in the conﬁguration.
+
 I provide several exercises in the following pages. The answer
 key to each exercise is provided on the next page. Try not to look at
 the answers before you actually derive your own answer.
+
 Exercises: ﬁnding a redundant tile
 Exercise 1
 What would you discard?

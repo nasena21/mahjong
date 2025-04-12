@@ -26,7 +26,9 @@ Red
 ‌
  
 Draw
+
 We can see that the hand currently has six tile blocks, as follows.
+
 ‌
 
 
@@ -40,6 +42,7 @@ We can see that the hand currently has six tile blocks, as follows.
 |{z}
 |{z}
 |{z}
+
 Since the ﬁrst two tile blocks are already complete and the third block
 is the head, our discard choice should be from the last three tile
 blocks, , , or .
@@ -53,15 +56,19 @@ choose between the two blocks in souzu (bamboos). Keeping the
 well as safety (discarding  is much safer than discarding ,
 generally speaking). Therefore, the three criteria collectively suggest
 that we should discard .
+
 In practice, however, satisfying all three criteria may not be fea-
 sible. A common tradeoﬀ we face is between speed and hand value.
 That is, maximizing tile eﬃciency to gain speed often entails giving
 up possibilities of pursuing an expensive hand. Consider the following
 hand.
+
 ‌ﬀﬀ
 		
+
 Let’s divide the hand into tile blocks. There are several ways to do
 this. One way to do this is to split it into the following blocks.
+
 ‌
 ﬀﬀ
 
@@ -75,14 +82,15 @@ this. One way to do this is to split it into the following blocks.
 |{z}
 |{z}
 |{z}
+
 If we simply maximize tile eﬃciency, we discard 
 , as we already
 have six tile blocks and we won’t need any more ﬂoating tile.
+
 However, as it stands, the hand has no yaku and it is likely to be
 a very cheap riichi-only hand. Moreover, the hand has three pairs,
-which is not ideal as we saw in the previous chapter. Therefore, we
+which is not ideal as we saw in the previous chapter. Therefore, we might want to split the hand into the following ﬁve blocks.
 
-might want to split the hand into the following ﬁve blocks.
 ‌ﬀﬀ
 
 
@@ -95,12 +103,14 @@ might want to split the hand into the following ﬁve blocks.
 |{z}
 |{z}
 |{z}
+
 We count the ﬂoating 
  as an independent block, hoping it to grow
 into a run. We also treat the tiles in manzu (cracks) as a single block,
 hoping to get at least one group or the head out of it. We thus discard
 one 	 now, then another 	 in the next turn. Depending on what
 tile gets drawn, our ﬁve-block conﬁguration will be diﬀerent.
+
 For example, suppose we draw and then . We will then have
 the following.
 ‌ﬀﬀ
@@ -114,10 +124,12 @@ the following.
 |{z}
 | {z }
 |{z}
+
 We will discard the  as a ﬁrst step toward reducing the number of
 tiles in the manzu (cracks) block to three. We can now see that this
 hand has a potential of getting sanshoku of 345 as well as pinfu and
 tanyao.
+
 On the other hand, if we draw ȷ and then , we can expect to
 have two groups in manzu (cracks) so we will discard 
 .
@@ -131,6 +143,7 @@ have two groups in manzu (cracks) so we will discard
 |{z}
 |{z}
 |{z}
+
 In selecting tile blocks, we should try to achieve the best balance
 between speed and hand value. Don’t fantasize too much about getting
 an expensive hand. At the same time, don’t ﬁxate too much about tile eﬃciency at the cost of hand value. This is, of course, easier
