@@ -25,15 +25,15 @@ diﬀerent options. For example, consider the following hand.
 ‰‰““”´ˆ˜˚ˇ˘ $$L
 
 What would you discard?
-This hand becomes ready to win if you discard “ or ”. Let’s com-
-pare the two choices.
+
+This hand becomes ready to win if you discard “ or ”. Let’s compare the two choices.
 
 • Discard 
 you wait for   (2 kinds–8 tiles)
-)
+
 • Discard 
 you wait for  (2 kinds–4 tiles)
-)
+
 Which discard choice is better? Although both of the two choices
 yield a 2-way wait, waiting for   is much better than waiting
 for , probabilistically speaking. With the   wait, there are
@@ -45,6 +45,7 @@ have already used up two tiles of  and two tiles of  yourself,
 leaving at most four winning tiles. It is clearly better to choose the
   wait over the   wait, because that will give you a higher
 probability of winning this hand.
+
 It is possible that, after you decided on the   wait, your op-
 ponents end up not discarding or at all, while discarding lots of
  . This is the kind of thing that will happen often in mahjong (or
@@ -52,6 +53,7 @@ in any game of luck, for that matter). When things like this happen,
 do not think that you made a bad call; you didn’t. You made the right
 choice, but you were just unlucky. When we experience this kind of
 bad luck, we just need to keep calm and carry on.
+
 Before discussing a practical method of maximizing tile eﬃciency
 in the next chapter, I will discuss some basic principles of tile eﬃciency
 in this chapter. In doing so, I introduce several key terms we

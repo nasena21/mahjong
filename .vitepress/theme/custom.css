@@ -81,3 +81,94 @@ img[alt="small"] {
   width: 400px;
   margin: 0 auto;
 }
+
+.center {
+  width: 400px;
+  margin: 0 auto;
+}  
+
+.mahjong-group {
+  border: 2px solid #444;  /* A slightly thicker border for a nice box */
+  border-radius: 6px;
+  padding: 1rem;           /* Padding inside the fieldset */
+  margin: 1.5rem 0;
+}
+
+.mahjong-group legend {
+  font-weight: bold;
+  font-size: 1.1rem;
+  padding: 0 0.5rem;       /* Some spacing around the legend text */
+}
+
+.tile-category {
+  margin: 1rem 0;          /* Spacing between categories */
+}
+
+.category-label {
+  margin-bottom: 0.5rem;
+}
+
+.category-label strong {
+  margin-right: 0.5rem;
+}
+
+.tiles {
+  display: flex;
+  flex-wrap: wrap; /* optional: wrap to next line if too many tiles */
+  align-items: center;
+}
+
+.tiles img {
+  height: 70px;
+}
+
+legend {
+  text-align: center; /* or left, right */
+}
+
+.honor-tiles {
+  border: 2px solid #333;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 1rem 0;
+}
+
+.honor-tiles legend {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2rem;
+  padding: 0 0.5rem;
+}
+
+.tile-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.tile-table td {
+  border: none; /* Makes border transparent */
+  text-align: center;
+  padding: 0.5rem;
+  vertical-align: top;
+}
+
+.tile-table tr {
+  border: none; /* Makes border transparent */
+  text-align: center;
+  padding: 0.5rem;
+  vertical-align: top;
+}
+
+.tile-table .category {
+  text-align: right;
+  font-weight: bold;
+  padding-right: 1rem;
+  white-space: nowrap;
+  vertical-align: middle;
+}
+
+.tile-table .tile img {
+  height: 70px;
+  display: block;
+  margin: 0 auto 0.3rem;
+}

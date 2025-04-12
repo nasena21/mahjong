@@ -5,22 +5,74 @@ order: 2
 
 # Basic building blocks
 
-3.2.1 Tiles
+## Tiles
 Mahjong tiles can be classiﬁed into two categories — number tiles
 and honor tiles.
-Number tiles
 
-Number tiles
-Cracks (characters) Manzu ‌ȷﬀ
-Dots (circles)
-Pinzu 
-
-Bamboos
-Souzu 	
+<fieldset class="mahjong-group">
+  <legend>Number tiles</legend>
+
+  <div class="tile-category">
+    <div class="category-label">
+      <strong>Cracks (characters)</strong> <em>Manzu</em>
+    </div>
+    <div class="tiles">
+      <!-- Replace with your actual tile images -->
+      <img src="/image/manzu/1-man.png" alt="1-man" />
+      <img src="/image/manzu/2-man.png" alt="2-man" />
+      <img src="/image/manzu/3-man.png" alt="3-man" />
+      <img src="/image/manzu/4-man.png" alt="4-man" />
+      <img src="/image/manzu/5-man.png" alt="5-man" />
+      <img src="/image/manzu/6-man.png" alt="6-man" />
+      <img src="/image/manzu/7-man.png" alt="7-man" />
+      <img src="/image/manzu/8-man.png" alt="8-man" />
+      <img src="/image/manzu/9-man.png" alt="9-man" />
+    </div>
+  </div>
+
+  <div class="tile-category">
+    <div class="category-label">
+      <strong>Dots (circles)</strong> <em>Pinzu</em>
+    </div>
+    <div class="tiles">
+      <!-- Replace with your actual tile images -->
+      <img src="/image/pinzu/1-pin.png" alt="1-pin" />
+      <img src="/image/pinzu/2-pin.png" alt="2-pin" />
+      <img src="/image/pinzu/3-pin.png" alt="3-pin" />
+      <img src="/image/pinzu/4-pin.png" alt="4-pin" />
+      <img src="/image/pinzu/5-pin.png" alt="5-pin" />
+      <img src="/image/pinzu/6-pin.png" alt="6-pin" />
+      <img src="/image/pinzu/7-pin.png" alt="7-pin" />
+      <img src="/image/pinzu/8-pin.png" alt="8-pin" />
+      <img src="/image/pinzu/9-pin.png" alt="9-pin" />
+    </div>
+  </div>
+
+  <div class="tile-category">
+    <div class="category-label">
+      <strong>Bamboos</strong> <em>Souzu</em>
+    </div>
+    <div class="tiles">
+      <!-- Replace with your actual tile images -->
+      <img src="/image/souzu/1-sou.png" alt="1-sou" />
+      <img src="/image/souzu/2-sou.png" alt="2-sou" />
+      <img src="/image/souzu/3-sou.png" alt="3-sou" />
+      <img src="/image/souzu/4-sou.png" alt="4-sou" />
+      <img src="/image/souzu/5-sou.png" alt="5-sou" />
+      <img src="/image/souzu/6-sou.png" alt="6-sou" />
+      <img src="/image/souzu/7-sou.png" alt="7-sou" />
+      <img src="/image/souzu/8-sou.png" alt="8-sou" />
+      <img src="/image/souzu/9-sou.png" alt="9-sou" />
+    </div>
+  </div>
+</fieldset>
+
+
 We further classify number tiles into simples (tanyao hai; tiles between
 2 and 8) and terminals (yaochu hai; 1 and 9). They are differentiated
 because they serve diﬀerent yaku and generate diﬀerent
 minipoints (fu).
+
 It has become quite common to include some red ﬁve tiles. For
 example, most games on Tenhou have one red ﬁve tile in each suit,
  
@@ -29,13 +81,56 @@ three regular ﬁves and one red ﬁve in each suit. Red ﬁves are treated
 as dora regardless of the dora indicator. When a 4 in a given suit is
 the dora indicator, the red ﬁve in that suit will be a double dora tile.
 
-Honor tiles
-Honor tiles
-Dragon tiles # $ %
-White (haku) Green (hatsu) Red (chun)
-Wind tiles ﬄ  ! "
-East (ton)
-South (nan) West (sha) North (pei)
+
+<fieldset class="honor-tiles">
+  <legend>Honor tiles</legend>
+    <table class="tile-table">
+    <tbody>
+        <tr>
+        <td class="category">Dragon tiles</td>
+        <td class="tile">
+            <img src="/image/honor/haku.png" alt="White"><br>
+            White (<i>haku</i>)
+        </td>
+        <td class="tile">
+            <img src="/image/honor/hatsu.png" alt="Green"><br>
+            Green (<i>hatsu</i>)
+        </td>
+        <td class="tile">
+            <img src="/image/honor/chun.png" alt="Red"><br>
+            Red (<i>chun</i>)
+        </td>
+        </tr>
+        <tr>
+        <td colspan="4" class="spacer"></td>
+        </tr>
+        <tr>
+        <td class="category">Wind tiles</td>
+        <td class="tile">
+            <img src="/image/honor/ton.png" alt="East"><br>
+            East (<i>ton</i>)
+        </td>
+        <td class="tile">
+            <img src="/image/honor/nan.png" alt="South"><br>
+            South (<i>nan</i>)
+        </td>
+        <td class="tile">
+            <img src="/image/honor/sha.png" alt="West"><br>
+            West (<i>sha</i>)
+        </td>
+        <td class="tile">
+            <img src="/image/honor/pei.png" alt="North"><br>
+            North (<i>pei</i>)
+        </td>
+        </tr>
+    </tbody>
+    </table>
+</fieldset>
+
+
+
+
+
 Some honor tiles are value tiles (fanpai / yakuhai); we get one han
 if we collect three identical value tiles. All dragon tiles are value tiles
 regardless of the round and seating. On the other hand, the value
@@ -46,7 +141,7 @@ player gets their own seating wind as a value tile. For example, West
 tiles are value tiles only for the West player, but they are valueless
 wind tiles (otakaze) for other players.
 
-3.2.2 Group (mentsu)
+## Group (mentsu)
 One of the major goals in playing mahjong is to win a hand.
 3
 To
@@ -56,12 +151,13 @@ one head (atama; ﬁnal pair).
 Groups can be classiﬁed into two kinds
 — run and set.
 5
-• Run (shuntsu; chow / sequence) is a set of three consecutive
+- Run (shuntsu; chow / sequence) is a set of three consecutive
 number tiles: e.g., ﬀ, .
-• Set (kotsu; pung / triplet) is a set of three identical tiles: e.g.,
+- Set (kotsu; pung / triplet) is a set of three identical tiles: e.g.,
 , $$$.
 6
-3.2.3 Ready and n-away
+
+## Ready and n-away
 We say a hand is ready (tenpai) when the hand can be complete
 with one more tile. For example, the following hand is ready.
 Ready hand
@@ -76,18 +172,22 @@ hand is 1-away from ready.
 1-away hand
 
 %%%
+
 This hand becomes ready if you draw any of . We say
 this hand accepts  (5 kinds–16 tiles) as any of them can
 make this hand advance from 1-away to ready. Tile acceptance (ukeire)
 refers to the kinds and the number of tiles a hand can accept. Other
 things being equal, having a 1-away hand with greater tile acceptance
 is better than having one with smaller tile acceptance.
+
 More generally, we say a hand is n-away from ready (n-shanten)
 when the hand can be ready with n more steps. For example, the
 following hand is 2-away from ready.
+
 2-away hand
 
 %%%
+
 This hand accepts all the tiles that the 1-away hand above accepts
 (), plus seven additional kinds of tiles
 .
@@ -98,14 +198,17 @@ A hand can also be 3-away, 4-away, 5-away, or 6-away from ready.
 In practice, however, there is not much point in distinguishing 3away
 hands from 4-away (or worse) hands. You thus need to be able to distinguish between four kinds of hands — ready hands, 1-away
 hands, 2-away hands, and 3-away or worse hands.
+
 Tile acceptance shrinkage
+
 As n gets smaller and the hand gets closer to completion, the
 kinds and the number of tiles it can accept will necessarily get smaller.
 Consider the three stages of a hand we have seen above.
-• When 2-away, it accepts: 
+- When 2-away, it accepts: 
 .
-• When 1-away, it accepts: .
-• When ready, it waits for: .
+- When 1-away, it accepts: .
+- When ready, it waits for: .
+
 Tile acceptance is minimized when the hand is ready. Note also that
 it is virtually minimized when it is 1-away. This is because with a
 ready hand you can utilize not only the tiles you draw but also the
@@ -116,7 +219,9 @@ to advance your hand.
 Therefore, in choosing a discard from a
 2-away hand, we should try not to make for a 1-away hand with too
 small tile acceptance.
+
 Advancing your hand
+
 To win a hand, we need to advance our hand by reducing the n of
 an n-away hand until it is ready. When a hand is 2-away, we should
 aim to make the hand 1-away. When a hand is 1-away, we should aim
@@ -127,6 +232,7 @@ to make the hand ready. For example, consider the following hand.
 ȷﬀﬀ
 	$$$
 What would you discard?
+
 Discarding 	 makes the hand 2-away, whereas discarding either ﬀ
 or  makes the hand 1-away. You should thus discard ﬀ or  to
 make the hand 1-away. Reverting a 1-away hand to 2-away makes
@@ -134,14 +240,17 @@ sense only in some exceptional cases where tile acceptance at 1-away
 becomes unbearably small (i.e., fewer than 2 kinds). With this hand,
 the hand will be able to accept  (3 kinds–12 tiles) when it
 becomes 1-away.
-3.2.4 Protoruns (taatsu)
+
+## Protoruns (taatsu)
 Of the two kinds of groups, it is easier to complete a run than
 to complete a set. There are only four identical tiles, and completing
 a set requires that you collect three out of the four identical tiles.
 Therefore, we usually prioritize runs over sets in advancing a hand.
+
 A pair of tiles that can become a run with one more tile is called a
 protorun (taatsu). There are three types of protoruns, summarized
 in Table 3.1.
+
 Table 3.1: Types of protoruns
 Name
 Japanese Example Wait Acceptance
@@ -152,17 +261,21 @@ closed wait kanchan 
 1 kind–4 tiles
 edge wait penchan 	 
 1 kind–4 tiles
+
 As we can see in the table, a side-wait (ryanmen) protorun can accept twice as many tiles as a closed-wait (kanchan) protorun or
 an edge-wait (penchan) protorun can. Therefore, building side-wait
 protoruns is the key to advancing a hand. Winning tiles of side-wait
 protoruns are often denoted with a hyphen in the middle, such as
 - or -.
 10
+
 Closed wait vs. edge wait
+
 There is no diﬀerence in the kinds and the number of tiles accepted
 by closed-wait and edge-wait protoruns; they both accept 1
 kind–4 tiles. However, closed-wait protoruns are superior to edgewait
 ones because they can more easily evolve into a side-wait protorun.
+
 A closed-wait protorun can evolve into a side-wait protorun in
 just one step. For example, a protorun 
  can become a side-wait
@@ -173,9 +286,11 @@ one if you draw  and discard .
 
 
 draw 
+
 On the other hand, it requires two steps for an edge-wait protorun to
 evolve into a side-wait protorun. For example, a protorun  can
 become a side-wait one if you draw  ﬁrst and then .
+
 
 )
 
@@ -187,15 +302,18 @@ Value ranking of protoruns
 side wait > closed wait > edge wait
 
 Tile versatility
+
 Some tiles are more versatile than others. For example, number
 tiles are more versatile than honor tiles because honor tiles can never
 form a run. Moreover, we can rank order the versatility of number
 tiles based on the types of protoruns they can form.
+
 Number tiles between 3 and 7 are the most versatile. This is be-
 cause each of them can form a protorun with four kinds of number
 tiles. For example, 
  can form a protorun with , , , and .
 Two out of the four resulting protoruns will be side wait.
+
 2 and 8 are less versatile. They can form a protorun with only
 three kinds of number tiles. For example,  can form a protorun
 with , 
@@ -206,6 +324,7 @@ torun with only two kinds of tiles. For example,  can form a protorun
 only with  and 
 . Neither of the two resulting protoruns is
 side wait.
+
 Versatility ranking of tiles
 3–7 tiles > 2, 8 tiles > 1, 9 tiles > honor tiles
 Applying the same logic, we can also rank order the versatility of
@@ -221,16 +340,20 @@ we draw  or . Clearly,
 
 Versatility ranking of closed-wait protoruns
 35, 46, 57 > 13, 24, 68, 79
-3.2.5 Pairs (toitsu)
+
+## Pairs (toitsu)
 A set of two identical tiles is called a pair (toitsu). Pairs can perform
 several diﬀerent roles. A pair can be the head (ﬁnal pair) of a
 hand, a protoset (a candidate for a set), or a component of chiitoitsu
 (Seven Pairs).
+
 Building the head
+
 Any hand — including Thirteen Orphans and Seven Pairs — requires
 the head to be complete. Since building the head is much easier
 than building a group, we usually don’t worry too much about
 the head. For example, consider the following hand.
+
 Hand with no head
 ﬀ
 
@@ -239,17 +362,21 @@ The hand is complete only with  (1 kind–3 tiles). However, if we
 draw any of ȷ (12 kinds–41 tiles), the
 wait will be signiﬁcantly improved. For example, if we draw  and
 discard , the hand becomes:
+
 ﬀ
 
 This hand is now waiting for  - (3 kinds–9 tiles). When a hand is missing the head, it is often the case that the wait gets significantly
 improved quite easily.
-3.2.6 Pairs and sets
+
+
+## Pairs and sets
 Another important role a pair can play is to work as a candidate
 for a set. Especially when a hand has two pairs, we can count on
 one of the two pairs to become the head while the other becomes a
 set. In other words, the value of pairs is maximized when there are
 two (and only two) pairs in a hand. Let’s see why this is the case by
 comparing hands with one, two, and three pairs.
+
 1. Hand with one pair
 ‌"
 This 2-away hand has one pair: . This pair is not very useful as
@@ -258,8 +385,10 @@ we will complete a set but then we will lose the head at the same
 time. The hand will still be 2-away from ready after all. Second, the
 probability of drawing another  is not very high because there are
 only two tiles left.
+
 What if a hand has two pairs? Suppose we drewand discarded
 ", as follows.
+
 2. Hand with two pairs
 ‌
 This hand is also 2-away, but it has two pairs:  and . Each
@@ -273,7 +402,9 @@ and two of ). The probability of drawing any one of four tiles
 is obviously higher than the probability of drawing any one of two
 tiles. In general, for each additional pair in a hand, tile acceptance
 increases by two.
+
 What if a hand has three pairs? Suppose we draw , as follows.
+
 3. Hand with three pairs
 ‌ 
 Draw
@@ -291,6 +422,8 @@ negative (2
 6). Similarly, keeping three pairs by discarding
 the  means the hand can no longer accept  (4 tiles). Therefore,
 discarding a  to maintain two pairs is the most eﬃcient.
+
+
 What we have seen so far is generalizable beyond the current ex-
 amples. As long as we intend to keep the hand closed (i.e., not calling
 pon or chii), we should avoid having three pairs in a hand. Having
@@ -301,29 +434,39 @@ makes for the strongest form.
 
 Value of pairs: closed hand
 2 pairs > 1 pair, 4 pairs > 3 pairs
+
 Open hand
+
 There is an important caveat to the above rule. When we intend
 to call pon, having three pairs is actually better than having two pairs.
 This is because the hand will become a two-pair hand after we call
 pon once. For example, consider the following hand.
+
+
 Two pairs vs. three pairs
 ‌	%% %
 Dora
 What would you discard?
+
 We would deﬁnitely intend to call pon on %. Anticipating that, we
 should discard  to keep three pairs in this case rather than discarding
  to have two pairs. After calling pon on %, we will have a
 choice between discarding ‌ or .
+
 	 %M%
 ‌	 %M%
+
 In either case, the hand will have two pairs after calling pon.
+
 Value of pairs: open hand
 3 pairs > 2 pairs
 
-3.2.7 Perfect n-away
+## Perfect n-away
 Perfect 1-away
+
 When a 1-away hand has two side-wait protoruns and two pairs,
 it is called perfect 1-away.
+
 Perfect 1-away
 ‌‌
 ###
@@ -332,29 +475,36 @@ because this hand can become ready either by calling chii, calling
 pon, or drawing a tile to complete a run or a set, and no matter how a
 hand becomes ready, you will always have the option to choose side
 wait as the ﬁnal wait.
+
 Perfect 2-away
+
 One step prior to achieving perfect 1-away, we may get a perfect
 2-away hand. Perfect 2-away is made up with three side-wait protoruns
 and three pairs, as follows.
+
 Perfect 2-away
 ‌‌
 ###
+
 When a perfect 2-away hand becomes 1-away, it can always be perfect
 1-away (unless you choose not to, for some reason). However, not all
 perfect 1-away hands evolve from a perfect 2-away hand.
 
-3.2.8 Putting things all together: an example
+## Putting things all together: an example
 Let’s see some hand examples that illustrate how we can apply
 the tile eﬃciency logics we have learned so far. Consider the following
 2-away hand.
+
 Advancing a hand 1
 ﬀ	
  
 Draw
 What would you discard?
+
 The hand now has three pairs, and we should avoid it. In order to reduce
 the number of pairs in this hand from three to two, our discard
 candidates should be , , or . Which one should we choose?
+
 Recall that a closed-wait protorun of 57 is stronger than a closed-
 wait protorun of 24 or an edge-wait protorun of 89. Therefore, it is
 OK to cut down the ﬀ shape to ﬀ by discarding . This is
@@ -365,6 +515,7 @@ and the second one will never become a side-wait protorun in one
 step. Therefore, both  and 	 should be kept as a candidate
 for the head or a group rather than making them into weak
 closed-wait protoruns.
+
 Let’s say we discard , and then we draw , resulting in the
 following hand.
 Advancing a hand 2
@@ -375,19 +526,24 @@ What would you discard?
 
 
 Now that we have a side-wait protorun ﬀ, we should discard .
+
 Let’s say we draw , resulting in the following hand.
+
 Advancing a hand 3
 ﬀ	
  
 Draw
 What would you discard?
+
 This hand is now 1-away from ready, and our discard choice is between
  and . Both tiles are equally useless from our perspective,
 and so we will eventually discard them both. The question is which
 one we should discard ﬁrst. Recall that a 4 is more versatile than an
 8. This means that  in this hand may later become dangerous for
 the opponents; we should thus discard  now rather than later.
+
 Let’s say we draw  after that, resulting in the following hand.
+
 Advancing a hand 4
 ﬀ	
  

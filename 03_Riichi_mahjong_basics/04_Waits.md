@@ -61,6 +61,7 @@ Name
 Example Waits Acceptance
 stretched single wait ‌   2 kinds–6 tiles
 semi side wait  - 2 kinds–6 tiles
+
 However, stretched single wait should not be confused with side
 wait for a few reasons. First, the number of tiles a 2-way stretchedsingle-wait
 hand can win on is at most 6, whereas it is 8 for a 2-way
@@ -69,15 +70,19 @@ stretched single wait is still a variant of single wait, which means
 two things. On the one hand, we cannot claim pinfu when the wait is
 stretched-single wait. For example, the following hand has no yaku
 and hence we cannot win it by ron without calling riichi.
+
 ȷ
 
+
 On the other hand, we get 2 minipoints (fu) with a stretched single
 wait. For example, if we win the following hand by drawing , we
 get 40 minipoints (20 base minipoints + 8 for a concealed set of honor
 tiles + 2 for self-draw + 2 for single wait = 32, rounded up to 40).
 15
+
 ȷ
 %%%
+
 When we have a side-wait protorun right next to a pair (e.g., 1123,
 2234, 7899, etc.), we call it semi side wait. We distinguish this from
 regular side wait for two reasons. First, the number of tiles to win
@@ -85,14 +90,17 @@ on is smaller (6 rather than 8) because we are already using 2 of the 8 winning 
 either as single wait or as side wait, depending on which interpretation
 gives us a greater score. For example, consider the following
 hand.
+
 ȷ
 
+
 We will treat the wait in this hand as side wait because that will give
 us pinfu. However, consider the following hand that has the exact
 same wait pattern: 
 .
 ȷ
 %%%
+
 If we win this hand by drawing , we will treat the wait as single
 wait:  + 
 , which will give us 40 minipoints. If we treated
@@ -104,9 +112,11 @@ not make a diﬀerence if it is side wait or single wait (either way we
 get 40 minipoints).
 
 3-way side wait
+
 When a side-wait protorun is combined with an adjacent run, we
 get a regular 3-way side-wait pattern. There are only three of this
 kind, summarized in Table 3.7.
+
 Table 3.7: Regular 3-way side wait
 Example
 Wait
@@ -115,9 +125,11 @@ Acceptance
 
  -- 3 kinds–11 tiles
  --	 3 kinds–11 tiles
+
 When we have a stretched single shape or semi side-wait shape
 combined with an adjacent run, we also get a 3-way wait pattern.
 Table 3.8 summarizes some examples.
+
 Table 3.8: Some irregular 3-way waits
 Example
 Wait
@@ -141,11 +153,14 @@ win on , the wait must be interpreted as single wait; if we win on
 we adopt whichever interpretation that generates the higher score.
 In the third pattern, winning on 	 allows us to claim single wait if
 doing so gives us a higher score.
+
 Complex waits
+
 When a set is combined with a ﬂoating tile nearby, we get some
 complex wait patterns with multiple waits. Table 3.9 summarizes a
 few examples of irregular waits that involve a set and a ﬂoating tile.
 Table 3.9: Some irregular waits (set and a ﬂoating tile)
+
 Example
 Combination Wait
 Acceptance
@@ -157,6 +172,7 @@ Acceptance
  single and closed  
 2 kinds–7 tiles
  single and side  - 3 kinds–11 tiles
+
 When a set is combined with a protorun, pair, or a four-tile shape,
 we get even more complicated waits. Table 3.10 summarizes only a
 few representative examples.
