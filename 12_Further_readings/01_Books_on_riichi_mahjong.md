@@ -5,12 +5,9 @@ order: 1
 
 # Books on riichi mahjong
 
-Chapter B
-Further readings
-B.1
-Books on riichi mahjong
 If you are a complete beginner, I recom-
 mend:
+
 1. Jenn Barr. 2009. Reach Mahjong:
 The
 Only Way to Play. Huntington Press.
@@ -29,6 +26,7 @@ Of these four books, I recommend the last one, written and edited
 by three Western professional players with the Japan Professional
 Mahjong League. The book contains WWYD problems and discussions
 as well as quizzes about tile eﬃciency, waits, and score calculation.
+
 Their WWYD discussions are a lot more multidimensional com-
 pared with stylized hand examples introduced in my book. You
 would ﬁnd it interesting to see how Jenn and Garthe often disagree
@@ -37,6 +35,7 @@ view on strategy principles can still disagree about exactly how
 to apply these principles in a given situation. You would be able to
 understand their WWYD discussions much better after completing
 my book ﬁrst.
+
 Scott D. Miller, a riichi player from Texas, has recently published
 two books on the history, culture, rules, and variants of riichi mahjong.
 I have not had a chance to read them, but both of them seem to be a
