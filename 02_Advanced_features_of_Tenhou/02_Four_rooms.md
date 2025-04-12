@@ -20,6 +20,7 @@ You can play here if (1) your rank is 1 級or higher or (2) you buy
 a two-month membership (¥ 1080 = e 8 = £ 6).3 Players with an R
 higher than 2000 and a rank higher than 七段are not allowed to play
 in this room, however.
+
 Games in the joukyu room are more reasonable than those in the
 lower-level room, but you still see many players who do not defend
 at all, do meaningless dama / unreasonable riichi, and make serious
@@ -45,6 +46,7 @@ room, you have to have all of the following: (1) a 七段 or higher rank,
 (2) a 2000 or higher R, and (3) a paid membership (¥ 540 yen = e 4
 = £ 3 per month). Satisfying the ﬁrst two conditions can be really,
 really challenging.
+
 This is arguably one of the highest-level mahjong locales in the
 whole world. It is not uncommon for you to come across a hououlevel
 player at a regular mahjong parlor in Japan. However, you usually
