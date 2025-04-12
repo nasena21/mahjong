@@ -5,6 +5,8 @@ order: 4
 
 # Miscellaneous tips for melding
 
+
+## Think Ahead
 When you call pon, you have to say “pon! [p´ON]” out loud imme-
 diately and nothing else. There is no such call as “Wait!”, and you
 will have to forgo your call if (1) the next player has already drawn
@@ -14,36 +16,44 @@ make up your mind about what tile to call before the tile is discarded.
 That is, you should think about what tile(s) can improve the wait
 and/or the scores of your hand all the time. For example, consider
 the following hand.
+
 Thinking ahead
 —‰ııı¸˛‚‹‹ ##K
 What tile(s) are you waiting for?
+
 The hand is ready, waiting for ‌. However, you should also be pre-
 pared for melding further to improve the wait and/or the scores. If
 you draw or call pon on‹ and discard—, the wait will be upgraded
 to an irregular 3-way wait of‌-ȷ ‰. Moreover, if you draw or call
 pon on the red » and discard —, not only the scores get better but
 also the wait will be upgraded to a side wait of ‌-ȷ.
+
 Relatedly, think about what to discard upon melding before you
 call. If you are unsure about what to discard upon melding, it prob-
 ably means you should not make the call.
 
-9.4.2 Be ready for dora
+## Be ready for dora
 You should also think about how to utilize dora when melding.
 Consider the following hand.
+
 Utilizing dora
  $L$ 
 The left player discarded  just now.
 Dora
+
 We should deﬁnitely call chii on  to make the hand ready, but
 the question here is: should we chii with  or with ? Let’s
 compare the resulting hands in each of the two possibilities.
+
  8 $L$ 
  8 $L$ 
 Dora
+
 Notice that the ﬁrst hand can accept another dora. That is, if you
 draw , you can keep it and discard  to improve the hand value
 from 2000 to 3900. With the second hand, you will have to discard
 the dora when you draw another.
+
 Calling chii with  is better also from a perspective of de-
 fense. Having to discard  against an opponent’s riichi is much better
 than having to discard .  can be captured by both - and
@@ -52,7 +62,7 @@ even if you deal into an opponent’s - wait, the hand value
 would be lower if you discard  than , on average.
 6
 
-9.4.3 Be mindful of the seating
+## Be mindful of the seating
 Each time you take a tile from the facing player (toimen) with a
 pon (or kan) call, the left player’s (kamicha) turn gets skipped. Likewise,
 each time you take a tile from the right player (shimocha) with
@@ -63,6 +73,7 @@ the right player while penalizing the left and the facing players. It is
 useful to keep this in mind in making a melding choice, especially
 when the beneﬁt of melding only slightly outweighs the beneﬁt of
 keeping the hand closed in terms of tile eﬃciency.
+
 For example, when you are North, you should not meld as ag-
 gressively because doing so will beneﬁt the dealer. Likewise, when
 you are South, you should try to call pon from the facing player (North)
@@ -72,9 +83,11 @@ game. When your right player is much ahead of the game, you should
 try to have a closed hand rather than a melded hand. On the other
 hand, when your left player is leading the game, you should meld a
 bit more aggressively so you can penalize him.
+
 Seating-related tip 1
 When your right player is the dealer and/or the front-runner, try
 not to call pon too much.
+
 Applying the same logic, you do not want your right player to
 call pon from your left player. This means that, if you plan to discard
 something that can be pon’ed by the right player, you should do so
@@ -85,6 +98,7 @@ than if he called pon from the North player. Moreover, if you discard
  , there is a good chance that another player may do the same in
 the 1st turn as well, lowering the chance that the South player builds
 a pair of  in later turns and calls pon.
+
 Seating-related tip 2
 When discarding valueless wind tiles, discard the right player’s
 wind ﬁrst, then the facing player’s wind next.
