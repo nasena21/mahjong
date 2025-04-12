@@ -40,7 +40,7 @@ title: Daftar Isi
 - [02. How to get ittsu](../05_Pursuing_yaku/02_How_to_get_ittsu.md)
 - [03. How to get pinfu](../05_Pursuing_yaku/03_How_to_get_pinfu.md)
 - [04. How to get honitsu](../05_Pursuing_yaku/04_How_to_get_honitsu.md)
-- [05. How to get toitoi / chiitoitsu](../05_Pursuing_yaku/05_How_to_get_toitoi_/_chiitoitsu.md)
+- [05. How to get toitoi / chiitoitsu](../05_Pursuing_yaku/05_How_to_get_toitoi___chiitoitsu.md)
 
 ## Strategy Principles
 
@@ -51,28 +51,28 @@ title: Daftar Isi
 - [04. Scoring tables](../06_Scoring/04_Scoring_tables.md)
 
 ### 07. Riichi Judgement
-- [01. To riichi or not to riichi](../07_Riichi_judgement/01_To_riichi_or_not_to_riichi.md)
+- [01. To riichi or not to riichi](../07_Riichi_judgement/01_To_riichi_or_not_to_riichi_.md)
 - [02. Insta-riichi](../07_Riichi_judgement/02_Insta-riichi.md)
 - [03. When not to riichi](../07_Riichi_judgement/03_When_not_to_riichi.md)
 - [04. Glossary](../07_Riichi_judgement/04_Glossary.md)
 
 ### 08. Defense Judgement
-- [01. To push or to fold](../08_Defense_judgement/01_To_push_or_to_fold.md)
+- [01. To push or to fold](../08_Defense_judgement/01_To_push_or_to_fold_.md)
 - [02. Defense basics](../08_Defense_judgement/02_Defense_basics.md)
 - [03. Defense against riichi](../08_Defense_judgement/03_Defense_against_riichi.md)
 - [04. Defense against open hands](../08_Defense_judgement/04_Defense_against_open_hands.md)
 - [05. Glossary](../08_Defense_judgement/05_Glossary.md)
 
 ### 09. Melding Judgement
-- [01. To meld or not to meld](../09_Melding_judgement/01_To_meld_or_not_to_meld.md)
-- [02. Melding choice: examples](../09_Melding_judgement/02_Melding_choice:_examples.md)
+- [01. To meld or not to meld](../09_Melding_judgement/01_To_meld_or_not_to_meld_.md)
+- [02. Melding choice: examples](../09_Melding_judgement/02_Melding_choice-_examples.md)
 - [03. Calling kan](../09_Melding_judgement/03_Calling_kan.md)
 - [04. Miscellaneous tips for melding](../09_Melding_judgement/04_Miscellaneous_tips_for_melding.md)
 
 ### 10. Grand Strategies
-- [01. What to do in South-0](../10_Grand_strategies/01_What_to_do_in_South-0md)
-- [02. What to do by South-0](../10_Grand_strategies/02_What_to_do_by_South-0md)
-- [03. Tables for induced point differences](../10_Grand_strategies/03_Tables_for_induced_point_diﬀerences.md)
+- [01. What to do in South-4](../10_Grand_strategies/01_What_to_do_in_South-4.md)
+- [02. What to do by South-3](../10_Grand_strategies/02_What_to_do_by_South-3.md)
+- [03. Tables for induced point differences](../10_Grand_strategies/03_Tables_for_induced_point_differences.md)
 
 
 ## Appendices
@@ -86,3 +86,4 @@ title: Daftar Isi
 ### 12. Further Readings
 - [01. Books on riichi mahjong](../12_Further_readings/01_Books_on_riichi_mahjong.md)
 - [02. Online resources](../12_Further_readings/02_Online_resources.md)
+- [03. Online resources](../12_Further_readings/03_Terms.md)

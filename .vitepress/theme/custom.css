@@ -64,3 +64,20 @@ img[alt="htiles"] {
   margin-left: 10px;
   margin-right: -28px; /* Slight overlap to simulate real tile spacing */
 }
+
+img[alt="enamratus"] {
+  width: 600px;
+  margin: 0 auto;
+}
+
+
+img[alt="Tenhou"] {
+  width: 600px;
+  margin: 0 auto;
+}
+
+
+img[alt="small"] {
+  width: 400px;
+  margin: 0 auto;
+}

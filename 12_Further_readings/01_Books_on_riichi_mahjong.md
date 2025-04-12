@@ -25,13 +25,6 @@ ing.
 5. Jenn Barr and Garthe Nelson (ed. Gemma Sakamoto). 2013. A
 Riichi Mahjong Study Book. Reach Spirits Inc.
 
-## Images
-![Image 17](images/img_17.png)
-![Image 18](images/img_18.png)
-![Image 19](images/img_19.png)
-![Image 20](images/img_20.png)
-![Image 21](images/img_21.png)
-
 Of these four books, I recommend the last one, written and edited
 by three Western professional players with the Japan Professional
 Mahjong League. The book contains WWYD problems and discussions

@@ -19,16 +19,17 @@ tify what skill sets you need to work on. You can also show your
 game record to your friends and ask for their opinions about partic-
 ular choices you’ve made in a game.
 
-![Tenhou](/image/tenhou.png)
+![enamratus](/image/tenhou.png)
+
+
 
 天鳳 (Tenhou) is arguably the
 most popular online mahjong plat-
 form in the world. As of December,
 2015, there are over three hundred
-thousand active players onTenhou.<sup>[1](#footnote-1)</sup>.
-A lot of professional mahjong play-
-ers from Japan now play Tenhou.
-There are also someTenhouplayers who have later become profes-
+thousand active players on Tenhou.<sup>[1](#footnote-1)</sup>
+
+A lot of professional mahjong players from Japan now play Tenhou. There are also someTenhouplayers who have later become profes-
 sional after practicing their skills onTenhou. It has become a common
 understanding among players in Japan that your rank and rating on
 Tenhou are one of the most reliable indicators of your mahjong skill

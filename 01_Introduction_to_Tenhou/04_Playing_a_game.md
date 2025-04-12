@@ -18,14 +18,15 @@ immediately).
 Each player is ran-
 domly assigned to East, West, South, or North. In the example above,
 my initial seat wind is North (北).
-![Image 6](/image/image_15.png)
+
+![small](/image/image_15.png)
 
 The Tenhou interface is quite intuitive so you won’t need much
 instruction. Once a hand begins, tiles are dealt automatically. You
 also automatically draw a tile when your turn comes. In each turn,
 click on the tile you want to discard.
 
-![Image 6](/image/image_16.png)
+![small](/image/image_16.png)
 
 Each action is timed. At a standard (non fast) table, you have 5
 seconds to discard a tile. In addition, you are given a total allowance
@@ -33,9 +34,7 @@ of 10 seconds in each hand. That is, even when you use up the 5 seconds allocate
 10 additional seconds (minus the seconds you have already
 used up in previous turns in the hand). For example, when you use
 5 + 4 seconds in the ﬁrst turn, the remaining allowance reduces to
-10
-
-4 = 6 seconds in this hand. Therefore, the next time you use
+10 - 4 = 6 seconds in this hand. Therefore, the next time you use
 up the ﬁrst 5 seconds, you will be given only 6 more seconds. The
 allowance will increase by 1 second (up to 10 seconds) each time you
 make your discard choice in less than 1 second. The allowance will
@@ -111,7 +110,7 @@ Chii calls are done in a similar way. When it becomes available,
 a small sign that reads チー will pop up right above the tiles in your
 hand with which to call chii.
 
-![Image 6](/image/image_21.png)
+![small](/image/image_21.png)
 
 When you have multiple sets of tiles with which to chii, as is the
 case in the above picture, mouse over the candidate tiles to choose.
@@ -149,20 +148,22 @@ You will be given the following three choices:
 
 ![Image 6](/image/image_22.png)
 
-• Call ron
-• Call chii
-• Pass (do nothing)
+- Call ron
+- Call chii
+- Pass (do nothing)
+
 To call ron on the discarded , click on the ロン (ron) box that pops
 up above your hand. If you want to do nothing, click on the パ ス
 (pass) box right next to the ロ ン box. Alternatively, if you want to
 call chii, mouse over the two tiles you want to chii with (in this
 case ‌) and click on them.
-1.4.2 Buttons
+
+## Buttons
 The buttons at the bottom right corner allow you to toggle on/oﬀ
 some calling-related features. Each feature is turned oﬀ at the beginning
 of a new hand.
 
-![Image 6](/image/image_23.png)
+![small](/image/image_23.png)
 
 自動和了 (Auto call win)
 If you turn this on, you will automatically win a hand when possible
@@ -194,7 +195,7 @@ You can change the appearance of the tiles and/or mat or resize
 the window with the Picture button. You can turn on/oﬀ the sound
 eﬀect (for riichi, chii, pon, etc.) with the Sound button.
 
-1.4.3 Scoring
+## Scoring
 When a player wins a hand, the score will be calculated automatically.
 A scoring board will pop up that shows the hand, dora
 (and ura dora if riichi was declared), yaku names and the associated
@@ -207,7 +208,7 @@ In the example above, the left player dealt into my hand that is worth
 will be shown in Japanese along with han counts. Table 1.2 at the end
 of this chapter lists all the yaku names Tenhou recognizes.
 
-1.4.4 Indicators
+## Indicators
 The black rectangular board in the middle of the screen provides
 information about the proceeding of the game.
 
@@ -258,7 +259,7 @@ open tanyao) or 無 (without open tanyao)
 • A fourth letter ( 赤) is added if there are red ﬁves.
 • A ﬁfth letter ( 速) is added if it is a fast game.
 
-1.4.5 Ending of a game
+## Ending of a game
 A game can end in several diﬀerent ways.
 • One or more player goes bankrupt (below 0 points).
 • South-4 (East-4 in East-only games) ends and at least one player
@@ -351,7 +352,9 @@ with uma), and 4th player went bankrupt (
 53:0 with
 uma).
 
-Notes on placement
+---
+
+## Notes on placement
 It is important to keep in mind that your rank and rating on Tenhou
 depend solely on the placement in a game and not on how many
 points you earn in a game, before or after adding uma and oka.
@@ -359,6 +362,7 @@ In other words, there is absolutely no diﬀerence between getting
 1st place with 30000 points and getting 1st place with, say, 80000
 points in terms of their contributions to your rank and rating.
 a
+
 This feature adds an interesting strategic element to the game.
 That is, it makes it clearer that the goal of mahjong is not to win
 a hand per se but to have a better placement at the end of a game.
@@ -367,12 +371,11 @@ placement. On occasion, you may ﬁnd it beneﬁcial to assist one
 of your opponents instead of trying to win a hand yourself. Intentionally
 dealing into an opponent’s hand can sometimes be a good
 tactic when it serves the purpose of securing your own placement.
+
 In my impression, many European players are lacking the appreciation
 of this aspect of mahjong. I hope you will learn to appreciate
 it through playing lots of games on Tenhou.
-a
-You might wonder why they still calculate the ﬁnal scores with uma
-and oka in Tenhou if they are irrelevant; I honestly have no idea.
+
 
 ## Footnotes
 
@@ -381,3 +384,8 @@ As we will see later, avoiding the fourth place is more important in Tenhou rule
 than it is in other rules. However, this does not mean that it is your only priority;
 you would still want to improve your placement in a game when doing so is a
 realistic possibility.
+
+
+a
+You might wonder why they still calculate the ﬁnal scores with uma
+and oka in Tenhou if they are irrelevant; I honestly have no idea.
