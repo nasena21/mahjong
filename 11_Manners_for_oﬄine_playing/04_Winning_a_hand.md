@@ -5,35 +5,43 @@ order: 4
 
 # Winning a hand
 
-Winning a hand
 3-1: Vocalize clearly ∗∗∗
+
 When winning a hand, you need to say ron or tsumo clearly. It is
 also OK to say “mahjong” instead.
+
 3-2: Don’t put the winning tile into the hand ∗∗∗
+
 When winning by tsumo, don’t place the winning tile inside the
 hand. Just place the winning tile right next to your hand. This is im-
 portant because scores (yaku and minipoints) may be diﬀerent de-
 pending on which tile was the one to complete the hand.
+
 3-3: Don’t take the winning tile ∗
+
 When winning by ron, some European players grab the winning
 tile and place it right next to their hand. Don’t do it. You should re-
 frain from doing this to prevent (the appearance of) cheating. People
 do this on TV, but they do so only for the camera.
+
 3-4: Sort the tiles before revealing your hand ∗∗
+
 You need to sort the tiles before showing your hand, so that other
 players can easily check your hand’s score and possible furiten vio-
 lation. Do not split the hand into constitutive groups. Doing so may
 actually obstruct other players’ vision.
+
 3-5: Declare yaku ∗∗
+
 After revealing your hand, reveal the ura dora if you have called
 riichi. You need to show the ura dora to all the other players even
 when you don’t get any of them. This is to make sure that you are
-
 not underreporting your hand value.
 2
 After that, you should declare
 all the yaku in your hand.
 3
+
 3-6: Declare the score 
 You need to declare the score of your hand yourself. It is OK
 to get other players’ help on scoring, but you need to be the one to
@@ -41,11 +49,15 @@ declare it. When declaring tsumo scores, say the payment by a nondealer
 ﬁrst, followed by the payment by the dealer. For example,
 when declaring a 300-500 tsumo, say “Three hundred, ﬁve hundred.”
 rather than “Five hundred, three hundred.”
+
 3-7: Conﬁrm the score 
+
 When one player wins a hand, the other three players must also
 see the hand and conﬁrm the declared score. You should also check
 if the hand was not furiten.
+
 3-8: Payment 
+
 A standard stick set would include four kinds of sticks, as follows.
 100 point
 1000 point
@@ -102,12 +114,15 @@ and two
 For this to work out perfectly, everyone needs to be on the same page.
 It may sound complicated at ﬁrst, but it sure feels good when the four
 players manage to make it happen together.
+
 3-9: Exhaustive draw 
+
 In case of exhaustive draw, the dealer should be the ﬁrst one to
 declare whether or not he has a ready hand. If he wants to declare
 ready, he has to show the hand and say “Tenpai.”; if not, say “Noten.”
 or “Not tenpai.” without showing his hand. Then, South, West, and
 North declare tenpai or noten in that order.
+
 The order of declaration could make a diﬀerence in some (rare)
 occasions. Declaring ﬁrst is advantageous in some instances and disadvantageous
 in others. Suppose the dealer is ranked ﬁrst in South4,
@@ -121,6 +136,19 @@ On the other hand, if the sec-
 ond ranked player declares tenpai, the dealer would want to declare
 tenpai and continue the game. This is because the induced point difference
 in case of tenpai–noten is either 3000 (2-player tenpai) or
+4000 (1-player tenpai or 3-player tenpai), each of which exceeds the
+current point diﬀerence of 2900.
+
+Declaring ﬁrst can be advantageous only when playing with a
+bankruptcy rule. Suppose one player is at the verge of bankruptcy,
+having only 1300 points. Suppose further that both he and the ﬁrst
+ranked player have already declared noten. In such a situation, if the
+second ranked player declares tenpai ﬁrst, the third ranked player
+would have to declare noten even when he has a ready hand. Otherwise,
+the fourth ranked player goes bankrupt and the game is terminated.
+
+Because of these advantages and disadvantages of declaring ﬁrst,
+we should stick with the predetermined order for the sake of fairness.
 
 ## Footnotes
 2
