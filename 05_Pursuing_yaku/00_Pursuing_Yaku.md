@@ -15,6 +15,7 @@ that emerges in a hand (almost) by chance, not something we
 actively pursue. Given that we can get high scores also from ippatsu,
 ura dora, and tsumo, getting the hand ready for riichi is generally
 more important than pursuing expensive yaku.
+
 That being said, always trying to maximize tile eﬃciency without
 regard for yaku is not the best strategy, either. We should thus
 design a ﬁve-block conﬁguration with an eye to possible yaku we can
@@ -24,6 +25,7 @@ player who is currently ranked third has 10000 more points than you
 do, you should aim for mangan tsumo or haneman ron to improve the
 placement (more on this in Chapter 10), which will require that your
 hand has some yaku other than just riichi and dora.
+
 In this chapter, I will discuss some tips to get the following ﬁve
 set of yaku.
 5.1 sanshoku (Mixed Triple Chow) 5.2 ittsu (Pure Straight)
