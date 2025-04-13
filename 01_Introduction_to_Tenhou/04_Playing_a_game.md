@@ -60,7 +60,7 @@ in white letters will pop up in your turn.
 If you want to riichi, you must click on the リーチ box ﬁrst, then click
 on the tile you want to discard. Once you click on the リーチ box, you
 cannot call it oﬀ. Clicking on the リーチ box also makes it impossible
-to discard a tile that does not make the hand ready. In the above example, tiles other than ![firsttiles](/image/manzu/5-man.png)![tiles](/image/manzu/6-man.png)![tiles](/image/manzu/8-man.png)![righttiles](/image/pinzu/7-pin.png)   will become unclickable once you
+to discard a tile that does not make the hand ready. In the above example, tiles other than ![firsttile](/image/manzu/5-man.png)![midletile](/image/manzu/6-man.png)![midletile](/image/manzu/8-man.png)![righttile](/image/pinzu/7-pin.png)   will become unclickable once you
 click on the リーチ box. If you do not want to call riichi, just click on
 the tile you want to discard.
 
@@ -112,15 +112,26 @@ hand with which to call chii.
 
 ![small](/image/image_21.png)
 
-When you have multiple sets of tiles with which to chii, as is the
-case in the above picture, mouse over the candidate tiles to choose.
-In the picture above, the left player discarded a  and you can chii
-it with either , , or . If you want to chii it with ,
-mouse over the  then the  and the  will stick out so you can
-click on them. If you want to chii it with , mouse over the 
-then the  and a  will stick out so you can click on them. Finally,
-if you want to chii it with , mouse over the left  then the 
-and the  will stick out so you can click on them.
+When you have multiple sets of tiles with which to chii, as is the case in the above picture, mouse over the candidate tiles to choose. In the picture above, the left player discarded a 
+![onetile](/image/pinzu/6-pin.png) 
+and you can chii it with either 
+![firsttile](/image/pinzu/4-pin.png)![righttile](/image/pinzu/5-pin.png), 
+![firsttile](/image/pinzu/5-pin.png)![righttile](/image/pinzu/7-pin.png), or
+![firsttile](/image/pinzu/7-pin.png)![righttile](/image/pinzu/8-pin.png). 
+If you want to chii it with
+![firsttile](/image/pinzu/4-pin.png)![righttile](/image/pinzu/5-pin.png),
+mouse over the
+![righttile](/image/pinzu/4-pin.png)
+then the
+![righttile](/image/pinzu/4-pin.png)
+and the
+![righttile](/image/pinzu/5-pin.png) will stick out so you can
+click on them. If you want to chii it with
+![firsttile](/image/pinzu/5-pin.png)![righttile](/image/pinzu/7-pin.png), mouse over the
+![righttile](/image/pinzu/5-pin.png)!
+then the ![righttile](/image/pinzu/5-pin.png) and a ![righttile](/image/pinzu/7-pin.png) will stick out so you can click on them. Finally,
+if you want to chii it with ![firsttile](/image/pinzu/7-pin.png)![righttile](/image/pinzu/8-pin.png), mouse over the left ![righttile](/image/pinzu/7-pin.png)  then the ![righttile](/image/pinzu/7-pin.png)
+and the ![righttile](/image/pinzu/8-pin.png)  will stick out so you can click on them.
 
 7. カン kan [k2N]
 Calling kan on a discard is similar to calling pon. Calling kan by
@@ -139,11 +150,12 @@ draw in an uninterrupted ﬁrst set of turns, you can declare an abortive
 draw. When this becomes available, a box that reads 九 種 九 牌 will
 pop up. Click on it if you want to declare an abortive draw. If you
 wish to continue with the hand, just click on the tile you want to discard.
+
 Multiple boxes
 
 Sometimes you have multiple choices as to what to do with a
 given discard of your opponent. In the following example, you have
-a ready hand waiting for -, and the left player discarded a .
+a ready hand waiting for ![onetile](/image/manzu/2-man.png)-![onetile](/image/manzu/5-man.png), and the left player discarded a ![onetile](/image/manzu/5-man.png).
 You will be given the following three choices:
 
 ![Image 6](/image/image_22.png)
@@ -152,11 +164,11 @@ You will be given the following three choices:
 - Call chii
 - Pass (do nothing)
 
-To call ron on the discarded , click on the ロン (ron) box that pops
+To call ron on the discarded ![onetile](/image/manzu/5-man.png), click on the ロン (ron) box that pops
 up above your hand. If you want to do nothing, click on the パ ス
 (pass) box right next to the ロ ン box. Alternatively, if you want to
 call chii, mouse over the two tiles you want to chii with (in this
-case ‌) and click on them.
+case ‌![firsttile](/image/manzu/3-man.png)![righttile](/image/manzu/4-man.png)) and click on them.
 
 ## Buttons
 The buttons at the bottom right corner allow you to toggle on/oﬀ
@@ -294,34 +306,15 @@ me explain this with an example. Suppose that players A, B, C, and
 
 
 Table 1.1: Final score calculation on Tenhou
-Player Raw score Before uma After uma After oka
-A
-39000
-9000
-29000
-49000
-B
-25100
 
-4900
-5100
-5100
-C
-22900
+| Player | Raw score | Before uma | After uma | After oka |
+|--------|-----------|-------------|-----------|-----------|
+| A      | 39000     | 9000        | 29000     | 49000     |
+| B      | 25100     | -4900       | 5100      | 5100      |
+| C      | 22900     | -7100       | -17100    | -17100    |
+| D      | 13000     | -17000      | -37000    | -37000    |
 
-7100
 
-17100
-
-17100
-D
-13000
-
-17000
-
-37000
-
-37000
 D hold the following raw points at the end of a game; 39000, 25100,
 22900, and 13000, as shown in Table 1.1 below.
 The ﬁrst numerical column shows the raw scores. Then, 30000 is

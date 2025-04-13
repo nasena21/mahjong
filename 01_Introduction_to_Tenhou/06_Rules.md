@@ -59,127 +59,39 @@ a self-draw. In case another player deals into it, the two share the payment equ
 but not to rinshan kaihou (After a Kong).
 
 Table 1.2: List of yaku names
-Yaku
-Pronunciation
-EMA name
-Han (open)
-門前清自摸和 (menzen-) tsumo
-Fully Concealed Hand
-1 (NA)
-立直
-riichi
-Riichi
-1 (NA)
-一発
-ippatsu
-Ippatsu
-1 (NA)
-槍槓
-chankan
-Robbing the Kong
-1
-嶺上開花
-rinshan kaiho
-After a Kong
-1
-海底摸月
-haitei (-moyue) Under the Sea
-1
-河底撈魚
-houtei (-raoyui) Under the River
-1
-自風
-jikaze
-Seat Wind
-1
-場風
-bakaze
-Prevailing Wind
-1
-役牌
-yakuhai / fanpai
-Dragon Pung
-1
-断幺九
-tanyao
-All Simples
-1
-一盃口
-iipeiko
-Pure Double Chow
-1 (NA)
-平和
-pinfu
-Pinfu
-1 (NA)
-混全帯幺九
-chanta
-Outside Hand
-2 (1)
-一気通貫
-ittsu
-Pure Straight
-2 (1)
-三色同順
-sanshoku (-doujun) Mixed Triple Chow
-2 (1)
-三色同刻
-sanshoku doukou
-Mixed Triple Pungs
-2
-両立直
-double riichi
-Double Riichi
-2 (NA)
-三槓子
-san kantsu
-Three Kongs
-2
-対々和
-toitoi
-All Pungs
-2
-三暗刻
-san anko
-Three Concealed Pungs 2
-小三元
-shousangen
-Little Three Dragons
-2
-混老頭
-honroutou
-All Terminals and Honors 2
-七対子
-chiitoitsu
-Seven Pairs
-2 (NA)
-純全帯幺九
-junchan
-Terminals in All Sets
-3 (2)
-混一色
-honitsu
-Half Flush
-3 (2)
-二盃口
-ryanpeiko
-Twice Pure Double
-Chow
-3 (NA)
-清一色
-chinitsu
-Full Flush
-6 (5)
-流し満貫
-nagashi mangan
-–
-mangan
-ドラ
-dora
-Dora
-赤ドラ
-aka dora
-Red ﬁve
-裏ドラ
-ura dora
-Ura dora
+
+| Yaku                     | Pronunciation             | EMA Name                        | Han (open) |
+|--------------------------|---------------------------|----------------------------------|------------|
+| 門前清自摸和              | (menzen-) tsumo           | Fully Concealed Hand             | 1 (NA)     |
+| 立直                     | riichi                    | Riichi                           | 1 (NA)     |
+| 一発                     | ippatsu                   | Ippatsu                          | 1 (NA)     |
+| 槍槓                     | chankan                   | Robbing the Kong                 | 1          |
+| 嶺上開花                 | rinshan kaiho             | After a Kong                     | 1          |
+| 海底撈月                 | haitei (-moyue)           | Under the Sea                    | 1          |
+| 河底撈魚                 | houtei (-raoyui)          | Under the River                  | 1          |
+| 自風                     | jikaze                    | Seat Wind                        | 1          |
+| 場風                     | bakaze                    | Prevailing Wind                  | 1          |
+| 役牌                     | yakuhai / fanpai          | Dragon Pung                      | 1          |
+| 断么九                   | tanyao                    | All Simples                      | 1          |
+| 一盃口                   | iipeiko                   | Pure Double Chow                 | 1 (NA)     |
+| 平和                     | pinfu                     | Pinfu                            | 1 (NA)     |
+| 混全帯么九               | chanta                    | Outside Hand                     | 2 (1)      |
+| 一気通貫                 | ittsu                     | Pure Straight                    | 2 (1)      |
+| 三色同順                 | sanshoku (-doujun)        | Mixed Triple Chow                | 2 (1)      |
+| 三色同刻                 | sanshoku doukou           | Mixed Triple Pungs               | 2          |
+| 両立直                   | double riichi             | Double Riichi                    | 2 (NA)     |
+| 三槓子                   | san kantsu                | Three Kongs                      | 2          |
+| 対々和                   | toitoi                    | All Pungs                        | 2          |
+| 三暗刻                   | san anko                  | Three Concealed Pungs            | 2          |
+| 小三元                   | shousangen                | Little Three Dragons             | 2          |
+| 混老頭                   | honroutou                 | All Terminals and Honors         | 2          |
+| 七対子                   | chiitoitsu                | Seven Pairs                      | 2 (NA)     |
+| 純全帯么九               | junchan                   | Terminals in All Sets            | 3 (2)      |
+| 混一色                   | honitsu                   | Half Flush                       | 3 (2)      |
+| 二盃口                   | ryanpeiko                 | Twice Pure Double Chow           | 3 (NA)     |
+| 清一色                   | chinitsu                  | Full Flush                       | 6 (5)      |
+| 流し満貫                 | nagashi mangan            | -                                | mangan     |
+| ドラ                     | dora                      | Dora                             | -          |
+| 赤ドラ                   | aka dora                  | Red Five                         | -          |
+| 裏ドラ                   | ura dora                  | Ura Dora                         | -          |
+
