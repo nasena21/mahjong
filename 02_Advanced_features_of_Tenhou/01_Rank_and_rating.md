@@ -5,7 +5,23 @@ order: 1
 
 # Rank and rating
 
-(Add Table)
+Table 2.1: Player distribution
+
+| Rank   | N     | Rank | N      |
+|--------|-------|------|--------|
+| 天鳳位 | 9     |      |        |
+| 十段   | 15    | 1級  | 7780   |
+| 九段   | 130   | 2級  | 5849   |
+| 八段   | 592   | 3級  | 6481   |
+| 七段   | 1830  | 4級  | 6383   |
+| 六段   | 3140  | 5級  | 6971   |
+| 五段   | 5968  | 6級  | 9964   |
+| 四段   | 9957  | 7級  | 16606  |
+| 三段   | 14436 | 8級  | 14509  |
+| 二段   | 18174 | 9級  | 28283  |
+| 初段   | 15046 | 新人 | 132411 |
+
+
 
 Tenhou has two diﬀerent player rating systems — rank (kyu / dan)
 and R (rate). The kyu / dan rank-

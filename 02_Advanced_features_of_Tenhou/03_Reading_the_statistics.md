@@ -100,7 +100,7 @@ We can see some interesting patterns here. The left-hand side
 panel compares average win rates ( 和 了 率) and deal-in rates ( 放 銃
 率) for diﬀerent ranks. Notice that the average win rate is relatively
 
-// Gambar Grafik Copy dari PDF //
+![enamratus](/image/performance-statistics.png)
 
 Figure 2.1: Average hand-performance statistics
 Note: These graphs show the hand-performance statistics reported in a table on the
