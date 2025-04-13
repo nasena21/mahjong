@@ -1,49 +1,47 @@
 ---
 outline: deep
+title : Reference
 ---
 
-# Runtime API Examples
+# Reference
 
-This page demonstrates usage of some of the runtime APIs provided by VitePress.
+![](/image/manzu/1-man.png)
+![](/image/manzu/2-man.png)
+![](/image/manzu/3-man.png)
+![](/image/manzu/4-man.png)
+![](/image/manzu/5-man.png)
+![](/image/manzu/6-man.png)
+![](/image/manzu/7-man.png)
+![](/image/manzu/8-man.png)
+![](/image/manzu/9-man.png)
+![](/image/akadora/5-man.png) 
 
-The main `useData()` API can be used to access site, theme, and page data for the current page. It works in both `.md` and `.vue` files:
+![](/image/pinzu/1-pin.png)
+![](/image/pinzu/2-pin.png)
+![](/image/pinzu/3-pin.png)
+![](/image/pinzu/4-pin.png)
+![](/image/pinzu/5-pin.png)
+![](/image/pinzu/6-pin.png)
+![](/image/pinzu/7-pin.png)
+![](/image/pinzu/8-pin.png)
+![](/image/pinzu/9-pin.png)
+![](/image/akadora/5-pin.png)  <!-- Akadora -->
 
-```md
-<script setup>
-import { useData } from 'vitepress'
+![](/image/souzu/1-sou.png)
+![](/image/souzu/2-sou.png)
+![](/image/souzu/3-sou.png)
+![](/image/souzu/4-sou.png)
+![](/image/souzu/5-sou.png)
+![](/image/souzu/6-sou.png)
+![](/image/souzu/7-sou.png)
+![](/image/souzu/8-sou.png)
+![](/image/souzu/9-sou.png)
+![](/image/akadora/5-sou.png)  <!-- Akadora -->
 
-const { theme, page, frontmatter } = useData()
-</script>
-
-## Results
-
-### Theme Data
-<pre>{{ theme }}</pre>
-
-### Page Data
-<pre>{{ page }}</pre>
-
-### Page Frontmatter
-<pre>{{ frontmatter }}</pre>
-```
-
-<script setup>
-import { useData } from 'vitepress'
-
-const { site, theme, page, frontmatter } = useData()
-</script>
-
-## Results
-
-### Theme Data
-<pre>{{ theme }}</pre>
-
-### Page Data
-<pre>{{ page }}</pre>
-
-### Page Frontmatter
-<pre>{{ frontmatter }}</pre>
-
-## More
-
-Check out the documentation for the [full list of runtime APIs](https://vitepress.dev/reference/runtime-api#usedata).
+![](/image/honor/haku.png)
+![](/image/honor/hatsu.png)
+![](/image/honor/chun.png)
+![](/image/honor/ton.png)
+![](/image/honor/nan.png)
+![](/image/honor/sha.png)
+![](/image/honor/pei.png)

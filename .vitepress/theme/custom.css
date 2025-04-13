@@ -73,9 +73,159 @@ img[alt="htiles"] {
   margin-left: 10px;
   margin-right: -28px; /* Slight overlap to simulate real tile spacing */
 }
+
 /* End of the style */
 
 
+/* Style for each tile image INSIDE FIELDSET */
+
+img[alt="FSfirsttile"] {
+  max-height: 60px;
+  display: inline;
+  vertical-align: bottom;
+  margin-top: 10px;
+  margin-left: -5px;
+  margin-right: -18px;
+}
+
+img[alt="FSmidletile"] {
+  max-height: 60px;
+  display: inline;
+  vertical-align: bottom;
+  margin-top: 10px;
+  margin-right: -18px;
+}
+
+img[alt="FSrighttile"] {
+  max-height: 60px;
+  display: inline;
+  vertical-align: bottom;
+  margin-top: 10px;
+}
+
+img[alt="FSonetile"] {
+  max-height: 60px;
+  display: inline;
+  vertical-align: bottom;
+  margin-top: 10px;
+}
+
+img[alt="FSopentile"] {
+  max-height: 60px;
+  display: inline;
+  vertical-align: bottom;
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-right: -18px;
+}
+
+img[alt="FSrighthtiles"] {
+  max-height: 46px;
+  display: inline;
+  vertical-align: bottom;
+  margin-right: -18px; /* Slight overlap to simulate real tile spacing */
+}
+
+.tile-with-caption {
+  display: inline-block;
+  text-align: center;
+  vertical-align: bottom; /* ⬅️ Aligns with other tiles properly */
+  margin-left: 20px;
+  margin-right: -20px;
+  margin-top: 34px;
+}
+
+.tile-with-caption img[alt="FSopentile"] {
+  max-height: 60px;
+  display: block;
+  margin: 0 auto;
+}
+
+/* End of the style */
+
+/* Style Fieldset with redline class */
+
+.redline {
+  border: 2px solid #ff4747;  /* A slightly thicker border for a nice box */
+  border-radius: 6px;
+  padding: 1rem;           /* Padding inside the fieldset */
+  margin: 1.5rem 0;
+  display: flex;
+  flex-wrap: wrap; /* optional if you want tiles to wrap on small screens */
+  justify-content: center; /* centers horizontally */
+  align-items: center; /* centers vertically */
+  text-align: left;
+}
+
+.redline legend {
+  text-align: center;
+  color:#ff4747;
+  font-weight: bold;
+  font-size: 1.1rem;
+  padding: 0 0.5rem;       /* Some spacing around the legend text */
+}
+
+/* End of the style */
+
+
+/* Style Fieldset with mahjong-group class */
+
+.mahjong-group {
+  border: 2px solid #444;  /* A slightly thicker border for a nice box */
+  border-radius: 6px;
+  padding: 1rem;           /* Padding inside the fieldset */
+  margin: 1.5rem 0;
+  display: flex;
+  flex-wrap: wrap; /* optional if you want tiles to wrap on small screens */
+  justify-content: center; /* centers horizontally */
+  align-items: center; /* centers vertically */
+  text-align: left;
+}
+
+.mahjong-group legend {
+  text-align: right;
+  font-weight: bold;
+  font-size: 1.1rem;
+  padding: 0 0.5rem;       /* Some spacing around the legend text */
+}
+
+
+/* End of the style */
+
+
+/* Style Fieldset with no-border class */
+
+.no-border {
+  border: 0px solid #444;  /* A slightly thicker border for a nice box */
+  padding: 1rem;           /* Padding inside the fieldset */
+  margin: 1.5rem 0;
+  display: flex;
+  flex-wrap: wrap; /* optional if you want tiles to wrap on small screens */
+  justify-content: center; /* centers horizontally */
+  align-items: center; /* centers vertically */
+  text-align: left;
+}
+
+.no-border legend {
+  text-align: right;
+  font-weight: bold;
+  font-size: 1.1rem;
+  padding: 0 0.5rem;       /* Some spacing around the legend text */
+}
+
+.no-border-margin {
+  border: 0px solid #444;  /* A slightly thicker border for a nice box */
+  padding: 1rem;           /* Padding inside the fieldset */
+  margin: 1.5rem 0;
+  margin-top: -50px;
+  display: flex;
+  flex-wrap: wrap; /* optional if you want tiles to wrap on small screens */
+  justify-content: center; /* centers horizontally */
+  align-items: center; /* centers vertically */
+  text-align: left;
+}
+
+/* End of the style */
 
 img[alt="tiles"] {
   max-height: 60px;
@@ -109,19 +259,6 @@ img[alt="small"] {
   margin: 0 auto;
 }  
 
-.mahjong-group {
-  border: 2px solid #444;  /* A slightly thicker border for a nice box */
-  border-radius: 6px;
-  padding: 1rem;           /* Padding inside the fieldset */
-  margin: 1.5rem 0;
-}
-
-.mahjong-group legend {
-  font-weight: bold;
-  font-size: 1.1rem;
-  padding: 0 0.5rem;       /* Some spacing around the legend text */
-}
-
 .tile-category {
   margin: 1rem 0;          /* Spacing between categories */
 }
@@ -144,8 +281,9 @@ img[alt="small"] {
   height: 70px;
 }
 
-legend {
-  text-align: center; /* or left, right */
+
+.righto {
+  text-align: right; /* or left, right */
 }
 
 .honor-tiles {
@@ -161,6 +299,7 @@ legend {
   font-size: 1.2rem;
   padding: 0 0.5rem;
 }
+
 
 .tile-table {
   width: 100%;
@@ -193,4 +332,12 @@ legend {
   height: 70px;
   display: block;
   margin: 0 auto 0.3rem;
+}
+
+
+.discard-question {
+  width: 100%;
+  text-align: left;
+  margin-top: 12px;
+  padding-top: 8px;
 }

@@ -90,3 +90,51 @@ closed wait, 55, 76, 177
 dual pon wait, 76, 177
 edge wait, 55, 76, 177
 semi side wait, 76, 177
+
+---
+outline: deep
+title : Reference
+---
+
+# Reference
+
+![changetile](/image/manzu/1-man.png)
+![changetile](/image/manzu/2-man.png)
+![changetile](/image/manzu/3-man.png)
+![changetile](/image/manzu/4-man.png)
+![changetile](/image/manzu/5-man.png)
+![changetile](/image/manzu/6-man.png)
+![changetile](/image/manzu/7-man.png)
+![changetile](/image/manzu/8-man.png)
+![changetile](/image/manzu/9-man.png)
+![changetile](/image/akadora/5-man.png) 
+
+![changetile](/image/pinzu/1-pin.png)
+![changetile](/image/pinzu/2-pin.png)
+![changetile](/image/pinzu/3-pin.png)
+![changetile](/image/pinzu/4-pin.png)
+![changetile](/image/pinzu/5-pin.png)
+![changetile](/image/pinzu/6-pin.png)
+![changetile](/image/pinzu/7-pin.png)
+![changetile](/image/pinzu/8-pin.png)
+![changetile](/image/pinzu/9-pin.png)
+![changetile](/image/akadora/5-pin.png)  <!-- Akadora -->
+
+![changetile](/image/souzu/1-sou.png)
+![changetile](/image/souzu/2-sou.png)
+![changetile](/image/souzu/3-sou.png)
+![changetile](/image/souzu/4-sou.png)
+![changetile](/image/souzu/5-sou.png)
+![changetile](/image/souzu/6-sou.png)
+![changetile](/image/souzu/7-sou.png)
+![changetile](/image/souzu/8-sou.png)
+![changetile](/image/souzu/9-sou.png)
+![changetile](/image/akadora/5-sou.png)  <!-- Akadora -->
+
+![changetile](/image/honor/haku.png)
+![changetile](/image/honor/hatsu.png)
+![changetile](/image/honor/chun.png)
+![changetile](/image/honor/ton.png)
+![changetile](/image/honor/nan.png)
+![changetile](/image/honor/sha.png)
+![changetile](/image/honor/pei.png)
