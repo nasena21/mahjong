@@ -1,85 +1,100 @@
 # Markdown Extension Examples
 
-This page demonstrates some of the built-in markdown extensions provided by VitePress.
+<img src="/image/honor/pei1.png">
 
-## Syntax Highlighting
+<img src="/image/honor/pei.png">
 
-VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shikijs/shiki), with additional features like line-highlighting:
 
-**Input**
+<fieldset class="auto-shrink">
 
-````md
-```js{4}
-export default {
-  data () {
-    return {
-      msg: 'Highlighted!'
-    }
-  }
-}
-```
-````
+  <div class="timg">
+    <img src="/image/honor/pei1.png">
+  </div>
+  <div class="timg">
+    <img src="/image/honor/pei.png">
+  </div>
+  <div class="timg">
+    <img src="/image/manzu/5-man.png">
+  </div>
+  <div class="timg">
+    <img src="/image/manzu/5-man.png">
+  </div>
+  <div class="timg">
+    <img src="/image/manzu/5-man.png">
+  </div>
+  <div class="timg">
+    <img src="/image/manzu/5-man.png">
+  </div>
+  <div class="timg">
+    <img src="/image/manzu/5-man.png">
+  </div>
+  <div class="timg">
+    <img src="/image/manzu/5-man.png">
+  </div>
+  <div class="timg">
+    <img src="/image/manzu/5-man.png">
+  </div>
+  <div class="timg">
+    <img src="/image/manzu/5-man.png">
+  </div>
+  <div class="timg">
+    <img src="/image/manzu/5-man.png">
+  </div>
+  
 
-**Output**
+</fieldset>
 
-```js{4}
-export default {
-  data () {
-    return {
-      msg: 'Highlighted!'
-    }
-  }
-}
-```
 
-## Custom Containers
+<fieldset class="auto-shrink">
+<legend>Answer 2</legend>
 
-**Input**
 
-```md
-::: info
-This is an info box.
-:::
+<div class="underline">
 
-::: tip
-This is a tip.
-:::
+![FSfirsttile](/image/manzu/5-man.png)
+![FSmidletile](/image/manzu/7-man.png)
+</div>
 
-::: warning
-This is a warning.
-:::
+<img src="/image/pinzu/1-pin.png" alt="FSmidletile">
 
-::: danger
-This is a dangerous warning.
-:::
 
-::: details
-This is a details block.
-:::
-```
 
-**Output**
+<div class="underline">
 
-::: info
-This is an info box.
-:::
+![FSmidletile](/image/pinzu/1-pin.png)
+![FSmidletile](/image/pinzu/2-pin.png)
+![FSmidletile](/image/pinzu/3-pin.png)
+</div>
 
-::: tip
-This is a tip.
-:::
+<div class="underline">
 
-::: warning
-This is a warning.
-:::
+![FSmidletile](/image/pinzu/4-pin.png)
+![FSmidletile](/image/pinzu/4-pin.png)
+![FSmidletile](/image/pinzu/4-pin.png)
+</div>
 
-::: danger
-This is a dangerous warning.
-:::
+<div class="underline">
 
-::: details
-This is a details block.
-:::
+![FSmidletile](/image/pinzu/5-pin.png)
+![FSmidletile](/image/pinzu/7-pin.png)
+</div>
 
-## More
+<div class="underline">
 
-Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown).
+![FSmidletile](/image/souzu/3-sou.png)
+![FSmidletile](/image/souzu/5-sou.png)
+![FSmidletile](/image/souzu/5-sou.png)
+</div>
+
+<div class="discard-question">With the draw of <img src="/image/pinzu/4-pin.png" alt="onetile">, we now have a 3-way side-wait block in
+souzu (bamboos). 
+<img src="/image/pinzu/3-pin.png" alt="onetile"> or 
+<img src="/image/pinzu/7-pin.png" alt="onetile"> could be our back-up candidate for
+the head, in case we draw another 
+<img src="/image/manzu/6-man.png" alt="onetile">. Since there is a potential
+for sanshoku (Mixed Triple Chow) of 345, we discard 
+<img src="/image/pinzu/3-pin.png" alt="onetile">
+.</div>
+
+</fieldset>
+

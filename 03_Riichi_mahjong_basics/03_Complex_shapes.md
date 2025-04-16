@@ -51,9 +51,7 @@ When two closed-wait protoruns are combined, we have a double
 closed (ryankan) shape. There are ﬁve diﬀerent patterns in each
 suit, as follows.
 
-
 <div class="no-border">
-
 
 ![FSmidletile](/image/souzu/1-sou.png)
 ![FSmidletile](/image/souzu/2-sou.png)
