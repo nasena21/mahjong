@@ -12,6 +12,13 @@
   margin-top: 10px;
 }
 
+img[alt="singletile"] {  
+  max-height: 40px;
+  display: inline;
+  vertical-align: bottom;
+  margin-top: 10px;
+}
+
 img[alt="drawtile"] {  
   max-height: 60px; 
   display: inline;

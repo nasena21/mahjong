@@ -12,10 +12,37 @@ Pungs). Speciﬁcally, what should we do when one of the pairs in
 a 1-away chiitoitsu hand becomes a set? Assuming you are the
 South player in the 6th turn in East-1, consider the following hand.
 
-Toitoi vs. chiitoitsu
-ﬀﬀﬁﬁ¸‚‚˝˝ˇ$$" ‚
-Draw
-What would you discard?
+
+
+
+<fieldset class="excercise">
+<legend class="right-align">Toitoi vs. chiitoitsu</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">What would you discard?</div>
+
+</fieldset>
+
 
 If we discard ‚ that we drew, the hand is 1-away from ready for
 chiitoitsu, accepting ¸ˇ" (3 kinds–9 tiles). On the other hand,
@@ -27,12 +54,22 @@ the hand also 2-away from ready for toitoi and possibly su anko
 Judgement criteria for a choice of this kind are summarized as fol-
 lows.
 
-Toitoi vs. chiitoitsu
+
+<fieldset class="redline">
+  <legend>Toitoi vs. chiitoitsu</legend>
+
 Choose chiitoitsu in the following situations.
 1. There is a futile pair in your hand.
 2. There is no pair of value tiles in your hand.
 3. There are three or more pairs of simple tiles between 3 and
 7 in your hand.
+
+</fieldset>
+
+
+
+
+
 
 
 The ﬁrst condition is by far the most important one. With the current
@@ -50,14 +87,54 @@ with toitoi; with two pairs of them, you can aim for mangan.
 The third factor to consider is whether there are not three or more
 pairs of simple tiles between 3 and 7. Consider the following hand.
 
-ȷﬀﬀ##$%
+
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+</fieldset>
+
 
 Suppose you start melding by calling pon on #,
 5
 then get another
 pon on , resulting in the following hand.
 
-ﬀﬀ% * #K#
+
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+</fieldset>
+
 
 Since the remaining three pairs are all simple tiles between 3 and 7,
 the hand advancement often stops here. Because of their high versatility,
@@ -69,10 +146,37 @@ Another kind of crossroad is between chiitoitsu and standard
 hand. Assuming you are the South player in the 6th turn in East-1,
 consider the following hand.
 
-Pinfu vs. chiitoitsu
-ȷȷ"" 
-Draw
-What would you discard?
+
+
+
+<fieldset class="excercise">
+<legend class="right-align">Pinfu vs. chiitoitsu</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">What would you discard?</div>
+
+</fieldset>
+
 
 As we draw , we now have ﬁve pairs in the hand, making it 1-away
 from ready for chiitoitsu. However, the hand is also 2-away from
@@ -82,16 +186,57 @@ When a hand has this many side-wait protoruns, it makes more
 sense to view it as a standard hand rather than as a chiitoitsu hand.
 To ﬁgure out what tile to discard, let’s apply the ﬁve-block method.
 
-ȷȷ
-
-
-
-""
-| {z }
-2
-|{z}
-|{z}
-| {z }
+
+<fieldset class="no-border">
+
+<div class="garisbawah">
+    <div class="empty-container">
+        <img class="drawtile" src="/image/tiles/5-man.png">
+        <img class="drawtile" src="/image/tiles/6-man.png">
+    </div>
+    <hr class="my-line">
+</div>
+
+<div class="garisbawah">
+    <div class="empty-container">
+        <img class="drawtile" src="/image/tiles/6-man.png">
+        <img class="drawtile" src="/image/tiles/8-man.png">
+    </div>
+    <hr class="my-line">
+</div>
+
+<div class="garisbawah">
+    <div class="empty-container">
+        <img class="drawtile" src="/image/tiles/1-pin.png">
+        <img class="drawtile" src="/image/tiles/2-pin.png">
+        <img class="drawtile" src="/image/tiles/2-pin.png">
+    </div> 
+    <hr class="my-line">  
+</div>
+<div class="garisbawah">
+    <div class="empty-container">
+        <img class="drawtile" src="/image/tiles/6-pin.png">
+    </div>
+</div>
+<div class="garisbawah">
+    <div class="empty-container">
+        <img class="drawtile" src="/image/tiles/1-sou.png">
+        <img class="drawtile" src="/image/tiles/1-sou.png">
+    </div>
+    <hr class="my-line">
+</div>
+<div class="garisbawah">
+    <div class="empty-container">
+        <img class="drawtile" src="/image/tiles/4-sou.png">
+        <img class="drawtile" src="/image/tiles/5-sou.png">
+        <img class="drawtile" src="/image/tiles/6-sou.png">
+        <img class="drawtile" src="/image/tiles/7-sou.png">
+    </div>
+    <hr class="my-line">
+</div>
+
+</fieldset>
+
 
 Since we already have ﬁve tile blocks in simple tiles, the pair of " is
 redundant. Discarding " means we are giving up on chiitoitsu,
@@ -105,10 +250,37 @@ has several pairs, you should pursue a pair-based (set-based) hand
 rather than a run-based hand. Assuming you are the South player in
 the 6th turn in East-1, consider the following hand.
 
-Run-based hand vs. set-based hand
-		ﬄ # #
-Draw
-What would you discard?
+
+
+
+<fieldset class="excercise">
+<legend class="right-align">Run-based hand vs. set-based hand</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">What would you discard?</div>
+
+</fieldset>
+
 
 Although the hand has one side-wait protorun, we would not be very
 happy if it were to evolve into a complete run; we may end up with a
@@ -116,14 +288,57 @@ very cheap hand with a bad wait. Alternatively, you should pursue
 chiitoitsu or toitoi with a hand like this. Let’s apply the ﬁve-block
 method to ﬁgure out what tile to discard.
 
-
-
-		
-ﬄ 
-|{z}
-|{z}
-|{z}
-|{z}
+
+<fieldset class="no-border">
+
+<div class="garisbawah">
+    <div class="empty-container">
+        <img class="drawtile" src="/image/tiles/5-man.png">
+        <img class="drawtile" src="/image/tiles/6-man.png">
+    </div>
+    <hr class="my-line">
+</div>
+
+<div class="garisbawah">
+    <div class="empty-container">
+        <img class="drawtile" src="/image/tiles/6-man.png">
+        <img class="drawtile" src="/image/tiles/8-man.png">
+    </div>
+    <hr class="my-line">
+</div>
+
+<div class="garisbawah">
+    <div class="empty-container">
+        <img class="drawtile" src="/image/tiles/1-pin.png">
+        <img class="drawtile" src="/image/tiles/2-pin.png">
+        <img class="drawtile" src="/image/tiles/2-pin.png">
+    </div> 
+    <hr class="my-line">  
+</div>
+<div class="garisbawah">
+    <div class="empty-container">
+        <img class="drawtile" src="/image/tiles/6-pin.png">
+    </div>
+</div>
+<div class="garisbawah">
+    <div class="empty-container">
+        <img class="drawtile" src="/image/tiles/1-sou.png">
+        <img class="drawtile" src="/image/tiles/1-sou.png">
+    </div>
+    <hr class="my-line">
+</div>
+<div class="garisbawah">
+    <div class="empty-container">
+        <img class="drawtile" src="/image/tiles/4-sou.png">
+        <img class="drawtile" src="/image/tiles/5-sou.png">
+        <img class="drawtile" src="/image/tiles/6-sou.png">
+        <img class="drawtile" src="/image/tiles/7-sou.png">
+    </div>
+    <hr class="my-line">
+</div>
+
+</fieldset>
+
 
 Since we intend to build four blocks using the four pairs in the hand,
 we only need one more block from the rest of the tiles: ﬄ .

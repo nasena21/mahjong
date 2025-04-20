@@ -11,10 +11,35 @@ pinfu are rather demanding. The key to getting pinfu is to build
 side-wait protoruns even at the cost of tile eﬃciency. Consider the
 following hand.
 
-Pinfu 1
-—‌ııﬁﬂ‹”„ˆ˜¨˚ –
-Draw
-What would you discard?
+
+
+<fieldset class="excercise">
+<legend class="right-align">Pinfu 1</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">What would you discard?</div>
+
+</fieldset>
 
 We already have ﬁve tile blocks in this hand. From a pure tile eﬃ-
 ciency perspective, discarding one of the two ﬂoating tiles ‹ or ˚
@@ -27,10 +52,35 @@ Suppose we discarded ﬁ, then we drew ›, after which we dis-
 carded ﬂ. Now the hand is 1-away again, this time with two side-
 wait protoruns. Suppose further that we drew !.
 
-Pinfu 2
-–—‌ıı‹›”„ˆ˜¨˚ !
-Draw
-What would you discard?
+
+
+<fieldset class="excercise">
+<legend class="right-align">Pinfu 2</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">What would you discard?</div>
+
+</fieldset>
 
 We should keep! as a safe tile and discard˚. It is true that keeping
 ˚ has an advantage; if we draw ˝, we will get a 3-way side-wait
@@ -57,11 +107,35 @@ There is one exception to this, however. If the ﬂoating tile leaves
 a possibility of enhancing the hand value by at least three han, it is
 OK to keep it instead of a safety tile. Consider the following hand.
 
-Pinfu 3
-‌ﬀ
- ! 
-Draw Dora
-What would you discard?
+
+
+<fieldset class="excercise">
+<legend class="right-align">Pinfu 3</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">What would you discard?</div>
+
+</fieldset>
 
 Keeping ! is safer, but keeping  leaves the possibilities of getting
 ittsu and having dora, possibly at the same time. In this case, we
@@ -75,10 +149,35 @@ wind tiles lightly when having a pinfu hand. Keep this in mind especially
 when a hand is lacking any pair. Assuming you are the South
 player in the 1st turn in East-1, consider the following hand.
 
-Pinfu 4
-ȷ
-!$
-What would you discard?
+
+
+<fieldset class="excercise">
+<legend class="right-align">Pinfu 4</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">What would you discard?</div>
+
+</fieldset>
 
 The hand has a potential to have pinfu, so we should not discard any
 of ! at this point. All of these three tiles may appear useless,

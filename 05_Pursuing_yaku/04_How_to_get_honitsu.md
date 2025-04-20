@@ -24,19 +24,91 @@ has ﬁve tile blocks or block candidates (i.e., ﬂoating tiles) necessary
 for honitsu. Assuming you are the South player in the 6th turn in
 East-1, consider the following hand.
 
-Honitsu 1
-–ııﬀﬂ„ˆ¨ﬄﬄ!%%
-Would you go for honitsu?
+
+
+
+<fieldset class="excercise">
+<legend class="right-align">Honitsu 1</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">Would you go for honitsu?</div>
+
+</fieldset>
+
 
 In order to ﬁgure out if it is practical to pursue honitsu with this
 hand, let’s apply the ﬁve-block method.
 
-ıı
-|{z} ﬀﬂ
-|{z} ﬄﬄ
-|{z} %%
-|{z} –!
-|{z} „ˆ¨
+
+<fieldset class="no-border">
+<div class="garisbawah">
+    <div class="empty-container">
+        <img class="drawtile" src="/image/tiles/6-man.png">
+        <img class="drawtile" src="/image/tiles/7-man.png">
+        <img class="drawtile" src="/image/tiles/7-man.png">
+        <img class="drawtile" src="/image/tiles/8-man.png">
+    </div>
+    <hr class="my-line">
+    <div class="decrease-margin-top">2</div>
+</div>
+<div class="garisbawah">
+    <div class="empty-container">
+        <img class="drawtile" src="/image/tiles/3-pin.png">
+        <img class="drawtile" src="/image/tiles/3-pin.png">
+        <img class="drawtile" src="/image/tiles/4-pin.png">
+    </div>
+    <hr class="my-line">
+</div>
+<div class="garisbawah">
+    <div class="empty-container">
+        <img class="drawtile" src="/image/tiles/9-pin.png">
+    </div>   
+</div>
+<div class="garisbawah">
+    <div class="empty-container">
+        <img class="drawtile" src="/image/tiles/4-sou.png">
+    </div>
+</div>
+<div class="garisbawah">
+    <div class="empty-container">
+        <img class="drawtile" src="/image/tiles/7-sou.png">
+        <img class="drawtile" src="/image/tiles/8-sou.png">
+        <img class="drawtile" src="/image/tiles/9-sou.png">
+    </div>
+    <hr class="my-line">
+</div>
+<div class="garisbawah">
+    <div class="empty-container">
+        <img class="drawtile" src="/image/tiles/chun.png">
+    </div>
+</div>
+<div class="garisbawah">
+    <div class="empty-container">
+        <img class="drawtile" src="/image/tiles/pei.png">
+    </div>
+</div>
+</fieldset>
+
 
 We can count on the two pairs of fanpai, ﬄﬄ and %%, to be two
 tile blocks, a pair of  and a protorun ﬀ to be another two
@@ -54,9 +126,45 @@ may still want to go for honitsu. For example, with the following
 two hands, you should go for honitsu even though doing so means
 you have to discard a side-wait protorun or a pair.
 
-‌
-!###
-	ﬄ  "%
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+</fieldset>
+
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+</fieldset>
 
 2. Hand value
 
@@ -68,9 +176,36 @@ such situations, you should not aim for honitsu; you should try to
 make the hand ready without melding and go for riichi. Assuming
 you are the South player in East-1, consider the following hand.
 
-Honitsu 2
-ȷ!!""
-Would you go for honitsu?
+
+
+<fieldset class="excercise">
+<legend class="right-align">Honitsu 2</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">Would you go for honitsu?</div>
+
+</fieldset>
+
 
 Since West and North are both valueless wind tiles, this hand is likely
 to become honitsu-only if you decide to go for honitsu. Although
@@ -83,11 +218,36 @@ At the same time, when the hand value is suﬃciently high (
 tile eﬃciency. Assuming you are the South player in East-1, consider
 the following hand.
 
-Honitsu 3
-Red
-ﬀ
-$$$!   H
-What would you discard?
+
+
+<fieldset class="excercise">
+<legend class="right-align">Honitsu 3</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">What would you discard?</div>
+
+</fieldset>
+
 
 This hand is worth 5200 points without honitsu (Seat Wind + Green
 Dragon + red ﬁve), so you should discard ﬀ to maintain a side &
@@ -99,9 +259,36 @@ When pursuing honitsu, pay attention to the order of your discards.
 Consider the following hand. You called pon on # just now,
 deciding what to discard.
 
-Honitsu 4
-ȷ""% ##K
-What would you discard?
+
+
+<fieldset class="excercise">
+<legend class="right-align">Honitsu 4</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">What would you discard?</div>
+
+</fieldset>
+
 
 You should pursue honitsu, so  are your discard candidates.
 You will discard all three of them eventually, but you should discard
@@ -120,42 +307,182 @@ possibility of achieving the maximum hand value. Assuming you
 are the South player in the 6th turn in East-1, consider the following
 hand.
 
-Honitsu 5
-
-!""$$
-Which tile would you call?
+
+
+<fieldset class="excercise">
+<legend class="right-align">Honitsu 5</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">Which tile would you call?</div>
+
+</fieldset>
+
+
 
 With this hand, do not start melding with a chii of  or a pon of
 " if you are playing without red ﬁves; you may end up with a very
 cheap (2000 points) honitsu-only hand. Suppose you managed to
 call pon on $, resulting in the following hand.
 
-
-!"" $L$
+
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+</fieldset>
+
 
 Calling chii on  or pon on " is still not ideal. The only melding
 you should do is to call chii on  to have the following hand.
-!"" 3
- $L$
+
+
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+</fieldset>
+
 
 Notice that the two ﬂoating tiles  ! allow us to envision two
 possibilities of getting a 7700 hand. On the one hand, if you draw
 ! or call pon on ", you get honitsu + Green Dragon + chanta
 (Outside Hand), as follows.
 
-!!"" 3
- $L$
 
-! ""J 3
- $L$
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+</fieldset>
+
+
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+</fieldset>
+
 
 On the other hand, if you draw  or , the hand will be ready
 for honitsu + Green Dragon + ittsu.
 
-"" 3
- $L$
-"" 3
- $L$
+
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+</fieldset>
+
+
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+</fieldset>
 
 ## Footnotes
 4
