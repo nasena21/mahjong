@@ -24,24 +24,44 @@ ing on whether it is a concealed one or an open one. Table 6.6 sum-
 marizes minipoint contributions from a set and a quad.
 
 Table 6.6: Minipoint contributions from a set and a quad
-Tile
-Minipoint
-Open
-Concealed
-set
-simple
-2
-4
-terminal/honor
-4
-8
-quad
-simple
-8
-16
-terminal/honor
-16
-32
+
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2"></th>
+      <th rowspan="2">Tile</th>
+      <th colspan="2">Minipoint</th>
+    </tr>
+    <tr>
+      <th>Open</th>
+      <th>Concealed</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">set</td>
+      <td>simple</td>
+      <td>2</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>terminal/honor</td>
+      <td>4</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td rowspan="2">quad</td>
+      <td>simple</td>
+      <td>8</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td>terminal/honor</td>
+      <td>16</td>
+      <td>32</td>
+    </tr>
+  </tbody>
+</table>
 
 
 Finally, we add 2 minipoints for each of the following, if any.
@@ -59,7 +79,26 @@ in 3.4, we may get diﬀerent minipoints depending on which of the
 multiple winning tiles to win on. For example, consider the following
 hand.
 
-‌ȷ%%% +
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+</fieldset>
+
 
 The hand is waiting for -. If we win by ron on , we get no
 minipoints for the wait and so this hand has 30 minipoints (base 20
@@ -84,20 +123,48 @@ in 6.5. Recall that the score for a 1 han–50 minipoints hand
 should be the same as that for a 2 han–25 minipoints hand.
 
 Table 6.7: Scores for 50 minipoints
-Han
-Ron
-Tsumo
-Non-dealer Dealer Non-dealer Dealer
-1
-1600 2400
-400-800
-800-all
-2
-3200 4800 800-1600 1600-all
-3
-6400 9600 1600-3200 3200-all
-4+
-limit hand
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2">Han</th>
+      <th colspan="2">Ron</th>
+      <th colspan="2">Tsumo</th>
+    </tr>
+    <tr>
+      <th>Non-dealer</th>
+      <th>Dealer</th>
+      <th>Non-dealer</th>
+      <th>Dealer</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>1600</td>
+      <td>2400</td>
+      <td>400–800</td>
+      <td>800–all</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>3200</td>
+      <td>4800</td>
+      <td>800–1600</td>
+      <td>1600–all</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>6400</td>
+      <td>9600</td>
+      <td>1600–3200</td>
+      <td>3200–all</td>
+    </tr>
+    <tr>
+      <td>4+</td>
+      <td colspan="4">limit hand</td>
+    </tr>
+  </tbody>
+</table>
 
 70 minipoints
 
@@ -118,33 +185,107 @@ For the sake of completeness, Table 6.9 summarizes scores for 110
 minipoints.
 
 Table 6.8: Scores for 70 minipoints
-Han
-Ron
-Tsumo
-Non-dealer Dealer Non-dealer Dealer
-1
-2300 3400 600-1200 1200-all
-2
-4500 6800 1200-2300 2300-all
-3+
-limit hand
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2">Han</th>
+      <th colspan="2">Ron</th>
+      <th colspan="2">Tsumo</th>
+    </tr>
+    <tr>
+      <th>Non-dealer</th>
+      <th>Dealer</th>
+      <th>Non-dealer</th>
+      <th>Dealer</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2300</td>
+      <td>3400</td>
+      <td>600–1200</td>
+      <td>1200–all</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>4500</td>
+      <td>6800</td>
+      <td>1200–2300</td>
+      <td>2300–all</td>
+    </tr>
+    <tr>
+      <td>3+</td>
+      <td colspan="4">limit hand</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
 Table 6.9: Scores for 110 minipoints
-Han
-Ron
-Tsumo
-Non-dealer Dealer Non-dealer Dealer
-1
-3600 5300
-— —
-2
-7100 10600 1800-3600 3600-all
-3+
-limit hand
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2">Han</th>
+      <th colspan="2">Ron</th>
+      <th colspan="2">Tsumo</th>
+    </tr>
+    <tr>
+      <th>Non-dealer</th>
+      <th>Dealer</th>
+      <th>Non-dealer</th>
+      <th>Dealer</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>3600</td>
+      <td>5300</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>7100</td>
+      <td>10600</td>
+      <td>1800–3600</td>
+      <td>3600–all</td>
+    </tr>
+    <tr>
+      <td>3+</td>
+      <td colspan="4">limit hand</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 110 minipoints occur only in extremely rare occasions. Consider
 the following hand.
 
-ﬄﬄ%% ﬃﬃ ﬃ		ﬃ
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+</fieldset>
+
 
 Suppose you are in the East round. If the dealer wins this hand by
 ron on %, he gets 20 (base) + 10 (closed hand ron) + 4 (pair of seat &
@@ -163,9 +304,30 @@ Let’s see how scores change as we advance a hand. For each of
 the examples below, try calculating the scores for diﬀerent winning
 tiles and for tsumo and ron.
 
-Scoring 1
-‌%%%
-What are the scores?
+
+
+<fieldset class="excercise">
+<legend class="right-align">Scoring 1</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+<div class="discard-question">What are the scores?</div>
+
+</fieldset>
+
+
 
 If you win this hand by ron, the hand has 1 han (Red Dragon) and
 40 minipoints: 20 (base) + 10 (closed hand ron) + 8 (concealed set
@@ -182,8 +344,32 @@ closed wait: . You thus get 700-1300 tsumo = 2700 points.
 
 Let’s say you draw . What would you discard?
 
-‌%%% 
-Draw
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+</fieldset>
+
 
 If you discard , the wait is 
 - (2 kinds–7 tiles). If you discard
@@ -191,9 +377,28 @@ If you discard , the wait is
 say you choose the latter, resulting in the following hand. Now, let’s
 think about the scores for each winning tile.
 
-Scoring 2
-‌%%%
-What are the scores?
+
+<fieldset class="excercise">
+<legend class="right-align">Scoring 2</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+<div class="discard-question">What are the scores?</div>
+
+</fieldset>
+
 
 If you win this hand on , the hand is still 1 han–40 minipoints =
 1300. However, if you win on  or , the three tiles of  within
@@ -204,15 +409,56 @@ the hand are treated as a concealed set, giving you 4 additional minipoints:
 get 700-1300 = 2700 points.
 
 Let’s say you draw ‌. What would you discard?
-‌%%% ‌
-Draw
 
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+</fieldset>
 If you discard , the wait is -. Let’s think about the scores for
 each winning tile.
 
-Scoring 3
-‌‌%%%
-What are the scores?
+
+<fieldset class="excercise">
+<legend class="right-align">Scoring 3</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+<div class="discard-question">What are the scores?</div>
+
+</fieldset>
+
 
 If you win the hand by ron on , you get an additional yaku, iipeiko
 (Pure Double Chow), giving you 2 han–40 minipoints = 2600 points.
@@ -224,15 +470,57 @@ get 3 han–30 minipoints if you draw  (1000-2000 tsumo = 4000).
 
 Let’s say you draw . What would you discard?
 
-‌‌%%% 
-Draw
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+</fieldset>
 
 Discardingis the best option. To understand why, let’s think about
 the scores.
 
-Scoring 4
-‌‌%%%
-What are the scores?
+
+<fieldset class="excercise">
+<legend class="right-align">Scoring 4</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+<div class="discard-question">What are the scores?</div>
+
+</fieldset>
+
 
 Notice that the wait and the potential han counts did not change at
 all. However, you get increased minipoints because you now have
@@ -241,15 +529,57 @@ the concealed set of  back again. You will get 2 han–50 minipoints
 3 han–40 minipoints, giving you 1300-2600 tsumo = 5200 points.
 
 Let’s say you draw another . What would you discard?
-‌‌%%% 
-Draw
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+</fieldset>
 
 The best discard is , which makes this hand a toitoi (All Pungs)
 hand, as follows.
 
-Scoring 5
-‌‌%%%
-What are the scores?
+
+<fieldset class="excercise">
+<legend class="right-align">Scoring 5</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+<div class="discard-question">What are the scores?</div>
+
+</fieldset>
+
 
 The hand has three concealed sets already, giving you at least san
 anko (Three Concealed Pungs) in addition to toitoi and Red Dragon.

@@ -40,29 +40,67 @@ mangan tsumo (8000), the dealer pays 4000 and non-dealers pay 2000
 each.
 
 Table 6.1: Scores for limit hands
-Han Name
-Ron
-Tsumo
-Non-dealer Dealer Non-dealer
-Dealer
-5
-mangan
-8000 12000 2000-4000
-4000-all
-6–7
-haneman
-12000 18000 3000-6000
-6000-all
-8–10 baiman
-16000 24000 4000-8000
-8000-all
-11–12 sanbaiman
-24000 36000 6000-12000
-12000-all
-13+ yakuman
-32000 48000 8000-16000
-16000-all
- A hand with 13+ han is scored as a sanbaiman with the revised EMA rules.
+
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2">Han</th>
+      <th rowspan="2">Name</th>
+      <th colspan="2">Ron</th>
+      <th colspan="2">Tsumo</th>
+    </tr>
+    <tr>
+      <th>Non-dealer</th>
+      <th>Dealer</th>
+      <th>Non-dealer</th>
+      <th>Dealer</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>5</td>
+      <td><i>mangan</i></td>
+      <td><b>8000</b></td>
+      <td>12000</td>
+      <td>2000–4000</td>
+      <td>4000-all</td>
+    </tr>
+    <tr>
+      <td>6–7</td>
+      <td><i>haneman</i></td>
+      <td>12000</td>
+      <td>18000</td>
+      <td>3000–6000</td>
+      <td>6000-all</td>
+    </tr>
+    <tr>
+      <td>8–10</td>
+      <td><i>baiman</i></td>
+      <td>16000</td>
+      <td>24000</td>
+      <td>4000–8000</td>
+      <td>8000-all</td>
+    </tr>
+    <tr>
+      <td>11–12</td>
+      <td><i>sanbaiman</i></td>
+      <td>24000</td>
+      <td>36000</td>
+      <td>6000–12000</td>
+      <td>12000-all</td>
+    </tr>
+    <tr>
+      <td>13+<sup>*</sup></td>
+      <td><i>yakuman</i></td>
+      <td>32000</td>
+      <td>48000</td>
+      <td>8000–16000</td>
+      <td>16000-all</td>
+    </tr>
+  </tbody>
+</table>
+
+* A hand with 13+ han is scored as a sanbaiman with the revised EMA rules.
 
 2. Figuring out the minipoints
 When a hand has four or less han, you have to know the minipoints.
@@ -78,33 +116,27 @@ If it is not, you then check if the hand has one or more quads (kongs).
 If it does, the hand is out of the scope of the basic methods. Ask for
 help from more experienced players after winning the hand. 
 
-Shortcut for minipoint calculation
-1. chiitoitsu
-)
-always 25 minipoints
-2. A hand has one or more quads
-)
-Don’t bother.
-3. toitoi
-)
-almost always 40 minipoints
-4. Pinfu
-- ron
-)
-always 30 minipoints
-- tsumo
-)
-always 20 minipoints
-5. Closed hand without pinfu
-- ron
-)
-almost always 40 minipoints
-- tsumo
-)
-almost always 30 minipoints
-6. Open hand
-)
-almost always 30 minipoints
+
+
+<fieldset class="blackline">
+  <legend>Shortcut for minipoint calculation</legend>
+
+  <p>1. chiitoitsu -> always 25 minipoints</p>
+  <p>2. A hand has one or more quads -> Don’t bother</p>
+  <p>3. toitoi -> almost always 40 minipoints</p>
+  <p>4. Pinfu</p>
+  <p>・ron -> always 30 minipoints</p>
+  <p>・tsumo -> always 20 minipoints</p>
+  <p>5. Closed hand without pinfu</p>
+  <p>・ron -> almost always 40 minipoints</p>
+  <p>・tsumo -> almost always 30 minipoints</p>
+  <p>6. pen hand -> almost always 30 minipoints</p>
+
+
+</fieldset>
+
+
+
 
 Figure 6.1: Six most observed patterns
 
@@ -152,10 +184,63 @@ quads, a hand is always 40 minipoints if closed and always 30 minipoints
 if open. Therefore, there is really no need of an actual calculation
 of minipoints with hands like the following.
 
-	 %M%
+<fieldset class="no-border">
 
- Gﬄﬄ ‌‌?
-ﬀ	
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+</fieldset>
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+</fieldset>
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+</fieldset>
+
 
 With these hands, we can simply check if it is a closed hand or not to
 determine if each hand has 40 minipoints (closed) or 30 minipoints
@@ -166,7 +251,26 @@ In addition, so-called “open pinfu” hands such as below
 are
 always 30 minipoints. This is one of the two exceptions to minipoint
 calculation. For minipoint calculation, see Section 6.3.
- ?
+
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+</fieldset>
 
 On the other hand, if a hand satisﬁes any of the four conditions
 above, we need to calculate the minipoints by actually counting and
@@ -188,22 +292,58 @@ You get 30 minipoints when you get:
 - open hand ron / tsumo (almost always).
 Scores for 30 minipoints are summarized in Table 6.2.
 Table 6.2: Scores for 30 minipoints
-Han
-Ron
-Tsumo
-Non-dealer Dealer Non-dealer Dealer
-1
-1000 1500
-300-500
-500-all
-2
-2000 2900 500-1000 1000-all
-3
-3900 5800 1000-2000 2000-all
-4
-7700 11600 2000-3900 3900-all
-5+
-limit hand
+
+<table cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th rowspan="2">Han</th>
+      <th colspan="2">Ron</th>
+      <th colspan="2">Tsumo</th>
+    </tr>
+    <tr>
+      <th>Non-dealer</th>
+      <th>Dealer</th>
+      <th>Non-dealer</th>
+      <th>Dealer</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>1000</td>
+      <td>1500</td>
+      <td>300–500</td>
+      <td>500-all</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2000</td>
+      <td>2900</td>
+      <td>500–1000</td>
+      <td>1000-all</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>3900</td>
+      <td>5800</td>
+      <td>1000–2000</td>
+      <td>2000-all</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>7700</td>
+      <td>11600</td>
+      <td>2000–3900</td>
+      <td>3900-all</td>
+    </tr>
+    <tr>
+      <td>5+</td>
+      <td colspan="4" style="text-align: center;">limit hand</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 Compared with the limit hands table (Table 6.1), the regularities
 in the 30 minipoints table are less precise. For example, scores for
@@ -216,10 +356,20 @@ Therefore, it would be more eﬃcient if we just memorize these
 patterns as they are, rather than trying to simplify them. Japanese
 players tend to memorize Table 6.2 column-wise, as follows:
 
-Scores for 30 minipoints
+
+
+<fieldset class="blackline">
+  <legend>Scores for 30 minipoints</legend>
+
 - ron (non-dealer): 10, 20, 39, 77
 - ron (dealer): 15, 29, 58, 116
 - tsumo (non-dealer): 3-5, 5-10, 10-20, 20-39
+
+
+</fieldset>
+
+
+
 
 The beneﬁt of memorizing this score table column-wise is that scores
 get (roughly) twice as big for an additional han. Moreover, if we
@@ -237,28 +387,64 @@ You get 40 minipoints when you get:
 Scores for 40 minipoints are summarized in Table 6.3.
 
 Table 6.3: Scores for 40 minipoints
-Han
-Ron
-Tsumo
-Non-dealer Dealer Non-dealer Dealer
-1
-1300 2000
-400-700
-700-all
-2
-2600 3900 700-1300 1300-all
-3
-5200 7700 1300-2600 2600-all
-4+
-limit hand
+
+<table cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th rowspan="2">Han</th>
+      <th colspan="2">Ron</th>
+      <th colspan="2">Tsumo</th>
+    </tr>
+    <tr>
+      <th>Non-dealer</th>
+      <th>Dealer</th>
+      <th>Non-dealer</th>
+      <th>Dealer</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>1300</td>
+      <td>2000</td>
+      <td>400–700</td>
+      <td>700-all</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2600</td>
+      <td>3900</td>
+      <td>700–1300</td>
+      <td>1300-all</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>5200</td>
+      <td>7700</td>
+      <td>1300–2600</td>
+      <td>2600-all</td>
+    </tr>
+    <tr>
+      <td>4+</td>
+      <td colspan="4" style="text-align: center;">limit hand</td>
+    </tr>
+  </tbody>
+</table>
+
 
 Just like we did with scores for 30 minipoints, I recommend you
 memorize this column-wise.
 
-Scores for 40 minipoints
+<fieldset class="blackline">
+  <legend>Scores for 40 minipoints</legend>
+
 - ron (non-dealer): 13, 26, 52, mangan
 - ron (dealer): 20, 39, 77, mangan
 - tsumo (non-dealer): 4-7, 7-13, 13-26, mangan
+
+
+</fieldset>
+
 
 The good news is that the ron score sequence for non-dealer —13,
 26, 52— is a geometric progression; 13
@@ -279,18 +465,41 @@ It is thus important to know how to get the correct scores for
 this case.
 
 Table 6.4: Scores for 20 minipoints
-Han
-Tsumo
-Non-dealer Dealer
-2
-400-700
-700-all
-3
-700-1300 1300-all
-4
-1300-2600 2600-all
-5+
-limit hand
+
+<table cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th rowspan="2">Han</th>
+      <th colspan="2">Tsumo</th>
+    </tr>
+    <tr>
+      <th>Non-dealer</th>
+      <th>Dealer</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2</td>
+      <td>400–700</td>
+      <td>700-all</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>700–1300</td>
+      <td>1300-all</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>1300–2600</td>
+      <td>2600-all</td>
+    </tr>
+    <tr>
+      <td>5+</td>
+      <td colspan="2" style="text-align: center;">limit hand</td>
+    </tr>
+  </tbody>
+</table>
+
 
 Notice that there is an interesting similarity between the 20 mini-
 points table (Table 6.4) and the 40 minipoints table (Table 6.3). The
@@ -317,27 +526,68 @@ given exceptional minipoints — 25 minipoints. Scores for 25 minipoints
 are summarized in Table 6.5.
 
 Table 6.5: Scores for 25 minipoints
-Han
-Ron
-Tsumo
-Non-dealer Dealer Non-dealer Dealer
-2
-1600 2400
-3
-3200 4800 800-1600 1600-all
-4
-6400 9600 1600-3200 3200-all
-5+
-limit hand
+
+<table cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th rowspan="2">Han</th>
+      <th colspan="2">Ron</th>
+      <th colspan="2">Tsumo</th>
+    </tr>
+    <tr>
+      <th>Non-dealer</th>
+      <th>Dealer</th>
+      <th>Non-dealer</th>
+      <th>Dealer</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2</td>
+      <td>1600</td>
+      <td>2400</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>3200</td>
+      <td>4800</td>
+      <td>800–1600</td>
+      <td>1600-all</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>6400</td>
+      <td>9600</td>
+      <td>1600–3200</td>
+      <td>3200-all</td>
+    </tr>
+    <tr>
+      <td>5+</td>
+      <td colspan="4" style="text-align: center;">limit hand</td>
+    </tr>
+  </tbody>
+</table>
+
 
 Since chiitoitsu is itself a two-han yaku, the scoring table only
 starts with two han for ron and three han for tsumo. Again, we memorize
 this table column-wise.
 
-Scores for 25 minipoints
+
+
+
+<fieldset class="blackline">
+  <legend>Scores for 25 minipoints</legend>
+
 - ron (non-dealer): 16, 32, 64, mangan
 - ron (dealer): 24, 48, 96, mangan
 - tsumo (non-dealer): 8-16, 16-32, mangan
+
+
+</fieldset>
+
 
 All the sequences are a geometric progression, making it rela-
 tively easy to memorize.
@@ -351,7 +601,10 @@ be able to master this method just by reading and understanding the
 materials in this chapter. You would need to actually practice what
 you have learned, and you will have to do so repeatedly.
 
-Notes on pinfu tsumo
+
+
+<fieldset class="blackline">
+  <legend>Notes on pinfu tsumo</legend>
 
 One of the common mistakes that beginners tend to make is to
 claim 1000-2000 for riichi + pinfu + tsumo (mistaking 3 han–
@@ -385,6 +638,13 @@ Therefore, the score for riichi + pinfu + tsumo (3 han–20
 minipoints; 700-1300) is higher than riichi + tsumo (2 han–30 minipoints;
 500-1000) but lower than riichi + tanyao + tsumo (3 han–
 30 minipoints; 1000-2000).
+
+
+</fieldset>
+
+
+
+
 
 ## Footnotes
 2

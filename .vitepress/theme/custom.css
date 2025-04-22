@@ -341,6 +341,30 @@ img[alt="FSrighthtiles"] {
 
 /* End of the style */
 
+/* Style Fieldset with blackline class */
+
+.blackline {
+  border: 2px solid #888888;  /* A slightly thicker border for a nice box */
+  border-radius: 6px;
+  padding: 1rem;           /* Padding inside the fieldset */
+  margin: 1.5rem 0;
+  display: flex;
+  flex-wrap: wrap; /* optional if you want tiles to wrap on small screens */
+  justify-content: flex-start; /* centers horizontally */
+  align-items: flex-start; /* centers vertically */
+  text-align: left;
+  flex-direction: column;
+}
+
+.blackline legend {
+  text-align: center;
+  color:#888888;
+  font-weight: bold;
+  font-size: 1.1rem;
+  padding: 0 0.5rem;       /* Some spacing around the legend text */
+}
+
+/* End of the style */
 
 /* Style Fieldset with mahjong-group class */
 
