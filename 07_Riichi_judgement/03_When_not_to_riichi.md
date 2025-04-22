@@ -15,12 +15,24 @@ than calling riichi. It is thus useful to memorize all these exceptional
 cases; then you should call riichi in all other instances. Here is a list
 of ﬁve situations where dama is justiﬁable.
 
-Reasons to keep dama
+
+<fieldset class="blackline">
+  <legend>Reasons to keep dama</legend>
+
 7.3.1 Bad wait and no dora
+
 7.3.2 In the lead
+
 7.3.3 Genbutsu wait
+
 7.3.4 Expensive hand
+
 7.3.5 Many possibilities of improving the hand
+
+</fieldset>
+
+
+
 
 ## Bad wait
 It is OK to go dama if the wait of your hand is really bad, especially
@@ -41,23 +53,18 @@ Table 7.1 provides a list of representative waits (roughly) in the order
 of desirability.
 
 Table 7.1: Typical wait patterns
-Name
-Example Wait Kinds & Number
-side wait
-‌ - 2 kinds–8 tiles
-semi side wait 
- - 2 kinds–6 tiles
-stretched single  - 2 kinds–6 tiles
-dual pon wait  
-2 kinds–4 tiles
-closed wait  
-1 kind–4 tiles
-edge wait
- ‌
-1 kind–4 tiles
-single wait
- 
-1 kind–3 tiles
+
+| Name             | Example                                                                                                                                                   | Wait                                                                                   | Kinds & Number     |
+|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|--------------------|
+| side wait        | ![singletile](/image/tiles/3-man.png) ![singletile](/image/tiles/4-man.png)                                                                                            | ![singletile](/image/tiles/2-man.png) ![singletile](/image/tiles/5-man.png)                        | 2 kinds–8 tiles    |
+| semi side wait   | ![singletile](/image/tiles/2-pin.png) ![singletile](/image/tiles/2-pin.png) ![singletile](/image/tiles/3-pin.png) ![singletile](/image/tiles/4-pin.png)                            | ![singletile](/image/tiles/2-pin.png) ![singletile](/image/tiles/5-pin.png)                        | 2 kinds–6 tiles    |
+| stretched single | ![singletile](/image/tiles/2-sou.png) ![singletile](/image/tiles/3-sou.png) ![singletile](/image/tiles/4-sou.png) ![singletile](/image/tiles/5-sou.png)                            | ![singletile](/image/tiles/2-sou.png) ![singletile](/image/tiles/5-sou.png)                        | 2 kinds–6 tiles    |
+| dual pon wait    | ![singletile](/image/tiles/2-man.png) ![singletile](/image/tiles/2-man.png) ![singletile](/image/tiles/4-pin.png) ![singletile](/image/tiles/4-pin.png)                            | ![singletile](/image/tiles/2-man.png) ![singletile](/image/tiles/4-pin.png)                        | 2 kinds–4 tiles    |
+| closed wait      | ![singletile](/image/tiles/2-sou.png) ![singletile](/image/tiles/4-sou.png)                                                                                            | ![singletile](/image/tiles/3-sou.png)                                                        | 1 kind–4 tiles     |
+| edge wait        | ![singletile](/image/tiles/1-man.png) ![singletile](/image/tiles/2-man.png)                                                                                            | ![singletile](/image/tiles/3-man.png)                                                        | 1 kind–4 tiles     |
+| single wait      | ![singletile](/image/tiles/2-pin.png)                                                                                                                            | ![singletile](/image/tiles/2-pin.png)                                                        | 1 kind–3 tiles     |
+
+
 
 In general, a wait is said to be good if there are at least two kinds
 and more than four tiles left to win on. Therefore, dual pon wait,
@@ -124,15 +131,24 @@ having a pair/closed/edge/single wait does not automatically mean
 that the wait is bad. Here is a rule of thumb to simplify your decision
 making.
 
-A reason to keep dama: bad wait
+
+
+<fieldset class="blackline">
+  <legend>A reason to keep dama: bad wait</legend>
+
 - Call riichi if there are three or more winning tiles left in the
 board.
+
 - Go dama if there are only one or two simple tiles left to win
 on.
 a
 a
 When waiting for an honor/terminal tile, you can call riichi even when
 only one tile is left in the board.
+
+</fieldset>
+
+
 
 ## In the lead
 The second case where going dama may be preferred to riichi is
@@ -142,9 +158,10 @@ position. This is especially the case towards the end of the South
 round. For example, let’s say you are in South-4 and the scores are
 as follows:
 
-East (you) 39000 South 22900
-West
-13000 North 25100
+| East (you) | 39000 | South | 22900 |
+|------------|-------|--------|-------|
+| West       | 13000 | North | 25100 |
+
 
 You are currently in a safe lead because even the second ranked
 player (North) cannot defeat you with a mangan tsumo. You can secure
@@ -168,10 +185,57 @@ For example, suppose the dealer has the following hand and dis-
 cards in East-1.
 
 Discards
-!
-
-ﬃﬃﬃﬃ K## E ﬄﬄG 
-Dora
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+</fieldset>
+
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+</fieldset>
 
 This is a conﬁrmed 7700 hand (seat & prevailing wind + White Dragon),
 and the hand value can easily go up to haneman (18000) or baiman
@@ -187,7 +251,31 @@ tiles.
 
 Keep in mind, though, that there is a bad kind of attention as well.
 For example, suppose someone is doing the following.
-ﬃ @‌ %%M 	1	 6
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+</fieldset>
 
 Suppose further he has already discarded dora. Then, he is getting
 a lot of attention, but no one really cares about him, let alone folds
@@ -200,13 +288,33 @@ When your hand is already expensive without riichi (minimum
 of 7700 if playing with red ﬁves; 5200 if playing without red ﬁves), it
 is OK to go dama. Let’s see a few examples.
 
-Expensive hand 1
-‌
 
 
- 
+<fieldset class="excercise">
+<legend class="right-align">Expensive hand 1</legend>
 
-Dora
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+</fieldset>
+
 You should keep this hand dama because the hand is already expensive
 (tanyao + three dora = mangan) and the wait is not very good.
 Keep dama, discarding  !
@@ -218,40 +326,144 @@ draw or call pon on  or the fourth
  after discarding , the wait
 gets signiﬁcantly better, as follows:
 
-‌
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+</fieldset>
 
 
- 
+<fieldset class="no-border">
 
-Dora
-#
-‌
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+</fieldset>
 
 
- .
-‌
- 
-5
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+</fieldset>
 
 Note that, to justify dama your hand has to have at least 7700 when
 won by ron. This means that (1) your hand has to have at least one
 yaku (without it you cannot win by ron) and (2) its value is at least
 7700 when winning on a tile that gives you the lowest possible score.
 
-Expensive hand 2
-‌
 
+<fieldset class="excercise">
+<legend class="right-align">Expensive hand 2</legend>
 
- 
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
 
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+</fieldset>
 Dora
 This hand does not have yaku and so you cannot win by ron without
 riichi. You should do insta-riichi with this hand by discarding .
 
-Expensive hand 3
-‌ȷȷ
- "
-Dora
+
+<fieldset class="excercise">
+<legend class="right-align">Expensive hand 3</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+</fieldset>
 
 This hand is worth 7700 when winning on  (tanyao + pinfu +
 sanshoku), but the hand is worth only 2000 if winning on  (tanyao
@@ -261,11 +473,31 @@ When you have an expensive hand, going dama is acceptable but
 calling riichi is also an option, especially when you have a good wait.
 Consider the following hand. Should we riichi?
 
-Expensive hand 4
-Red
-‌ȷȷ
-	 
 
+<fieldset class="excercise">
+<legend class="right-align">Expensive hand 4</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+</fieldset>
 Dora
 
 Discarding 	, we get a conﬁrmed 7700 hand without riichi. I already
@@ -274,13 +506,22 @@ hand value is 7700. However, would calling riichi be even better?
 
 Riichi criteria for hands like this are as follows.
 
-Riichi judgement for an expensive hand
+
+
+<fieldset class="blackline">
+  <legend>Riichi judgement for an expensive hand</legend>
+
 - Riichi if you are far behind from other players.
 - Riichi if it is the 6th turn or before and the wait is 2-way
 side wait or better.
 - Riichi if it is the 10th turn or before and the wait is 3-way
 side wait or better.
 - Don’t riichi if the minimum hand value is haneman or better.
+
+</fieldset>
+
+
+
 
 ## Many possibilities of improving the hand
 It is OK to keep dama when there are many possibilities of further
@@ -290,13 +531,21 @@ in most instances even when there are some possibilities of advancing
 your hand. It makes sense to wait in dama only when both of the
 following two conditions are met.
 
-A reason to keep dama: improving the hand
+
+
+<fieldset class="blackline">
+  <legend>A reason to keep dama: improving the hand</legend>
+
 - It is still an early turn (8th turn or before);
 - There are at least six kinds of tiles that can improve the
 scores and/or the wait,
 or
 there is at least one kind of tiles that can improve the score
 by at least three han in one step.
+
+</fieldset>
+
+
 
 Keep in mind that waiting in dama becomes less and less desirable
 towards the end of a hand. After passing the 9th turn (the midpoint
@@ -310,7 +559,31 @@ hand to 1-away rather than maintaining a ready hand. As we learned
 in Chapter 3, a ready hand can accept fewer tiles than a 1-away hand
 can. For example, consider the following hand.
 
-‌ﬀ
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+</fieldset>
 
 Since calling riichi by discarding  gives you riichi-only with a bad
 wait, you may want to refrain from riichi. However, if you discard
@@ -321,7 +594,31 @@ albeit with an improved wait.
 A more sensible choice here is to discard  and revert the hand
 to 1-away, as follows.
 
-‌ﬀ
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+</fieldset>
 
 This is another example of golden 1-away. This 1-away hand is so
 much better than the ready hand you’d get by discarding . Specifically,
@@ -347,8 +644,31 @@ this hand is absurd.
 
 For another (less exciting) example, consider the following hand.
 
-‌ȷ	 "
-Dora
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+</fieldset>
 
 Suppose this is the 5th turn in a hand. The choice is between (1)
 discarding ‌ to make this hand ready or (2) discarding  to revert
@@ -370,19 +690,49 @@ kinds–15 tiles), both the wait and the scores get improved. If you
 draw any of ‌ȷ (4 kinds–11 tiles), at least the wait gets improved.
 A basic rule of thumb with a yaku-less hand is as follows.
 
-What to do with a yaku-less hand
+
+
+<fieldset class="blackline">
+  <legend>What to do with a yaku-less hand</legend>
+
+
+
 - Riichi if you make the hand ready.
 - Don’t make it ready if you don’t riichi.
+
+
+</fieldset>
 
 Yaku-less dama
 
 In some exceptional situations, it may make sense to wait in dama
 while keeping a yaku-less ready hand.
 
-‌
- 
-Dora
 
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+</fieldset>
 This hand has one dora with a bad wait (single wait of  or ).
 According to the riichi criteria given at the beginning of this chapter,
 you could call riichi with this hand. In fact, if it is already the 9th turn

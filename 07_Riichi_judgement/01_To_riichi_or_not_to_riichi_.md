@@ -23,16 +23,26 @@ cons of calling riichi.
 Obvious downsides of calling riichi can be summarized as fol-
 lows.
 
-Demerits of riichi
+<fieldset class="blackline">
+  <legend>Demerits of riichi</legend>
+
+
 - You have to pay 1000 points as a riichi bet.
 - The opponents may play defense and may not discard your
 winning tiles that they would otherwise discard.
 - You cannot change your hand any more; you cannot play
 defense nor improve the wait / scores.
 
+
+
+</fieldset>
+
 However, there are many more upsides as well.
 
-Merits of riichi
+
+<fieldset class="blackline">
+  <legend>Merits of riichi</legend>
+
 - You get one yaku to win.
 - You can expect to increase the score with ippatsu and ura
 dora.
@@ -44,6 +54,11 @@ to make their hand ready, in which case:
 - When your previous discards make it look that your winning
 tile is safe, riichi may actually increase the chance that
 the opponents discard your winning tile.
+
+</fieldset>
+
+
+
 
 Comparing these pros and cons, it should be evident that calling riichi
 is a low-risk & high-return oﬀense tactic. Moreover, riichi could
@@ -57,12 +72,21 @@ not very good.
 Riichi judgement criteria I recommend are summarized as fol-
 lows.
 
-Riichi judgement
+
+
+
+<fieldset class="blackline">
+  <legend>Riichi judgement</legend>
+
 Choose riichi over dama if at least one of the following three conditions
 is met.
 1. Your hand has at least one han other than riichi.
 2. Your hand has a good wait.
 3. You are the dealer.
+
+
+</fieldset>
+
 
 This means that you should call riichi if
 - your hand has a bad wait but has one han or more (including

@@ -16,10 +16,34 @@ are the South player in the 6th turn in East-1.
 
 ## Examples of insta-riichi
 
-Pinfu-only hand
-ﬀ
- "
-Dora
+
+
+<fieldset class="excercise">
+<legend class="right-align">Pinfu-only hand</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/honor/chun.png"
+         alt="FSopentile">
+    <figcaption>Dora</figcaption>
+</figure>
+
+</fieldset>
+
 You should do insta-riichi with a pinfu-only hand. It is true that this
 hand will have tanyao if you draw ȷ and discard , but waiting for
 that to happen is simply ineﬃcient. Even after you replace  with
@@ -31,9 +55,32 @@ Insta-riichi, discarding  !
 
 )
 
-Bad wait, one dora
-‌ȷ"""! 
-Dora
+
+<fieldset class="excercise">
+<legend class="right-align">Bad wait, one dora</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/honor/chun.png"
+         alt="FSopentile">
+    <figcaption>Dora</figcaption>
+</figure>
+
+</fieldset>
 Since this hand has one dora, you should do insta-riichi. Do not shy
 away from riichi even with closed-wait or edge-wait hands. It is true that the wait can be improved with as many as four kinds of tiles
 (), but drawing one of those would take about eight more
@@ -47,10 +94,34 @@ will not be improved.
 Insta-riichi, discarding ! !
 
 )
-1-away from sanshoku
-Red
-‌ȷ	""ﬄ 
-Dora
+
+
+
+<fieldset class="excercise">
+<legend class="right-align">1-away from sanshoku</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/honor/chun.png"
+         alt="FSopentile">
+    <figcaption>Dora</figcaption>
+</figure>
+
+</fieldset>
 
 It is true that there are some tiles that can improve the scores and/or
 the wait of this hand. For example, if you draw , the hand will
@@ -61,10 +132,34 @@ han (red ﬁve), you should do insta-riichi.
 Insta-riichi, discarding ﬄ !
 )
 
-Unconﬁrmed sanshoku
-‌
- "
-Dora
+
+
+
+<fieldset class="excercise">
+<legend class="right-align">Unconﬁrmed sanshoku</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/honor/chun.png"
+         alt="FSopentile">
+    <figcaption>Dora</figcaption>
+</figure>
+
+</fieldset>
 
 You would want to win this hand on  (rather than on ) so that
 you can claim sanshoku. However, waiting for  without riichi is
@@ -76,11 +171,34 @@ will get at least 700-1300. With one ura dora or ippatsu you will get
 
 Insta-riichi, discarding  !
 )
-Riichi-only hand
-ﬀ
-	## "
-Dora
 
+
+
+<fieldset class="excercise">
+<legend class="right-align">Riichi-only hand</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/honor/chun.png"
+         alt="FSopentile">
+    <figcaption>Dora</figcaption>
+</figure>
+
+</fieldset>
 This hand has no yaku or dora, but the wait is good. You can do
 insta-riichi with a riichi-only hand as long as the hand has a good
 wait.
@@ -88,9 +206,33 @@ wait.
 Insta-riichi, discarding 	 !
 )
 
-Waiting for dora
- ‌
-Dora
+
+
+<fieldset class="excercise">
+<legend class="right-align">Waiting for dora</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/honor/chun.png"
+         alt="FSopentile">
+    <figcaption>Dora</figcaption>
+</figure>
+
+</fieldset>
 
 You should do insta-riichi even when waiting for dora.
 
@@ -112,10 +254,32 @@ dates to make the hand ready. I will discuss how to take a balance of
 tile eﬃciency and hand value in calling riichi. Again, we will assume
 that you are the South player in the 6th turn in East-1.
 
-Cheap hand
-ﬀ
-## "
-Dora
+
+<fieldset class="excercise">
+<legend class="right-align">Cheap hand</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/honor/chun.png"
+         alt="FSopentile">
+    <figcaption>Dora</figcaption>
+</figure>
+
+</fieldset>
 
 Calling riichi by discardingmakes for a good wait (-; 2 kinds–
 8 tiles), but the hand becomes riichi-only. On the other hand, calling
@@ -139,30 +303,98 @@ you should value wait over scores. We use 5200 as a cut-point because
 an additional han (roughly) doubles the hand value until it
 reaches 5200.
 
-More expensive hand
-ﬀ
-## 
-Dora
+
+<fieldset class="excercise">
+<legend class="right-align">More expensive hand</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/honor/chun.png"
+         alt="FSopentile">
+    <figcaption>Dora</figcaption>
+</figure>
+
+</fieldset>
 This hand has one dora, but the minimum hand value is still below
 5200 (riichi + dora = 2600). Therefore, again, you should value
 scores over wait.
 
 Insta-riichi, discarding  !
 )
-Expensive hand
-ﬀ
-###$$ 
-Dora
+
+
+<fieldset class="excercise">
+<legend class="right-align">Expensive hand</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/honor/chun.png"
+         alt="FSopentile">
+    <figcaption>Dora</figcaption>
+</figure>
+
+</fieldset>
 With this hand, calling riichi guarantees 5200 (riichi + White Dragon
 + one dora). Therefore, you should value wait over scores this time.
 It goes without saying that riichi is better than going dama.
 
 Insta-riichi, discarding  !
 )
-Good wait vs. sanshoku
-
- "
-Dora
+
+
+<fieldset class="excercise">
+<legend class="right-align">Good wait vs. sanshoku</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/honor/chun.png"
+         alt="FSopentile">
+    <figcaption>Dora</figcaption>
+</figure>
+
+</fieldset>
 
 Calling riichi by discarding gives you riichi-only with a good wait,
 whereas calling riichi by discarding  gives you riichi + sanshoku
@@ -172,10 +404,32 @@ scores over wait.
 Insta-riichi, discarding  !
 
 )
-Good wait vs. ittsu
-‌ȷﬀ
- "
-Dora
+
+<fieldset class="excercise">
+<legend class="right-align">Good wait vs. ittsu</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/honor/chun.png"
+         alt="FSopentile">
+    <figcaption>Dora</figcaption>
+</figure>
+
+</fieldset>
 
 Calling riichi by discarding  gives you only riichi + pinfu with a
 good wait, whereas calling riichi by discarding  gives you riichi
@@ -184,13 +438,32 @@ should value scores over wait.
 
 Insta-riichi, discarding  !
 )
-Expensive pinfu hand
-Red
-Red
-‌ȷﬀﬀ
-
- "
-Dora
+
+<fieldset class="excercise">
+<legend class="right-align">Expensive pinfu hand</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/honor/chun.png"
+         alt="FSopentile">
+    <figcaption>Dora</figcaption>
+</figure>
+
+</fieldset>
 
 Discarding ﬀ would give you a dama mangan hand with a bad wait.
 That is not too bad, but it is much better to riichi by discarding 
@@ -200,21 +473,50 @@ Insta-riichi, discarding  !
 )
 
 Let’s summarize what we have learned so far.
-Good wait or high scores?
+
+
+<fieldset class="blackline">
+  <legend>Good wait or high scores?</legend>
+
 - Scores are more important than wait
 when the minimum hand value is < 5200.
 - Wait is more important than scores
-when the minimum hand value is
-
-5200.
+when the minimum hand value is > 5200.
+
+
+</fieldset>
+
 
 ## Chiitoitsu waiting for dora
 We will discuss riichi criteria for a chiitoitsu (Seven Pairs) hand
 in this and the next sections.
 
-Chiitoitsu 1
-%%$$ 
-Dora
+
+<fieldset class="excercise">
+<legend class="right-align">Chiitoitsu 1</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/honor/chun.png"
+         alt="FSopentile">
+    <figcaption>Dora</figcaption>
+</figure>
+
+</fieldset>
 
 You should not shy away from riichi with a chiitoitsu hand, especially
 when waiting for dora. Since dora of  is something your
@@ -231,9 +533,34 @@ by ron, it will be haneman with either ura dora or ippatsu.
 Insta-riichi, discarding  !
 )
 
-Chiitoitsu 2
-!%%$$ !
-Dora
+
+
+<fieldset class="excercise">
+<legend class="right-align">Chiitoitsu 2</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/honor/chun.png"
+         alt="FSopentile">
+    <figcaption>Dora</figcaption>
+</figure>
+
+</fieldset>
+
 
 Dora in this example is a value-less wind tile, which may be easily
 discarded by your opponents if you keep dama. Nevertheless, you
@@ -244,16 +571,24 @@ Insta-riichi, discarding  !
 )
 
 Riichi criteria for chiitoitsu hands waiting for dora are really simple.
-Riichi
 
-judgement for chiitoitsu
+
+<fieldset class="blackline">
+  <legend>
+Riichi judgement for chiitoitsu</legend>
+
+
 Riichi any chiitoitsu hand if waiting for dora!
+
+</fieldset>
 
 ## Chiitoitsu not waiting for dora
 Riichi criteria for chiitoitsu hands get a bit more complicated
 when you are not waiting for dora, summarized as follows.
 
-Riichi judgement for chiitoitsu
+<fieldset class="blackline">
+  <legend>Riichi judgement for chiitoitsu</legend>
+
 Do insta-riichi with chiitoitsu (not waiting for dora) if one or
 more of the following holds:
 - You are the dealer;
@@ -267,6 +602,10 @@ a
 An example of a suji-trap wait is: you are waiting for a 3, and a 6 in the
 same suit is among your discards. See Chapter 8.
 
+</fieldset>
+
+
+
 This means that the only two cases where you should go dama are (a)
 when you are a non-dealer and you are waiting for 4,5,6, and (b) you
 have honitsu (Half Flush) or chinitsu (Full Flush) chiitoitsu.
@@ -275,9 +614,33 @@ have honitsu (Half Flush) or chinitsu (Full Flush) chiitoitsu.
 The criteria do not change when your hand already has two dora
 and waits for a non-dora tile.
 
-Chiitoitsu 3
-‌!!$$ "
-Dora
+
+
+<fieldset class="excercise">
+<legend class="right-align">Chiitoitsu 3</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/honor/chun.png"
+         alt="FSopentile">
+    <figcaption>Dora</figcaption>
+</figure>
+
+</fieldset>
 
 If you make the hand ready for chiitoitsu, you will be waiting for
 ‌, a non-4,5,6 tile. riichi is better than dama in this case.
@@ -285,9 +648,33 @@ If you make the hand ready for chiitoitsu, you will be waiting for
 Insta-riichi, discarding  !
 )
 
-Chiitoitsu 4
-ȷ "
-Dora
+
+
+<fieldset class="excercise">
+<legend class="right-align">Chiitoitsu 4</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/honor/chun.png"
+         alt="FSopentile">
+    <figcaption>Dora</figcaption>
+</figure>
+
+</fieldset>
 
 Waiting for a 6 is not ideal, but having tanyao justiﬁes riichi. Aim for
 6400 ron or mangan tsumo.
@@ -296,12 +683,33 @@ Insta-riichi, discarding  !
 
 )
 
-Chiitoitsu 5
-Red
-
-%%$$ "
-Dora
 
+
+<fieldset class="excercise">
+<legend class="right-align">Chiitoitsu 5</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/honor/chun.png"
+         alt="FSopentile">
+    <figcaption>Dora</figcaption>
+</figure>
+
+</fieldset>
 Likewise, waiting for a 5 is not ideal, but having a red ﬁve justiﬁes
 riichi.
 
@@ -309,16 +717,64 @@ Insta-riichi, discarding  !
 
 )
 
-Chiitoitsu 6
-	$$## "
-Dora
+
+
+<fieldset class="excercise">
+<legend class="right-align">Chiitoitsu 6</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/honor/chun.png"
+         alt="FSopentile">
+    <figcaption>Dora</figcaption>
+</figure>
+
+</fieldset>
 
 Since you can get mangan ron or haneman tsumo without riichi, you
 should keep dama with this hand (discard ).
 
-Chiitoitsu 7
-ȷ$$ "
-Dora
+
+
+<fieldset class="excercise">
+<legend class="right-align">Chiitoitsu 7</legend>
+
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/honor/chun.png"
+         alt="FSopentile">
+    <figcaption>Dora</figcaption>
+</figure>
+
+</fieldset>
 
 With this hand, you should keep dama unless you are the dealer.
 However, if you have already discarded ‌ &  or  & , making
