@@ -18,9 +18,26 @@ speciﬁcally, when you call chii with an edge-wait or closed-wait protorun
 to make the hand ready, you should meld. Consider the following
 hand.
 
-$$ !
-The left player discarded ﬀ just now.
-Dora
+<fieldset class="mahjong-group">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/souzu/2-sou.png"
+         alt="FSopentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">The left player discarded  just now.</div> 
+
+</fieldset>
 
 You should call chii on ﬀ and discard . It is true that doing so
 means that the hand value will be 1000 (Green Dragon only) and that
@@ -39,8 +56,13 @@ Moreover, this hand has pretty low tile acceptance (4 kinds–12
 tiles, ﬀ$); the chance of making the hand ready without melding
 is not very high, either.
 
-Melding judgement 3
+<fieldset class="redline">
+  <legend>Melding judgement 3</legend>
+
 If you can eliminate a bad wait and make the hand ready, meld!
+
+</fieldset>
+
 
 ## Improving the wait
 It sometimes makes sense to meld even when your hand is already
@@ -48,11 +70,29 @@ ready, as long as doing so improves the wait and/or the scores.
 It may also make sense to meld to make a bad-wait 1-away into a
 good-wait 1-away one.
 
-Improving the wait
-ȷﬀ
-
- %%M
-The left player discarded  just now.
+
+<fieldset class="mahjong-group">
+<legend>Improving the wait</legend>
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/souzu/2-sou.png"
+         alt="FSopentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">The left player discarded  just now.</div> 
+
+</fieldset>
+
 
 The hand is already ready, waiting for ‌. However, you should call
 chii on  with ȷﬀ and discard , so you can upgrade the wait
@@ -68,10 +108,29 @@ so that we can have a good-wait block as the ﬁnal wait of the hand.
 However, it sometimes makes sense to complete a good-wait block
 by melding if doing so conﬁrms a certain yaku in a hand.
 
-Conﬁrming yaku
-	 	
-The left player discarded  just now.
-Dora
+
+<fieldset class="mahjong-group">
+<legend>Conﬁrming yaku</legend>
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/souzu/2-sou.png"
+         alt="FSopentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">The left player discarded  just now.</div> 
+
+</fieldset>	
+
 
 Calling chii on  completes a side-wait block in this hand, leaving
 the hand 1-away with one edge-wait and one side-wait protoruns.
@@ -83,16 +142,52 @@ Calling chii on  is tantamount to eliminating a bad wait in
 this case.
 4
 
-Conﬁrming yaku
-ﬄﬄﬄ  $
-The left player discarded  just now.
-Dora
+<fieldset class="mahjong-group">
+<legend>Conﬁrming yaku</legend>
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/souzu/2-sou.png"
+         alt="FSopentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">The left player discarded  just now.</div> 
+
+</fieldset>	
+
 
 If you call pon on  and discard , the hand is ready. However,
 doing so only gives you a 1300 hand. Instead, you should discard 
 after calling pon to have a 1-away honitsu hand, as follows.
-ﬄﬄﬄ  4 $
-Dora
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/souzu/2-sou.png"
+         alt="FSopentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+</fieldset>	
+
 
 You can further call chii on any of  or call pon on  to get
 5200 or above.
@@ -105,10 +200,29 @@ tiles if we meld. When that is less of your concern, melding may be
 an option even with a cheap and slow hand.
 
 
-Concealed set of value tiles
-ȷ%%% !
-The left player discarded  just now.
-Dora
+
+<fieldset class="mahjong-group">
+<legend>Concealed set of value tiles</legend>
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/souzu/2-sou.png"
+         alt="FSopentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">The left player discarded  just now.</div> 
+
+</fieldset>	
+
 
 This hand is both cheap and slow. Even after calling chii on , the
 hand is still 1-away with a bad wait. However, this hand has a concealed
@@ -119,9 +233,14 @@ the hand. That is, you can chii any of ﬀ
 call chii on - or pon on , because doing so does not advance
 this hand from 2-away to 1-away or improve the wait/scores.
 
-Melding judgement 4
+<fieldset class="redline">
+  <legend>Melding judgement 4</legend>
+
 If you have a concealed set of value tiles, you can meld with a
 cheap and slow hand.
+
+</fieldset>
+
 
 ## When it is OK to meld with cheap & slow hands
 There are a few more instances where melding with a cheap and

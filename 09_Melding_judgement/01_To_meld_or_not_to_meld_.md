@@ -9,10 +9,17 @@ Melding decisions — to call pon/chii or not to call — depend on
 a lot of variables. The most important criteria of all are the following
 two.
 
-When not to meld
+
+<fieldset class="blackline">
+  <legend>When not to meld</legend>
+
 Do not meld if one of the following two holds.
 1. The hand is both cheap and far from ready.
 2. Melding signiﬁcantly reduces the hand value.
+</fieldset>
+
+
+
 
 I will discuss each of the two in turn, and then discuss exceptional
 situations that justify melding even when the two conditions above
@@ -33,18 +40,51 @@ When we say a hand is “slow”, we mean that the hand is 2-away
 or worse after melding (i.e., 3-away or worse before melding) and
 with a bad wait. Let’s see a few examples.
 
-Cheap and slow hand
-‌ﬀ
-## 
-An opponent discarded # just now.
-Dora
+<fieldset class="mahjong-group">
+<legend>Cheap and slow hand</legend>
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/souzu/2-sou.png"
+         alt="FSopentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">An opponent discarded # just now.</div> 
+
+</fieldset>
+
+
 
 You should not call pon in this situation. Even after calling pon, the
 hand is still 2-away from ready with a couple of bad waits, as follows.
 
-‌ﬀ
- K## 
-Dora
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/souzu/2-sou.png"
+         alt="FSopentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+</fieldset>
 
 The probability of winning this hand any time soon is not very high.
 What if an opponent calls riichi now? You will have nothing but simple
@@ -53,11 +93,29 @@ such tiles against riichi when you have a cheap 2-away hand. When
 your hand is cheap and slow, you should worry more about keeping
 safe tiles such as # than about winning the hand.
 
-Slow but expensive hand
-‌ﬀ
-## 
-An opponent discarded # just now.
-Dora
+
+<fieldset class="mahjong-group">
+<legend>Slow but expensive hand</legend>
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/souzu/2-sou.png"
+         alt="FSopentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">An opponent discarded # just now.</div> 
+
+</fieldset>
+
 
 This time, you can call pon on # then discard . This hand is still
 slow (after all, the hand shape is exactly the same as before), but it
@@ -65,19 +123,45 @@ has a potential to be 7700 (White Dragon + sanshoku + two dora)
 even when you open it. When you see a high score potential, you can
 meld even with a slow hand.
 
-Cheap but fast hand
-ȷ
-## 
-An opponent discarded # just now.
-Dora
+
+<fieldset class="mahjong-group">
+<legend>Cheap but fast hand</legend>
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/souzu/2-sou.png"
+         alt="FSopentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">An opponent discarded # just now.</div> 
+
+</fieldset>
+
+
 
 Again, you can call pon on # then discard . This hand is cheap
 and it will be 2-away after the pon, but all the remaining blocks have
 a good wait. When you can expect to win a hand in no time, you can
 meld even with a cheap hand.
 
-Melding judgement 1
+<fieldset class="redline">
+  <legend>Melding judgement 1</legend>
+
 Don’t meld with a cheap and slow hand!
+
+</fieldset>
+
+
+
 
 ## When not to meld 2: big gap in hand values
 You should also refrain from melding when doing so signiﬁcantly
@@ -85,12 +169,29 @@ reduces the hand value. More speciﬁcally, do not meld when the
 hand value drops from 7700 or above to 2000 or below.
 2
 
-Cheap but fast hand
-ȷﬀﬀ
 
- 
-The left player discarded  just now.
-Dora
+<fieldset class="mahjong-group">
+<legend>Cheap but fast hand</legend>
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/souzu/2-sou.png"
+         alt="FSopentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">The left player discarded  just now.</div> 
+
+</fieldset>
+
 
 Do not meld with a hand like this, at least until the 13th turn or so
 (the third row in the discard). Although calling chii onwill make
@@ -99,11 +200,30 @@ you keep the hand closed and call riichi, the hand can potentially be a game-dec
 or haneman.
 3
 
-Fast and expensive hand
-Red
-ȷﬀ 
-The left player discarded  just now.
-Dora
+
+
+<fieldset class="mahjong-group">
+<legend>Fast and expensive hand</legend>
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/souzu/2-sou.png"
+         alt="FSopentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">The left player discarded  just now.</div> 
+
+</fieldset>
+
 
 Calling chii on  will make the hand ready with a good wait and a
 high score (7700). It is true that this hand can be even more expensive
@@ -112,8 +232,13 @@ An additional han does not improve the hand value as much beyond
 4 han. We should thus call chii on , especially after the 9th turn
 or so.
 
-Melding judgement 2
+<fieldset class="redline">
+  <legend>Melding judgement 2</legend>
+
 Don’t meld if melding signiﬁcantly reduces the hand value!
+
+</fieldset>
+
 
 ## Footnotes
 1

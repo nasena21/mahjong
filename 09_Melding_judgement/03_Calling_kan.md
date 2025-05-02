@@ -27,14 +27,64 @@ ment (especially in South-4);
 With this in mind, consider several examples. (Dora is ! in all
 the examples.)
 
-(1) —‰ȷ˛‚›“”ˆˆ""""
-(2) ‌‰‰˛‚›“”ˆˆ""""
-(3) ‌‰‰˛‚“””ˆˆ""""
+(1) 
 
-(4) ‌
-""""#
-(5) ‌
-""""##
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+</fieldset>	
+
+(2) ‌
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+</fieldset>	
+(3)
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+</fieldset>	
+
+(4)
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+</fieldset>	
+(5)
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+</fieldset>	
 
 (1) This hand is 1-away, and one block has a good wait and another
 has a bad wait. You can call kan.
@@ -48,9 +98,15 @@ in normal situations. However, if you are in South-4, and you need
 the hand will have at least 60 minipoints, you can get 2000 points
 with one han (White Dragon).
 
-Kan judgement 1
+
+<fieldset class="blackline">
+  <legend>Kan judgement 1</legend>
+
 In principle, your hand needs to be close to ready to justify making
 a concealed quad.
+</fieldset>
+
+
 
 When not to make a concealed quad
 
@@ -64,9 +120,29 @@ calling kan.
 - one of the four tiles can be used a good ﬂoating tile;
 - you lose some yaku if making the set into a quad.
 
-Concealed quad?
-
-It is your turn. What would you do?
+<fieldset class="mahjong-group">
+<legend>Concealed quad?</legend>
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/souzu/2-sou.png"
+         alt="FSopentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">It is your turn. What would you do?</div> 
+
+</fieldset>	
+
+
 
 If you call kan, the hand will be 1-away and the wait will not be terribly
 bad; it can be made ready if you draw any of
@@ -87,9 +163,27 @@ the hand ready. Therefore, you should not call kan at this point and
 simply discard . You can call kan later if the hand becomes ready
 by drawing a pinzu (dots) tile.
 
-Concealed quad?
-ﬀ
-It is your turn. What would you do?
+<fieldset class="mahjong-group">
+<legend>Concealed quad?</legend>
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/souzu/2-sou.png"
+         alt="FSopentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">It is your turn. What would you do?</div> 
+
+</fieldset>	
 
 If you call kan, you will lose pinfu. Moreover, if you draw a tile that
 completes one of the two side-wait protoruns after calling kan, the
@@ -97,9 +191,16 @@ hand becomes a single-wait hand. You should thus discard . Then,
 if you complete one of the side-wait protoruns ﬁrst, you can discard
 another  to make the hand ready for pinfu.
 
-Kan judgement 2
+
+
+<fieldset class="blackline">
+  <legend>Kan judgement 2</legend>
+
 There are cases where we should not make a concealed quad
 even when the hand is (close to) ready.
+</fieldset>
+
+
 
 ## Open quad (daiminkan)
 Conditions to justify making an open quad are a little bit more
@@ -111,27 +212,78 @@ You can make an open quad in any of the following situations:
 (especially in South-4);
 - you are losing badly.
 
-Open quad?
-ȷﬀ%%% 5 
-The right player discarded % just now.
-Dora
+<fieldset class="mahjong-group">
+<legend>Open quad?</legend>
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/souzu/2-sou.png"
+         alt="FSopentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">The right player discarded % just now.</div> 
+
+</fieldset>	
 
 This ready hand is currently worth 2000 points with a good wait.
 Calling kan on %is therefore justiﬁable. If any one of the tiles in your
 hand becomes dora, the hand value increases from 2000 to 5200.
 
-Open quad?
-%%% 5 
-The right player discarded % just now.
-Dora
+<fieldset class="mahjong-group">
+<legend>Open quad?</legend>
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/souzu/2-sou.png"
+         alt="FSopentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">The right player discarded % just now.</div> 
+
+</fieldset>	
 
 This ready hand is currently 2000 points with a bad wait. Calling kan
 on % is not justiﬁable when the wait is bad.
 
-Open quad?
-‌%%% 5 	
-The right player discarded % just now.
-Dora
+<fieldset class="mahjong-group">
+<legend>Open quad?</legend>
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/souzu/2-sou.png"
+         alt="FSopentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">The right player discarded % just now.</div> 
+
+</fieldset>	
 
 This ready hand is currently 1000 points with a good wait. Calling
 kan on % is not justiﬁable. Even when one of the tiles in your hand
@@ -160,18 +312,53 @@ to draw tiles;
 (especially in South-4);
 - you are losing badly.
 
-Open set to quad?
-‌ %M% ‌
-You drew the fourth % just now.
-Dora
+
+<fieldset class="mahjong-group">
+<legend>Open set to quad?</legend>
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/souzu/2-sou.png"
+         alt="FSopentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">The right player discarded % just now.</div> 
+
+</fieldset>	
 
 This 1-away hand has two han and a good wait. Calling kan on % is
 justiﬁable.
 
-Open set to quad?
-‌		 %M% 
-You drew the fourth % just now.
-Dora
+<fieldset class="mahjong-group">
+<legend>Open set to quad?</legend>
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/souzu/2-sou.png"
+         alt="FSopentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">The right player discarded % just now.</div> 
+
+</fieldset>	
 
 This hand has three han and a good wait. However, since it is 2-away
 from ready, calling kan on % is not justiﬁable.

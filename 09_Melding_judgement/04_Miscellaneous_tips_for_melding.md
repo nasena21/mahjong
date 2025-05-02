@@ -17,9 +17,29 @@ That is, you should think about what tile(s) can improve the wait
 and/or the scores of your hand all the time. For example, consider
 the following hand.
 
-Thinking ahead
-—‰ııı¸˛‚‹‹ ##K
-What tile(s) are you waiting for?
+
+<fieldset class="mahjong-group">
+<legend>Thinking ahead</legend>
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/souzu/2-sou.png"
+         alt="FSopentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">What tile(s) are you waiting for?</div> 
+
+</fieldset>	
+
 
 The hand is ready, waiting for ‌. However, you should also be pre-
 pared for melding further to improve the wait and/or the scores. If
@@ -36,18 +56,67 @@ ably means you should not make the call.
 You should also think about how to utilize dora when melding.
 Consider the following hand.
 
-Utilizing dora
- $L$ 
-The left player discarded  just now.
-Dora
+
+<fieldset class="mahjong-group">
+<legend>Utilizing dora</legend>
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/souzu/2-sou.png"
+         alt="FSopentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">The left player discarded  just now.</div> 
+
+</fieldset>	
 
 We should deﬁnitely call chii on  to make the hand ready, but
 the question here is: should we chii with  or with ? Let’s
 compare the resulting hands in each of the two possibilities.
 
- 8 $L$ 
- 8 $L$ 
-Dora
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/souzu/2-sou.png"
+         alt="FSopentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+</fieldset>	
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/souzu/2-sou.png"
+         alt="FSopentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+</fieldset>	
 
 Notice that the ﬁrst hand can accept another dora. That is, if you
 draw , you can keep it and discard  to improve the hand value
@@ -84,9 +153,16 @@ try to have a closed hand rather than a melded hand. On the other
 hand, when your left player is leading the game, you should meld a
 bit more aggressively so you can penalize him.
 
-Seating-related tip 1
+
+
+<fieldset class="blackline">
+  <legend>Seating-related tip 1</legend>
+
 When your right player is the dealer and/or the front-runner, try
 not to call pon too much.
+</fieldset>
+
+
 
 Applying the same logic, you do not want your right player to
 call pon from your left player. This means that, if you plan to discard
@@ -99,9 +175,13 @@ than if he called pon from the North player. Moreover, if you discard
 the 1st turn as well, lowering the chance that the South player builds
 a pair of  in later turns and calls pon.
 
-Seating-related tip 2
+<fieldset class="blackline">
+  <legend>Seating-related tip 2</legend>
+
 When discarding valueless wind tiles, discard the right player’s
 wind ﬁrst, then the facing player’s wind next.
+</fieldset>
+
 
 ## Footnotes
 5
