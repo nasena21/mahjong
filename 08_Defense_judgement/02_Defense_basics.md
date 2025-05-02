@@ -78,28 +78,23 @@ in total. All the six suji and their corresponding side-wait protoruns
 are summarized in Table 8.1.
 
 Table 8.1: Six suji
-suji protorun suji protorun
-1-4 suji ‌
-4-7 suji ȷ
-2-5 suji ‌
-5-8 suji ȷﬀ
-3-6 suji 
-6-9 suji ﬀ
+| Suji     | protorun   | suji     | protorun       |
+| -------- | --------- | -------- | ----------------- |
+| 1-4 suji | <img class="singletile" src="/image/tiles/2-man.png">  <img class="singletile" src="/image/tiles/3-man.png"> | 4-7 suji | <img class="singletile" src="/image/tiles/5-man.png"> <img class="singletile" src="/image/tiles/6-man.png"> | 
+| 2-5 suji | <img class="singletile" src="/image/tiles/3-man.png"> <img class="singletile" src="/image/tiles/4-man.png"> | 5-8 suji | <img class="singletile" src="/image/tiles/6-man.png"> <img class="singletile" src="/image/tiles/7-man.png"> |
+| 3-6 suji | <img class="singletile" src="/image/tiles/4-man.png"> <img class="singletile" src="/image/tiles/5-man.png"> | 6-9 suji | <img class="singletile" src="/image/tiles/7-man.png"> <img class="singletile" src="/image/tiles/8-man.png"> |
 
 
 
 Table 8.2: suji tiles
-Genbutsu
-suji tiles
- discarded
- and ﬀ become safer
- discarded
- and  become safer
-ȷ discarded
-‌ and  become safer
- and ﬀ discarded  becomes safer
- and  discarded  becomes safer
-‌ and  discarded ȷ becomes safer
+| Genbutsu                                                                                                                  | Suji tiles                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| <img class="singletile" src="/image/tiles/4-man.png"> discarded                                                           | <img class="singletile" src="/image/tiles/1-man.png"> and <img class="singletile" src="/image/tiles/7-man.png"> become safer |
+| <img class="singletile" src="/image/tiles/5-man.png"> discarded                                                           | <img class="singletile" src="/image/tiles/2-man.png"> and <img class="singletile" src="/image/tiles/8-man.png"> become safer |
+| <img class="singletile" src="/image/tiles/6-man.png"> discarded                                                           | <img class="singletile" src="/image/tiles/3-man.png"> and <img class="singletile" src="/image/tiles/9-man.png"> become safer |
+| <img class="singletile" src="/image/tiles/1-man.png"> and <img class="singletile" src="/image/tiles/7-man.png"> discarded | <img class="singletile" src="/image/tiles/4-man.png"> become safer                                                           |
+| <img class="singletile" src="/image/tiles/2-man.png"> and <img class="singletile" src="/image/tiles/8-man.png"> discarded | <img class="singletile" src="/image/tiles/5-man.png"> become safer                                                           |
+| <img class="singletile" src="/image/tiles/3-man.png"> and <img class="singletile" src="/image/tiles/9-man.png"> discarded | <img class="singletile" src="/image/tiles/6-man.png"> become safer                                                           |
 
 When is among a player’s genbutsu, we say and ﬀare suji
 tiles. Suji tiles are safer than non-suji tiles because the furiten rule
@@ -129,8 +124,31 @@ wait. An immediate suji-trap riichi is a rather common occurrence
 in riichi mahjong primarily because of double closed shape (e.g., 135,
 246, 357, etc.). Consider the following hand.
 
-ȷ$$$ 
-Dora
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Dora</figcaption>
+</figure>
+
+</fieldset>
 
 If you call riichi by discarding the ȷ, the hand waits for ‌, which
 is a suji tile of ȷ (immediate suji-trap riichi).
@@ -145,9 +163,24 @@ is at least as dangerous as non-suji tiles.
 For example, suppose an opponent calls riichi in the 7th turn with
 the following discards.
 
-"$-
-riichi
 
+<fieldset class="no-border">
+
+
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>riichi</figcaption>
+</figure>
+
+</fieldset>
 There are three tiles in the discard that create suji tiles.
 -  makes  and ﬀ suji tiles.
 
@@ -162,10 +195,26 @@ suji tiles of  are rather dangerous. The reason why suji tiles of
 such as 	 or  until the hand becomes ready. Consider
 the following 1-away hand.
 
-Red
-ȷﬀ
-
 
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+
+</fieldset>
 We would discard  rather than . Then, if we draw - ﬁrst,
 we do insta-riichi by discarding , creating an immediate suji-trap
 wait.
@@ -199,19 +248,20 @@ then  becomes safer for that player.
 
 
 Blockade Safe tiles
-
-None
- 
-‌ 
- ‌
- ‌ﬀ
-ȷ ﬀ
-ﬀ 
- 
-
-None
-Table 8.3: Blockades
 
+
+Table 8.3: Blockades
+|                                                       |                                                                                                            |
+| ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| <img class="singletile" src="/image/tiles/1-man.png"> | None                                                                                                       |
+| <img class="singletile" src="/image/tiles/2-man.png"> | <img class="singletile" src="/image/tiles/1-man.png">                                                      |
+| <img class="singletile" src="/image/tiles/3-man.png"> | <img class="singletile" src="/image/tiles/1-man.png"><img class="singletile" src="/image/tiles/2-man.png"> |
+| <img class="singletile" src="/image/tiles/4-man.png"> | <img class="singletile" src="/image/tiles/2-man.png"><img class="singletile" src="/image/tiles/3-man.png"> |
+| <img class="singletile" src="/image/tiles/5-man.png"> | <img class="singletile" src="/image/tiles/3-man.png"><img class="singletile" src="/image/tiles/7-man.png"> |
+| <img class="singletile" src="/image/tiles/6-man.png"> | <img class="singletile" src="/image/tiles/7-man.png"><img class="singletile" src="/image/tiles/8-man.png"> |
+| <img class="singletile" src="/image/tiles/7-man.png"> | <img class="singletile" src="/image/tiles/8-man.png"><img class="singletile" src="/image/tiles/9-man.png"> |
+| <img class="singletile" src="/image/tiles/8-man.png"> | <img class="singletile" src="/image/tiles/9-man.png">                                                |
+| <img class="singletile" src="/image/tiles/9-man.png"> | None                                                                                                       |
 
 Table 8.3 summarizes possible blockades and the resulting no-chance safe tiles. Notice
 that each blockade can produce at most
@@ -276,11 +326,18 @@ have the fourth  and the fourth ‌ to have - suji wait, which
 is highly unlikely. Therefore, double-one-chance tiles are safer than
 single one-chance tiles.
 
-Tile blockade: Safety ranking
+
+<fieldset class="blackline">
+  <legend>Tile blockade: Safety ranking</legend>
+
 No chance > Double one chance > One chance (earlier turns) >
 One chance (later turns)
 ≃
 Non-suji
+
+</fieldset>
+
+
 
 Combining blockade and suji
 
@@ -295,37 +352,24 @@ Based on what we have learned so far, Table 8.5 below provides
 a ranking of tile safety.
 
 Table 8.5: Safety ranking
-Rank
-100%
-Genbutsu
-AAA
-Fourth suji terminal; Fourth honor tile
-AA
-Third suji terminal; Third honor tile
-AA-
-Second suji terminal
-A+
-Second valueless wind tile; First suji terminal
-A
-Second honor tile
-BBB
-Suji 4,5,6; No-chance tile
-BB+
-Suji 2, 8
-BB-
-Suji 3, 7; One-chance tile (earlier turns)
-B
-First honor tile
-CC
-Non-suji terminal
-C
-One-chance tile (later turns)
-DDD
-Non-suji 2,8
-DD
-Non-suji 3,7
-D
-Non-suji 4,5,6
+| Rank   | Description                                                              |
+|--------|---------------------------------------------------------------------------|
+| 100%   | Genbutsu                                                                  |
+| AAA    | Fourth suji terminal; Fourth honor tile                                   |
+| AA     | Third suji terminal; Third honor tile                                     |
+| AA-    | Second suji terminal                                                      |
+| A+     | Second valueless wind tile; First suji terminal                           |
+| A      | Second honor tile                                                         |
+| BBB    | Suji 4,5,6; No-chance tile                                                |
+| BB+    | Suji 2, 8                                                                  |
+| BB-    | Suji 3, 7; One-chance tile (earlier turns)                                |
+| B      | First honor tile                                                          |
+| CC     | Non-suji terminal                                                         |
+| C      | One-chance tile (later turns)                                             |
+| DDD    | Non-suji 2,8                                                               |
+| DD     | Non-suji 3,7                                                               |
+| D      | Non-suji 4,5,6                                                             |
+
 
 There is not much diﬀerence between ranks if they are given the
 same alphabet. Tiles in the AAA ranking are dangerous only against

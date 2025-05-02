@@ -25,7 +25,10 @@ It is simply impossible to take into account these and other impor-
 tant factors all at once in a limited amount of time. Instead, I suggest
 you utilize the following shortcut for push/fold judgement.
 
-Push/fold judgement
+
+<fieldset class="blackline">
+  <legend>Push/fold judgement</legend>
+
 When another player has a ready hand,
 Push if two of the following conditions are met:
 1. Ready hand;
@@ -35,6 +38,12 @@ Fold if two of the following conditions are met:
 1. 1-away (or worse) hand;
 2. Low scoring hand;
 3. Bad wait.
+
+</fieldset>
+
+
+
+
 
 Let me explain each component of this principle in turn.
 
@@ -97,8 +106,31 @@ can choose when the hand becomes ready in the worst possible manner.
 An example will be helpful. Suppose you have the following
 hand when another player calls riichi.
 
-‌ȷȷ$$$" $
-Dora
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Dora</figcaption>
+</figure>
+
+</fieldset>
 
 This hand is not ready but has the minimum of 7700 point, so your
 decision to push or fold depends on the third condition. Notice that
@@ -114,11 +146,31 @@ On the other hand, the following hand is also 1-away from ready
 with a high scoring potential, but it will not always lead to a goodwait
 ready hand.
 
-Red
-‌
-
-" 
-Dora
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>Dora</figcaption>
+</figure>
+
+</fieldset>
 
 Speciﬁcally, it will be a side-wait ready hand only if you draw  ﬁrst.
 If you draw - ﬁrst (which will occur with a much higher probability

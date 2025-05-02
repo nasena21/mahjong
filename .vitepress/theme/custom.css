@@ -543,6 +543,13 @@ img[alt="small"] {
   padding-top: 8px;
 }
 
+.discarded {
+  width: 100%;
+  text-align: center;
+  margin-top: 12px;
+  padding-top: 8px;
+}
+
 .underline {
   display: inline-block;
   text-align: center;

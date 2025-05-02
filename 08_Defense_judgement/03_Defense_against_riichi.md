@@ -8,7 +8,10 @@ order: 3
 Putting together what we have learned so far, the defense strategy
 against an opponent’s riichi can be summarized as follows.
 
-Defense against riichi
+
+<fieldset class="blackline">
+  <legend>Defense against riichi</legend>
+
 - Do not discard Rank D tiles against an opponent’s riichi
 until your hand becomes ready
 (unless your hand has a really good wait and a really high
@@ -20,6 +23,8 @@ has a guaranteed mangan, you can discard Rank D tiles.
 or worse, you can discard Rank B or safer tiles.
 - If you cannot satisfy the above criteria, you must completely
 fold (betaori).
+</fieldset>
+
 
 ## What to discard when you get stuck
 When you cannot identify safe tiles at all, rely on the following
@@ -41,9 +46,25 @@ Tiles outside early discards
 
 Tiles that are outside those discarded in “early” turns are relatively
 safe. Consider the following riichi.
-"$	
-D
-riichi
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>riichi</figcaption>
+</figure>
+
+</fieldset>
+
 This opponent discarded  in the 2nd turn, which is relatively early.
 This suggests that he is not very likely to have - suji wait. If
 he had a tile block ‌, he would probably have kept it and discarded
@@ -80,8 +101,23 @@ which diminishes the probability of dealing into an opponent’s sidewait
 hands. For example, suppose an opponent calls riichi with the
 following discard.
 
-"$*
-riichi
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+<figure class="figure-caption">
+    <img src="/image/tiles/7-sou.png"
+         alt="opentile">
+    <figcaption>riichi</figcaption>
+</figure>
+
+</fieldset>
 
 So far, only 2 out of 18 suji have been denied by the discards (ȷ
 and -), leaving 16 suji alive. Suppose you are considering
@@ -98,9 +134,40 @@ will decrease, making it more and more dangerous to discard a nonsuji
 tile. Suppose that the hand proceeds and the riichi’ed player’s
 discard is as follows.
 
-"$*‌
-
-
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+</fieldset>
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+</fieldset>
+
+<fieldset class="no-border">
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+</fieldset>
 
 Since as many as 16 suji waits have already been denied, there are
 only 2 suji waits that are “alive” (- and -). Then, the conditional
@@ -121,7 +188,7 @@ diﬃcult for you to guess whether he has a good wait or a bad wait.
 This is because he would not shy away from riichi even with a badwait
 hand. You cannot rely too much on suji theories in such situations.
 
-## FOotnotes
+## Footnotes
 4
 Since the riichi’ed player may not have a side-wait hand, the joint probability
 that this is a side-wait hand and the hand waits for  is even lower than

@@ -733,14 +733,34 @@ while keeping a yaku-less ready hand.
 </figure>
 
 </fieldset>
-This hand has one dora with a bad wait (single wait of  or ).
+
+This hand has one dora with a bad wait (single wait of 
+![singletile](/image/tiles/8-pin.png) or 
+![singletile](/image/tiles/8-man.png)
+).
 According to the riichi criteria given at the beginning of this chapter,
 you could call riichi with this hand. In fact, if it is already the 9th turn
 or later, you should deﬁnitely do insta-riichi. However, if it is the 6th
-turn or before, waiting in dama by discarding  or  is an option. If
-you draw any of ‌
- (7 kinds–21 tiles), the hand becomes
-pinfu with a semi side wait. Moreover, withȷ	
+turn or before, waiting in dama by discarding 
+![singletile](/image/tiles/8-pin.png) or 
+![singletile](/image/tiles/8-man.png) is an option. If
+you draw any of ‌
+![singletile](/image/tiles/3-man.png)
+![singletile](/image/tiles/5-man.png)
+![singletile](/image/tiles/3-pin.png)
+![singletile](/image/tiles/5-pin.png)
+![singletile](/image/tiles/1-sou.png)
+![singletile](/image/tiles/6-sou.png)
+![singletile](/image/tiles/8-sou.png)
+ (7 kinds–21 tiles), the hand becomes
+pinfu with a semi side wait. Moreover, with 
+![singletile](/image/tiles/2-man.png)
+![singletile](/image/tiles/6-man.png)
+![singletile](/image/tiles/2-pin.png)
+![singletile](/image/tiles/6-pin.png)
+![singletile](/image/tiles/4-sou.png)
+![singletile](/image/tiles/5-sou.png)
+![singletile](/image/tiles/9-sou.png)
 (7 kinds–28 tiles) the wait will become a stretched single wait. When
 there are this many possibilities of improving a hand (14 kinds–49
 tiles), it is OK to go dama with a yaku-less hand.
