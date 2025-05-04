@@ -28,12 +28,28 @@ you are the North player in the 6th turn in South-3. You are
 currently ranked ﬁrst, and you only have 1000 more points than the
 second ranked player (West).
 
-Riichi judgement in South-3: dora ȷ
-‌ȷﬀ
+<fieldset class="mahjong-group">
+<legend>Riichi judgement in South-3: dora ȷ</legend>
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
 
 
-"
-Riichi or dama?
+<figure class="tile-with-caption">
+    <img src="/image/souzu/2-sou.png"
+         alt="FSopentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">Riichi or dama?</div> 
+
+</fieldset>	
+
 
 The choice here is between keeping the hand dama to maximize your
 chance of winning the hand or calling riichi to aim for a bigger point

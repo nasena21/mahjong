@@ -129,11 +129,30 @@ are the North player in the 6th turn in South-4. You are currently
 ranked second, and the ﬁrst ranked player (South) has 5100 more
 points.
 
-South-4: 5100 points behind, dora ȷ
-‌ȷ
- 
-Draw
-What would you discard?
+
+<fieldset class="mahjong-group">
+<legend>South-4: 5100 points behind, dora ȷ</legend>
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/souzu/2-sou.png"
+         alt="FSopentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">What would you discard?</div> 
+
+</fieldset>	
+
+
 
 If you keep  and discard , the hand is ready. However, doing
 insta-riichi with the current hand is not ideal. Since the hand
@@ -189,46 +208,52 @@ you are the dealer, you do not usually need to do these calculations
 because you get to continue the game if you win a hand anyway.
 However, when playing with a bankruptcy rule or with time limits,
 
-10.1. WHAT TO DO IN SOUTH-4
-241
-Table 10.1: Limit hands
-Table 10.2: 30 minipoints
-Tsumo Non-dealer Dealer
-Tsumo Non-dealer Dealer
-mangan
-10000 12000
-300-500
-1400 1600
-haneman
-15000 18000
-500-1000
-2500 3000
-baiman
-20000 24000
-1000-2000
-5000 6000
-sanbaiman
-30000 36000
-2000-3900
-9900 11800
-yakuman
-40000 48000
-Table 10.3: 40 (20) minipoints
-Table 10.4: 50 (25) minipoints
-Tsumo Non-dealer Dealer
-tsumo Non-dealer Dealer
-400-700
-1900 2200
-400-800
-2000 2400
-700-1300
-3400 4000
-800-1600
-4000 4800
-1300-2600
-6500 7800
-1600-3200
-8000 9600
+
+---
+
+### Table 10.1: Limit hands
+
+| Tsumo     | Non-dealer | Dealer |
+| --------- | ---------- | ------ |
+| mangan    | 10000      | 12000  |
+| haneman   | 15000      | 18000  |
+| baiman    | 20000      | 24000  |
+| sanbaiman | 30000      | 36000  |
+| yakuman   | 40000      | 48000  |
+
+---
+
+### Table 10.2: 30 minipoints
+
+| Tsumo     | Non-dealer | Dealer |
+| --------- | ---------- | ------ |
+| 300–500   | 1400       | 1600   |
+| 500–1000  | 2500       | 3000   |
+| 1000–2000 | 5000       | 6000   |
+| 2000–3900 | 9900       | 11800  |
+
+---
+
+### Table 10.3: 40 (20) minipoints
+
+| Tsumo     | Non-dealer | Dealer |
+| --------- | ---------- | ------ |
+| 400–700   | 1900       | 2200   |
+| 700–1300  | 3400       | 4000   |
+| 1300–2600 | 6500       | 7800   |
+
+---
+
+### Table 10.4: 50 (25) minipoints
+
+| Tsumo     | Non-dealer | Dealer |
+| --------- | ---------- | ------ |
+| 400–800   | 2000       | 2400   |
+| 800–1600  | 4000       | 4800   |
+| 1600–3200 | 8000       | 9600   |
+
+---
+
 
 the dealer may not be able to continue the game, in which case even
 the dealer has to consider if winning a particular hand improves the
@@ -241,11 +266,28 @@ consider the following hand. Assume that you are the North player
 in the 6th turn in South-4. You are currently ranked second, and the
 ﬁrst ranked player (South) has 3300 more points.
 
-South-4: 3300 points behind, dora 
-ﬀ
- 
-Draw
-What would you discard?
+
+<fieldset class="mahjong-group">
+<legend>South-4: 3300 points behind, dora </legend>
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/souzu/2-sou.png"
+         alt="FSopentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">What would you discard?</div> 
+
+</fieldset>	
 
 You wanted to draw ȷ ﬁrst so that you can have riichi + pinfu + one
 dora = 3900. Winning that hand by ron from anyone would improve
@@ -266,9 +308,30 @@ turn in South-4. You are currently ranked second, and the ﬁrst ranked
 player (East) has 4700 more points. What are the conditions under
 which you can improve your placement with the following hand?
 
-South-4: 4700 points behind, dora 
-$$ : /
-What are you waiting for?
+
+
+<fieldset class="mahjong-group">
+<legend>South-4: 4700 points behind, dora </legend>
+
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+
+
+<figure class="tile-with-caption">
+    <img src="/image/souzu/2-sou.png"
+         alt="FSopentile">
+    <figcaption>Draw</figcaption>
+</figure>
+
+
+<div class="discard-question">What are you waiting for?</div> 
+
+</fieldset>	
+
 
 Winning this hand on $ by ron from anyone or tsumo satisﬁes the
 condition because it gives you 5200 points (toitoi + Green Dragon
@@ -308,6 +371,11 @@ aims to do. Recall the situation I described in discussing riichi
 judgement in Section 7.3, reproduced below.
 
 Let’s think about the incentive structure for each of the other three
+
+| East (you)     | 39000 | South | 22900 |
+| --------- | ---------- | ------ | ------ |
+| West  | 13000       | North   | 25100 |
+
 
  East (you) 39000 South 22900
 West
