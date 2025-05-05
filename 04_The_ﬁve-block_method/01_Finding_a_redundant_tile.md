@@ -13,23 +13,25 @@ Consider the following hand. What would you discard and why?
 
 <div class="no-border">
 
-![FSmidletile](/image/manzu/5-man.png)
-![FSmidletile](/image/manzu/5-man.png)
-![FSmidletile](/image/manzu/7-man.png)
-![FSmidletile](/image/manzu/8-man.png)
 
-![FSmidletile](/image/pinzu/2-pin.png)
-![FSmidletile](/image/pinzu/4-pin.png)
-![FSmidletile](/image/pinzu/5-pin.png)
-![FSmidletile](/image/pinzu/6-pin.png)
+![drawtile](/image/tiles/5-man.png)
+![drawtile](/image/tiles/5-man.png)
+![drawtile](/image/tiles/7-man.png)
+![drawtile](/image/tiles/8-man.png)
 
-![FSmidletile](/image/souzu/1-sou.png)
-![FSmidletile](/image/souzu/3-sou.png)
-![FSmidletile](/image/souzu/3-sou.png)
+![drawtile](/image/tiles/2-pin.png)
+![drawtile](/image/tiles/4-pin.png)
+![drawtile](/image/tiles/5-pin.png)
+![drawtile](/image/tiles/6-pin.png)
 
-![FSmidletile](/image/honor/chun.png)
-![FSmidletile](/image/honor/chun.png)
-![FSmidletile](/image/honor/chun.png)
+![drawtile](/image/tiles/1-sou.png)
+![drawtile](/image/tiles/3-sou.png)
+![drawtile](/image/tiles/3-sou.png)
+
+![drawtile](/image/tiles/chun.png)
+![drawtile](/image/tiles/chun.png)
+![drawtile](/image/tiles/chun.png)
+
 
 
 </div>
@@ -41,36 +43,36 @@ the hand into tile blocks, as follows.
 
 <div class="underline">
 
-  ![FSmidletile](/image/manzu/5-man.png)
-  ![FSmidletile](/image/manzu/5-man.png)
+  ![drawtile](/image/tiles/5-man.png)
+  ![drawtile](/image/tiles/5-man.png)
 </div>
 
 <div class="underline">
 
-  ![FSmidletile](/image/manzu/7-man.png)
-  ![FSmidletile](/image/manzu/8-man.png)
+  ![drawtile](/image/tiles/7-man.png)
+  ![drawtile](/image/tiles/8-man.png)
 </div>
 
 <div class="underline">
 
-  ![FSmidletile](/image/pinzu/2-pin.png)
-  ![FSmidletile](/image/pinzu/4-pin.png)
-  ![FSmidletile](/image/pinzu/5-pin.png)
-  ![FSmidletile](/image/pinzu/6-pin.png)
+  ![drawtile](/image/tiles/2-pin.png)
+  ![drawtile](/image/tiles/4-pin.png)
+  ![drawtile](/image/tiles/5-pin.png)
+  ![drawtile](/image/tiles/6-pin.png)
 </div>
 
 <div class="underline">
 
-  ![FSmidletile](/image/souzu/1-sou.png)
-  ![FSmidletile](/image/souzu/3-sou.png)
-  ![FSmidletile](/image/souzu/3-sou.png)
+  ![drawtile](/image/tiles/1-sou.png)
+  ![drawtile](/image/tiles/3-sou.png)
+  ![drawtile](/image/tiles/3-sou.png)
 </div>
 
 <div class="underline">
 
-  ![FSmidletile](/image/honor/chun.png)
-  ![FSmidletile](/image/honor/chun.png)
-  ![FSmidletile](/image/honor/chun.png)
+  ![drawtile](/image/tiles/chun.png)
+  ![drawtile](/image/tiles/chun.png)
+  ![drawtile](/image/tiles/chun.png)
 </div>
 
 
@@ -80,56 +82,56 @@ head and which blocks are going to be four groups at the moment,
 the hand already has ﬁve tile blocks. This means that there is no need
 to increase or decrease the number of blocks from here.
 
-Looking at each of the ﬁve blocks, the pair of ![onetile](/image/manzu/5-man.png), the protorun
-![midletile](/image/manzu/7-man.png)
-![onetile](/image/manzu/8-man.png), and the set of 
-![onetile](/image/honor/chun.png) are all self-sufficient; we keep them as they
+Looking at each of the ﬁve blocks, the pair of ![singletile](/image/tiles/5-man.png), the protorun
+![singletile](/image/tiles/7-man.png)
+![singletile](/image/tiles/8-man.png), and the set of 
+![singletile](/image/tiles/chun.png) are all self-sufficient; we keep them as they
 are. Our discard choice should thus be from the third or the fourth
 blocks, 
-![midletile](/image/pinzu/2-pin.png)
-![midletile](/image/pinzu/4-pin.png)
-![midletile](/image/pinzu/5-pin.png)
-![onetile](/image/pinzu/5-pin.png) or 
-![midletile](/image/souzu/1-sou.png)
-![midletile](/image/souzu/3-sou.png)
-![onetile](/image/souzu/3-sou.png). Let’s now compare these two closedwait
+![singletile](/image/tiles/2-pin.png)
+![singletile](/image/tiles/4-pin.png)
+![singletile](/image/tiles/5-pin.png)
+![singletile](/image/tiles/5-pin.png) or 
+![singletile](/image/tiles/1-sou.png)
+![singletile](/image/tiles/3-sou.png)
+![singletile](/image/tiles/3-sou.png). Let’s now compare these two closedwait
 blocks. While 
-![onetile](/image/souzu/1-sou.png) is being useful within the block it belongs to,
+![singletile](/image/tiles/1-sou.png) is being useful within the block it belongs to,
 enabling the hand to accept 
-![onetile](/image/souzu/2-sou.png), 
-![onetile](/image/pinzu/2-pin.png)is completely redundant; the hand
+![singletile](/image/tiles/2-sou.png), 
+![singletile](/image/tiles/2-pin.png)is completely redundant; the hand
 can accept 
-![onetile](/image/pinzu/3-pin.png) without having 
-![onetile](/image/pinzu/2-pin.png). Therefore, the ideal discard here is 
-![onetile](/image/pinzu/2-pin.png).
+![singletile](/image/tiles/3-pin.png) without having 
+![singletile](/image/tiles/2-pin.png). Therefore, the ideal discard here is 
+![singletile](/image/tiles/2-pin.png).
 
 There are two key points to remember in applying the ﬁve-block
 method. First, we should not make any one of the ﬁve blocks “too
 weak.”
 3
 In the current example, if we discard 
-![onetile](/image/souzu/3-sou.png), the 
-![midletile](/image/souzu/1-sou.png)
-![midletile](/image/souzu/3-sou.png)
-![onetile](/image/souzu/3-sou.png) block
+![singletile](/image/tiles/3-sou.png), the 
+![singletile](/image/tiles/1-sou.png)
+![singletile](/image/tiles/3-sou.png)
+![singletile](/image/tiles/3-sou.png) block
 becomes an isolated closed-wait protorun, which is too weak compared
 with the other blocks. Likewise, if we discard 
-![onetile](/image/souzu/1-sou.png), this block
+![singletile](/image/tiles/1-sou.png), this block
 becomes a pair of 
-![onetile](/image/souzu/3-sou.png). Since this hand already has two other pairs,
+![singletile](/image/tiles/3-sou.png). Since this hand already has two other pairs,
 having a third pair makes all the pairs in the hand too weak.
 
 Second, each of the ﬁve tile blocks should ideally have three tiles.
 In the current example, the 
-![midletile](/image/souzu/1-sou.png)
-![midletile](/image/souzu/3-sou.png)
-![onetile](/image/souzu/3-sou.png) block has exactly three tiles and
+![singletile](/image/tiles/1-sou.png)
+![singletile](/image/tiles/3-sou.png)
+![singletile](/image/tiles/3-sou.png) block has exactly three tiles and
 so we should not choose a discard from this block. On the other hand,
 the 
-![midletile](/image/pinzu/2-pin.png)
-![midletile](/image/pinzu/4-pin.png)
-![midletile](/image/pinzu/5-pin.png)
-![onetile](/image/pinzu/5-pin.png)
+![singletile](/image/tiles/2-pin.png)
+![singletile](/image/tiles/4-pin.png)
+![singletile](/image/tiles/5-pin.png)
+![singletile](/image/tiles/5-pin.png)
  block currently has four tiles so we should discard one
 from this block to make this a three-tile block.
 
@@ -153,28 +155,28 @@ Let’s see another example.
 
 <fieldset class="no-border">
 
-![FSmidletile](/image/manzu/3-man.png)
-![FSmidletile](/image/manzu/5-man.png)
-![FSmidletile](/image/manzu/7-man.png)
+![drawtile](/image/tiles/3-man.png)
+![drawtile](/image/tiles/5-man.png)
+![drawtile](/image/tiles/7-man.png)
 
-![FSmidletile](/image/pinzu/4-pin.png)
-![FSmidletile](/image/pinzu/5-pin.png)
-![FSmidletile](/image/pinzu/6-pin.png)
-![FSmidletile](/image/pinzu/6-pin.png)
-![FSmidletile](/image/pinzu/7-pin.png)
+![drawtile](/image/tiles/4-pin.png)
+![drawtile](/image/tiles/5-pin.png)
+![drawtile](/image/tiles/6-pin.png)
+![drawtile](/image/tiles/6-pin.png)
+![drawtile](/image/tiles/7-pin.png)
 
-![FSmidletile](/image/souzu/4-sou.png)
-![FSmidletile](/image/souzu/6-sou.png)
-![FSmidletile](/image/souzu/6-sou.png)
-![FSmidletile](/image/souzu/8-sou.png)
+![drawtile](/image/tiles/4-sou.png)
+![drawtile](/image/tiles/6-sou.png)
+![drawtile](/image/tiles/6-sou.png)
+![drawtile](/image/tiles/8-sou.png)
 
-![FSmidletile](/image/honor/haku.png)
-![FSmidletile](/image/honor/haku.png)
+![drawtile](/image/tiles/haku.png)
+![drawtile](/image/tiles/haku.png)
 
 
 <figure class="tile-with-caption">
-    <img src="/image/honor/haku.png"
-         alt="FSopentile">
+    <img src="/image/tiles/haku.png"
+         alt="drawtile">
     <figcaption>Dora</figcaption>
 </figure>
 
@@ -189,54 +191,54 @@ Therefore, we divide the hand as follows.
 
 <div class="underline">
 
-![FSmidletile](/image/manzu/3-man.png)
-![FSmidletile](/image/manzu/5-man.png)
-![FSmidletile](/image/manzu/7-man.png)
+![drawtile](/image/tiles/3-man.png)
+![drawtile](/image/tiles/5-man.png)
+![drawtile](/image/tiles/7-man.png)
 </div>
 
 <div class="underline">
 
 
 
-![FSmidletile](/image/pinzu/4-pin.png)
-![FSmidletile](/image/pinzu/5-pin.png)
-![FSmidletile](/image/pinzu/6-pin.png)
+![drawtile](/image/tiles/4-pin.png)
+![drawtile](/image/tiles/5-pin.png)
+![drawtile](/image/tiles/6-pin.png)
 </div>
 
 <div class="underline">
 
-![FSmidletile](/image/pinzu/6-pin.png)
-![FSmidletile](/image/pinzu/7-pin.png)
+![drawtile](/image/tiles/6-pin.png)
+![drawtile](/image/tiles/7-pin.png)
 </div>
 
 <div class="underline">
 
 
 
-![FSmidletile](/image/souzu/4-sou.png)
-![FSmidletile](/image/souzu/6-sou.png)
-![FSmidletile](/image/souzu/6-sou.png)
-![FSmidletile](/image/souzu/8-sou.png)
+![drawtile](/image/tiles/4-sou.png)
+![drawtile](/image/tiles/6-sou.png)
+![drawtile](/image/tiles/6-sou.png)
+![drawtile](/image/tiles/8-sou.png)
 </div>
 
 <div class="underline">
 
-![FSmidletile](/image/honor/haku.png)
-![FSmidletile](/image/honor/haku.png)
+![drawtile](/image/tiles/haku.png)
+![drawtile](/image/tiles/haku.png)
 </div>
 
 
 
-Since we should not create a block that is too weak, discarding ![onetile](/image/manzu/3-man.png)‌ or
-![onetile](/image/manzu/7-man.png) is not an option. Notice that the block in souzu (bamboos) has
+Since we should not create a block that is too weak, discarding ![singletile](/image/tiles/3-man.png)‌ or
+![singletile](/image/tiles/7-man.png) is not an option. Notice that the block in souzu (bamboos) has
 four tiles. We should thus discard one from this block. In case the
 pair of white dragon later becomes a set, we should keep the pair
 of 
-![onetile](/image/souzu/9-sou.png), leaving 
-![onetile](/image/souzu/4-sou.png) or 
-![onetile](/image/souzu/8-sou.png) as a discard candidate. Given that ![onetile](/image/souzu/4-sou.png) has a
+![singletile](/image/tiles/9-sou.png), leaving 
+![singletile](/image/tiles/4-sou.png) or 
+![singletile](/image/tiles/8-sou.png) as a discard candidate. Given that ![singletile](/image/tiles/4-sou.png) has a
 higher chance of creating a side-wait protorun, we should discard
-![onetile](/image/souzu/8-sou.png). Then, none of the ﬁve blocks is too weak, and each block has at
+![singletile](/image/tiles/8-sou.png). Then, none of the ﬁve blocks is too weak, and each block has at
 most three tiles.
 
 In the two examples we saw above, you might have been able

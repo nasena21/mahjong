@@ -8,22 +8,22 @@ Consider the following hand. What would you discard and why?
 
 <div class="no-border">
 
-![FSmidletile](/image/manzu/3-man.png)
-![FSmidletile](/image/manzu/3-man.png)
-![FSmidletile](/image/manzu/4-man.png)
-![FSmidletile](/image/manzu/6-man.png)
+![drawtile](/image/tiles/3-man.png)
+![drawtile](/image/tiles/3-man.png)
+![drawtile](/image/tiles/4-man.png)
+![drawtile](/image/tiles/6-man.png)
 
-![FSmidletile](/image/pinzu/2-pin.png)
-![FSmidletile](/image/pinzu/2-pin.png)
-![FSmidletile](/image/pinzu/4-pin.png)
-![FSmidletile](/image/pinzu/5-pin.png)
-![FSmidletile](/image/pinzu/6-pin.png)
-![FSmidletile](/image/pinzu/6-pin.png)
-![FSmidletile](/image/pinzu/7-pin.png)
+![drawtile](/image/tiles/2-pin.png)
+![drawtile](/image/tiles/2-pin.png)
+![drawtile](/image/tiles/4-pin.png)
+![drawtile](/image/tiles/5-pin.png)
+![drawtile](/image/tiles/6-pin.png)
+![drawtile](/image/tiles/6-pin.png)
+![drawtile](/image/tiles/7-pin.png)
 
-![FSmidletile](/image/honor/chun.png)
-![FSmidletile](/image/honor/chun.png)
-![FSmidletile](/image/honor/chun.png)
+![drawtile](/image/tiles/chun.png)
+![drawtile](/image/tiles/chun.png)
+![drawtile](/image/tiles/chun.png)
 
 
 </div>
@@ -33,114 +33,114 @@ Let’s ﬁrst divide the hand into ﬁve tile blocks.
 
 <div class="underline">
 
-![FSmidletile](/image/manzu/3-man.png)
-![FSmidletile](/image/manzu/3-man.png)
-![FSmidletile](/image/manzu/4-man.png)
-![FSmidletile](/image/manzu/6-man.png)
+![drawtile](/image/tiles/3-man.png)
+![drawtile](/image/tiles/3-man.png)
+![drawtile](/image/tiles/4-man.png)
+![drawtile](/image/tiles/6-man.png)
 </div>
 
 <div class="underline">
 
-![FSmidletile](/image/pinzu/2-pin.png)
-![FSmidletile](/image/pinzu/2-pin.png)
+![drawtile](/image/tiles/2-pin.png)
+![drawtile](/image/tiles/2-pin.png)
 </div>
 
 <div class="underline">
 
-![FSmidletile](/image/pinzu/4-pin.png)
-![FSmidletile](/image/pinzu/5-pin.png)
-![FSmidletile](/image/pinzu/6-pin.png)
+![drawtile](/image/tiles/4-pin.png)
+![drawtile](/image/tiles/5-pin.png)
+![drawtile](/image/tiles/6-pin.png)
 </div>
 
 <div class="underline">
 
-![FSmidletile](/image/pinzu/6-pin.png)
-![FSmidletile](/image/pinzu/7-pin.png)
+![drawtile](/image/tiles/6-pin.png)
+![drawtile](/image/tiles/7-pin.png)
 </div>
 
 <div class="underline">
 
 
-![FSmidletile](/image/honor/chun.png)
-![FSmidletile](/image/honor/chun.png)
-![FSmidletile](/image/honor/chun.png)
+![drawtile](/image/tiles/chun.png)
+![drawtile](/image/tiles/chun.png)
+![drawtile](/image/tiles/chun.png)
 </div>
 
 
-This makes it clearer that, just like the previous example, ![onetile](/image/manzu/6-man.png) is
+This makes it clearer that, just like the previous example, ![singletile](/image/tiles/6-man.png) is
 creating a redundant closed-wait protorun, so we should discard it.
 Also, discarding 
-![onetile](/image/manzu/6-man.png) makes this a three-tile block.
+![singletile](/image/tiles/6-man.png) makes this a three-tile block.
 
 However, there is an alternative way to divide this hand into ﬁve
 blocks, and situational changes may call for such an alternative conﬁguration.
 Suppose that your opponents have already discarded all
 four tiles of 
-![onetile](/image/manzu/2-man.png). Suppose also that 
-![onetile](/image/pinzu/3-pin.png)
+![singletile](/image/tiles/2-man.png). Suppose also that 
+![singletile](/image/tiles/3-pin.png)
  seems live in the wall. Or, suppose 
-![onetile](/image/manzu/3-man.png)
+![singletile](/image/tiles/3-man.png)
 ‌-
-![onetile](/image/manzu/6-man.png) tiles seem too dangerous to discard against an opponent.
+![singletile](/image/tiles/6-man.png) tiles seem too dangerous to discard against an opponent.
 Then, we might want to divide the hand in the following way instead.
 ‌‌
 
 <div class="underline">
 
-![FSmidletile](/image/manzu/3-man.png)
-![FSmidletile](/image/manzu/3-man.png)
+![drawtile](/image/tiles/3-man.png)
+![drawtile](/image/tiles/3-man.png)
 </div>
 
 <div class="underline">
 
 
-![FSmidletile](/image/manzu/4-man.png)
-![FSmidletile](/image/manzu/6-man.png)
+![drawtile](/image/tiles/4-man.png)
+![drawtile](/image/tiles/6-man.png)
 </div>
 
 <div class="underline">
 
 
-![FSmidletile](/image/pinzu/2-pin.png)
-![FSmidletile](/image/pinzu/2-pin.png)
-![FSmidletile](/image/pinzu/4-pin.png)
-![FSmidletile](/image/pinzu/5-pin.png)
-![FSmidletile](/image/pinzu/6-pin.png)
-![FSmidletile](/image/pinzu/6-pin.png)
-![FSmidletile](/image/pinzu/7-pin.png)
+![drawtile](/image/tiles/2-pin.png)
+![drawtile](/image/tiles/2-pin.png)
+![drawtile](/image/tiles/4-pin.png)
+![drawtile](/image/tiles/5-pin.png)
+![drawtile](/image/tiles/6-pin.png)
+![drawtile](/image/tiles/6-pin.png)
+![drawtile](/image/tiles/7-pin.png)
 </div>
 
 <div class="underline">
 
 
-![FSmidletile](/image/honor/chun.png)
-![FSmidletile](/image/honor/chun.png)
-![FSmidletile](/image/honor/chun.png)
+![drawtile](/image/tiles/chun.png)
+![drawtile](/image/tiles/chun.png)
+![drawtile](/image/tiles/chun.png)
 </div>
 
 
 That is, we aim to make the pair of 
-![onetile](/image/manzu/3-man.png) the head of this hand, and
+![singletile](/image/tiles/3-man.png) the head of this hand, and
 we seek to have two runs in pinzu (dots). If we discard 
-![onetile](/image/pinzu/2-pin.png), this block
+![singletile](/image/tiles/2-pin.png), this block
 becomes 
-![midletile](/image/pinzu/2-pin.png)
-![midletile](/image/pinzu/4-pin.png)
-![midletile](/image/pinzu/5-pin.png)
-![midletile](/image/pinzu/6-pin.png)
-![midletile](/image/pinzu/6-pin.png)
-![onetile](/image/pinzu/7-pin.png). Recall that a block like this can be split into 
-![midletile](/image/pinzu/2-pin.png)
-![midletile](/image/pinzu/4-pin.png)
-![onetile](/image/pinzu/6-pin.png) + 
-![midletile](/image/pinzu/5-pin.png)
-![midletile](/image/pinzu/6-pin.png)
-![onetile](/image/pinzu/7-pin.png) (recall the discussion of double closed shape in
+![singletile](/image/tiles/2-pin.png)
+![singletile](/image/tiles/4-pin.png)
+![singletile](/image/tiles/5-pin.png)
+![singletile](/image/tiles/6-pin.png)
+![singletile](/image/tiles/6-pin.png)
+![singletile](/image/tiles/7-pin.png). Recall that a block like this can be split into 
+![singletile](/image/tiles/2-pin.png)
+![singletile](/image/tiles/4-pin.png)
+![singletile](/image/tiles/6-pin.png) + 
+![singletile](/image/tiles/5-pin.png)
+![singletile](/image/tiles/6-pin.png)
+![singletile](/image/tiles/7-pin.png) (recall the discussion of double closed shape in
 Section 3.3.1). Therefore, this block can accept 
-![onetile](/image/pinzu/3-pin.png)
+![singletile](/image/tiles/3-pin.png)
  as well as 
-![onetile](/image/pinzu/5-pin.png)- 
-![onetile](/image/pinzu/9-pin.png)
+![singletile](/image/tiles/5-pin.png)- 
+![singletile](/image/tiles/9-pin.png)
 to make two runs in pinzu. The block in pinzu will have six tiles, but
 this is OK because this block is worth two.
 
@@ -170,24 +170,24 @@ the answers before you actually derive your own answer.
 <div class="discard-question">What would you discard?</div>
 <div class="discard-question">How do you divide the hand into tile blocks</div>
 
-![FSfirsttile](/image/manzu/4-man.png)
-![FSmidletile](/image/akadora/5-man.png)
-![FSmidletile](/image/manzu/5-man.png)
-![FSmidletile](/image/manzu/7-man.png)
-![FSmidletile](/image/manzu/8-man.png)
-![FSmidletile](/image/manzu/9-man.png)
-![FSmidletile](/image/pinzu/4-pin.png)
-![FSmidletile](/image/pinzu/5-pin.png)
-![FSmidletile](/image/pinzu/6-pin.png)
-![FSmidletile](/image/pinzu/6-pin.png)
-![FSmidletile](/image/pinzu/7-pin.png)
-![FSmidletile](/image/souzu/7-sou.png)
-![FSmidletile](/image/souzu/7-sou.png)
+![drawtile](/image/tiles/4-man.png)
+![drawtile](/image/tiles/5r-man.png)
+![drawtile](/image/tiles/5-man.png)
+![drawtile](/image/tiles/7-man.png)
+![drawtile](/image/tiles/8-man.png)
+![drawtile](/image/tiles/9-man.png)
+![drawtile](/image/tiles/4-pin.png)
+![drawtile](/image/tiles/5-pin.png)
+![drawtile](/image/tiles/6-pin.png)
+![drawtile](/image/tiles/6-pin.png)
+![drawtile](/image/tiles/7-pin.png)
+![drawtile](/image/tiles/7-sou.png)
+![drawtile](/image/tiles/7-sou.png)
 
 
 <figure class="tile-with-caption">
-    <img src="/image/pinzu/2-pin.png"
-         alt="FSopentile">
+    <img src="/image/tiles/2-pin.png"
+         alt="drawtile">
     <figcaption>Draw</figcaption>
 </figure>
 
@@ -203,47 +203,45 @@ the answers before you actually derive your own answer.
 
 <div class="underline">
 
-![FSmidletile](/image/manzu/3-man.png)
-![FSmidletile](/image/manzu/4-man.png)
+![drawtile](/image/tiles/3-man.png)
+![drawtile](/image/tiles/4-man.png)
 </div>
 
 <div class="underline">
 
 
-![FSmidletile](/image/manzu/6-man.png)
-![FSmidletile](/image/manzu/6-man.png)
+![drawtile](/image/tiles/6-man.png)
+![drawtile](/image/tiles/6-man.png)
 </div>
 
 <div class="underline">
 
-![FSmidletile](/image/pinzu/3-pin.png)
-![FSmidletile](/image/pinzu/4-pin.png)
-![FSmidletile](/image/pinzu/5-pin.png)
+![drawtile](/image/tiles/3-pin.png)
+![drawtile](/image/tiles/4-pin.png)
+![drawtile](/image/tiles/5-pin.png)
 </div>
 
 <div class="underline">
 
-
-
-![FSmidletile](/image/souzu/3-sou.png)
-![FSmidletile](/image/souzu/3-sou.png)
-![FSmidletile](/image/souzu/4-sou.png)
-![FSmidletile](/image/souzu/5-sou.png)
-![FSmidletile](/image/souzu/6-sou.png)
-![FSmidletile](/image/souzu/7-sou.png)
-![FSmidletile](/image/souzu/7-sou.png)
+![drawtile](/image/tiles/3-sou.png)
+![drawtile](/image/tiles/3-sou.png)
+![drawtile](/image/tiles/4-sou.png)
+![drawtile](/image/tiles/5-sou.png)
+![drawtile](/image/tiles/6-sou.png)
+![drawtile](/image/tiles/7-sou.png)
+![drawtile](/image/tiles/7-sou.png)
 </div>
 
 
 
-<div class="discard-question">With the draw of <img src="/image/pinzu/4-pin.png" alt="onetile">, we now have a 3-way side-wait block in
+<div class="discard-question">With the draw of <img src="/image/tiles/4-pin.png" alt="singletile">, we now have a 3-way side-wait block in
 souzu (bamboos). 
-<img src="/image/pinzu/3-pin.png" alt="onetile"> or 
-<img src="/image/pinzu/7-pin.png" alt="onetile"> could be our back-up candidate for
+<img src="/image/tiles/3-pin.png" alt="singletile"> or 
+<img src="/image/tiles/7-pin.png" alt="singletile"> could be our back-up candidate for
 the head, in case we draw another 
-<img src="/image/manzu/6-man.png" alt="onetile">. Since there is a potential
+<img src="/image/tiles/6-man.png" alt="singletile">. Since there is a potential
 for sanshoku (Mixed Triple Chow) of 345, we discard 
-<img src="/image/pinzu/3-pin.png" alt="onetile">
+<img src="/image/tiles/3-pin.png" alt="singletile">
 .</div>
 
 </fieldset>
@@ -258,25 +256,25 @@ for sanshoku (Mixed Triple Chow) of 345, we discard
 <div class="discard-question">What would you discard?</div>
 <div class="discard-question">How do you divide the hand into tile blocks</div>
 
-![FSfirsttile](/image/manzu/5-man.png)
-![FSmidletile](/image/manzu/7-man.png)
-![FSmidletile](/image/pinzu/1-pin.png)
-![FSmidletile](/image/pinzu/1-pin.png)
-![FSmidletile](/image/pinzu/2-pin.png)
-![FSmidletile](/image/pinzu/3-pin.png)
-![FSmidletile](/image/pinzu/4-pin.png)
-![FSmidletile](/image/pinzu/4-pin.png)
-![FSmidletile](/image/pinzu/5-pin.png)
-![FSmidletile](/image/pinzu/7-pin.png)
-![FSmidletile](/image/souzu/3-sou.png)
-![FSmidletile](/image/souzu/5-sou.png)
-![FSmidletile](/image/souzu/5-sou.png)
+![drawtile](/image/tiles/5-man.png)
+![drawtile](/image/tiles/7-man.png)
+![drawtile](/image/tiles/1-pin.png)
+![drawtile](/image/tiles/1-pin.png)
+![drawtile](/image/tiles/2-pin.png)
+![drawtile](/image/tiles/3-pin.png)
+![drawtile](/image/tiles/4-pin.png)
+![drawtile](/image/tiles/4-pin.png)
+![drawtile](/image/tiles/5-pin.png)
+![drawtile](/image/tiles/7-pin.png)
+![drawtile](/image/tiles/3-sou.png)
+![drawtile](/image/tiles/5-sou.png)
+![drawtile](/image/tiles/5-sou.png)
 
 
 
 <figure class="tile-with-caption">
-    <img src="/image/pinzu/4-pin.png"
-         alt="FSopentile">
+    <img src="/image/tiles/4-pin.png"
+         alt="drawtile">
     <figcaption>Draw</figcaption>
 </figure>
 
@@ -292,39 +290,39 @@ for sanshoku (Mixed Triple Chow) of 345, we discard
 
 <div class="underline">
 
-![FSfirsttile](/image/manzu/5-man.png)
-![FSmidletile](/image/manzu/7-man.png)
+![drawtile](/image/tiles/5-man.png)
+![drawtile](/image/tiles/7-man.png)
 </div>
 
-<img src="/image/pinzu/1-pin.png" alt="FSmidletile">
+<img src="/image/tiles/1-pin.png" alt="drawtile">
 
 
 
 <div class="underline">
 
-![FSmidletile](/image/pinzu/1-pin.png)
-![FSmidletile](/image/pinzu/2-pin.png)
-![FSmidletile](/image/pinzu/3-pin.png)
+![drawtile](/image/tiles/1-pin.png)
+![drawtile](/image/tiles/2-pin.png)
+![drawtile](/image/tiles/3-pin.png)
 </div>
 
 <div class="underline">
 
-![FSmidletile](/image/pinzu/4-pin.png)
-![FSmidletile](/image/pinzu/4-pin.png)
-![FSmidletile](/image/pinzu/4-pin.png)
+![drawtile](/image/tiles/4-pin.png)
+![drawtile](/image/tiles/4-pin.png)
+![drawtile](/image/tiles/4-pin.png)
 </div>
 
 <div class="underline">
 
-![FSmidletile](/image/pinzu/5-pin.png)
-![FSmidletile](/image/pinzu/7-pin.png)
+![drawtile](/image/tiles/5-pin.png)
+![drawtile](/image/tiles/7-pin.png)
 </div>
 
 <div class="underline">
 
-![FSmidletile](/image/souzu/3-sou.png)
-![FSmidletile](/image/souzu/5-sou.png)
-![FSmidletile](/image/souzu/5-sou.png)
+![drawtile](/image/tiles/3-sou.png)
+![drawtile](/image/tiles/5-sou.png)
+![drawtile](/image/tiles/5-sou.png)
 </div>
 
 <div class="analysis">Before we drew the third <img class="singletile" src="/image/tiles/4-pin.png">, the pinzu (dots) tiles were 
