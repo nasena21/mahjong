@@ -18,15 +18,15 @@ and honor tiles.
     </div>
     <div class="tiles">
       <!-- Replace with your actual tile images -->
-      <img src="/image/manzu/1-man.png" alt="1-man" />
-      <img src="/image/manzu/2-man.png" alt="2-man" />
-      <img src="/image/manzu/3-man.png" alt="3-man" />
-      <img src="/image/manzu/4-man.png" alt="4-man" />
-      <img src="/image/manzu/5-man.png" alt="5-man" />
-      <img src="/image/manzu/6-man.png" alt="6-man" />
-      <img src="/image/manzu/7-man.png" alt="7-man" />
-      <img src="/image/manzu/8-man.png" alt="8-man" />
-      <img src="/image/manzu/9-man.png" alt="9-man" />
+      <img src="/image/tiles/1-man.png" alt="1-man" />
+      <img src="/image/tiles/2-man.png" alt="2-man" />
+      <img src="/image/tiles/3-man.png" alt="3-man" />
+      <img src="/image/tiles/4-man.png" alt="4-man" />
+      <img src="/image/tiles/5-man.png" alt="5-man" />
+      <img src="/image/tiles/6-man.png" alt="6-man" />
+      <img src="/image/tiles/7-man.png" alt="7-man" />
+      <img src="/image/tiles/8-man.png" alt="8-man" />
+      <img src="/image/tiles/9-man.png" alt="9-man" />
     </div>
   </div>
 
@@ -36,15 +36,15 @@ and honor tiles.
     </div>
     <div class="tiles">
       <!-- Replace with your actual tile images -->
-      <img src="/image/pinzu/1-pin.png" alt="1-pin" />
-      <img src="/image/pinzu/2-pin.png" alt="2-pin" />
-      <img src="/image/pinzu/3-pin.png" alt="3-pin" />
-      <img src="/image/pinzu/4-pin.png" alt="4-pin" />
-      <img src="/image/pinzu/5-pin.png" alt="5-pin" />
-      <img src="/image/pinzu/6-pin.png" alt="6-pin" />
-      <img src="/image/pinzu/7-pin.png" alt="7-pin" />
-      <img src="/image/pinzu/8-pin.png" alt="8-pin" />
-      <img src="/image/pinzu/9-pin.png" alt="9-pin" />
+      <img src="/image/tiles/1-pin.png" alt="1-pin" />
+      <img src="/image/tiles/2-pin.png" alt="2-pin" />
+      <img src="/image/tiles/3-pin.png" alt="3-pin" />
+      <img src="/image/tiles/4-pin.png" alt="4-pin" />
+      <img src="/image/tiles/5-pin.png" alt="5-pin" />
+      <img src="/image/tiles/6-pin.png" alt="6-pin" />
+      <img src="/image/tiles/7-pin.png" alt="7-pin" />
+      <img src="/image/tiles/8-pin.png" alt="8-pin" />
+      <img src="/image/tiles/9-pin.png" alt="9-pin" />
     </div>
   </div>
 
@@ -54,15 +54,15 @@ and honor tiles.
     </div>
     <div class="tiles">
       <!-- Replace with your actual tile images -->
-      <img src="/image/souzu/1-sou.png" alt="1-sou" />
-      <img src="/image/souzu/2-sou.png" alt="2-sou" />
-      <img src="/image/souzu/3-sou.png" alt="3-sou" />
-      <img src="/image/souzu/4-sou.png" alt="4-sou" />
-      <img src="/image/souzu/5-sou.png" alt="5-sou" />
-      <img src="/image/souzu/6-sou.png" alt="6-sou" />
-      <img src="/image/souzu/7-sou.png" alt="7-sou" />
-      <img src="/image/souzu/8-sou.png" alt="8-sou" />
-      <img src="/image/souzu/9-sou.png" alt="9-sou" />
+      <img src="/image/tiles/1-sou.png" alt="1-sou" />
+      <img src="/image/tiles/2-sou.png" alt="2-sou" />
+      <img src="/image/tiles/3-sou.png" alt="3-sou" />
+      <img src="/image/tiles/4-sou.png" alt="4-sou" />
+      <img src="/image/tiles/5-sou.png" alt="5-sou" />
+      <img src="/image/tiles/6-sou.png" alt="6-sou" />
+      <img src="/image/tiles/7-sou.png" alt="7-sou" />
+      <img src="/image/tiles/8-sou.png" alt="8-sou" />
+      <img src="/image/tiles/9-sou.png" alt="9-sou" />
     </div>
   </div>
 </fieldset>
@@ -75,7 +75,7 @@ minipoints (fu).
 
 It has become quite common to include some red ﬁve tiles. For
 example, most games on Tenhou have one red ﬁve tile in each suit,
-![onetile](/image/akadora/5-man.png)![onetile](/image/akadora/5-pin.png)![onetile](/image/akadora/5-sou.png)
+![singletile](/image/tiles/5r-man.png)![singletile](/image/tiles/5r-pin.png)![singletile](/image/tiles/5r-sou.png)
  . These tiles are included in place of regular ﬁves; we have
 three regular ﬁves and one red ﬁve in each suit. Red ﬁves are treated
 as dora regardless of the dora indicator. When a 4 in a given suit is
@@ -89,15 +89,15 @@ the dora indicator, the red ﬁve in that suit will be a double dora tile.
         <tr>
         <td class="category">Dragon tiles</td>
         <td class="tile">
-            <img src="/image/honor/haku.png" alt="White"><br>
+            <img src="/image/tiles/haku.png" alt="White"><br>
             White (<i>haku</i>)
         </td>
         <td class="tile">
-            <img src="/image/honor/hatsu.png" alt="Green"><br>
+            <img src="/image/tiles/hatsu.png" alt="Green"><br>
             Green (<i>hatsu</i>)
         </td>
         <td class="tile">
-            <img src="/image/honor/chun.png" alt="Red"><br>
+            <img src="/image/tiles/chun.png" alt="Red"><br>
             Red (<i>chun</i>)
         </td>
         </tr>
@@ -107,19 +107,19 @@ the dora indicator, the red ﬁve in that suit will be a double dora tile.
         <tr>
         <td class="category">Wind tiles</td>
         <td class="tile">
-            <img src="/image/honor/ton.png" alt="East"><br>
+            <img src="/image/tiles/ton.png" alt="East"><br>
             East (<i>ton</i>)
         </td>
         <td class="tile">
-            <img src="/image/honor/nan.png" alt="South"><br>
+            <img src="/image/tiles/nan.png" alt="South"><br>
             South (<i>nan</i>)
         </td>
         <td class="tile">
-            <img src="/image/honor/sha.png" alt="West"><br>
+            <img src="/image/tiles/sha.png" alt="West"><br>
             West (<i>sha</i>)
         </td>
         <td class="tile">
-            <img src="/image/honor/pei.png" alt="North"><br>
+            <img src="/image/tiles/pei.png" alt="North"><br>
             North (<i>pei</i>)
         </td>
         </tr>
@@ -152,9 +152,10 @@ Groups can be classiﬁed into two kinds
 — run and set.
 5
 - Run (shuntsu; chow / sequence) is a set of three consecutive
-number tiles: e.g., ![firsttile](/image/manzu/6-man.png)![midletile](/image/manzu/7-man.png)![righttile](/image/manzu/8-man.png), ![firsttile](/image/souzu/3-sou.png)![midletile](/image/souzu/4-sou.png)![righttile](/image/souzu/5-sou.png)
+number tiles: e.g., ![singletile](/image/tiles/6-man.png)![singletile](/image/tiles/7-man.png)![singletile](/image/tiles/8-man.png), ![singletile](/image/tiles/3-sou.png)![singletile](/image/tiles/4-sou.png)![singletile](/image/tiles/5-sou.png)
+
 - Set (kotsu; pung / triplet) is a set of three identical tiles: e.g.,
-![firsttile](/image/manzu/2-man.png)![midletile](/image/manzu/2-man.png)![righttile](/image/manzu/2-man.png), ![firsttile](/image/honor/hatsu.png)![midletile](/image/honor/hatsu.png)![righttile](/image/honor/hatsu.png).
+![singletile](/image/tiles/2-man.png)![singletile](/image/tiles/2-man.png)![singletile](/image/tiles/2-man.png), ![singletile](/image/tiles/hatsu.png)![singletile](/image/tiles/hatsu.png)![singletile](/image/tiles/hatsu.png).
 6
 
 ## Ready and n-away
@@ -166,25 +167,25 @@ Ready hand
 <fieldset class="mahjong-group">
   <legend>Ready hand</legend>
 
-![FSfirsttile](/image/pinzu/3-pin.png)
-![FSmidletile](/image/pinzu/4-pin.png)
-![FSmidletile](/image/pinzu/5-pin.png)
-![FSmidletile](/image/pinzu/8-pin.png)
-![FSmidletile](/image/pinzu/8-pin.png)
-![FSmidletile](/image/souzu/2-sou.png)
-![FSmidletile](/image/souzu/3-sou.png)
-![FSmidletile](/image/souzu/6-sou.png)
-![FSmidletile](/image/souzu/7-sou.png)
-![FSmidletile](/image/souzu/8-sou.png)
-![FSmidletile](/image/honor/chun.png)
-![FSmidletile](/image/honor/chun.png)
-![FSmidletile](/image/honor/chun.png)
+![drawtile](/image/tiles/3-pin.png)
+![drawtile](/image/tiles/4-pin.png)
+![drawtile](/image/tiles/5-pin.png)
+![drawtile](/image/tiles/8-pin.png)
+![drawtile](/image/tiles/8-pin.png)
+![drawtile](/image/tiles/2-sou.png)
+![drawtile](/image/tiles/3-sou.png)
+![drawtile](/image/tiles/6-sou.png)
+![drawtile](/image/tiles/7-sou.png)
+![drawtile](/image/tiles/8-sou.png)
+![drawtile](/image/tiles/chun.png)
+![drawtile](/image/tiles/chun.png)
+![drawtile](/image/tiles/chun.png)
 
 </fieldset>
 
 
-This hand becomes complete with either ![onetile](/image/souzu/1-sou.png) or ![onetile](/image/souzu/4-sou.png) . We say that this
-hand waits for ![onetile](/image/souzu/1-sou.png) ![onetile](/image/souzu/4-sou.png).
+This hand becomes complete with either ![singletile](/image/tiles/1-sou.png) or ![singletile](/image/tiles/4-sou.png). We say that this
+hand waits for ![singletile](/image/tiles/1-sou.png) ![singletile](/image/tiles/4-sou.png).
 
 We say a hand is 1-away from ready (1-shanten) when the hand
 can become ready with one more tile. For example, the following
@@ -194,34 +195,23 @@ hand is 1-away from ready.
 <fieldset class="mahjong-group">
   <legend>1-away hand</legend>
 
-![FSfirsttile](/image/pinzu/3-pin.png)
-![FSmidletile](/image/pinzu/5-pin.png)
-![FSmidletile](/image/pinzu/5-pin.png)
-![FSmidletile](/image/pinzu/8-pin.png)
-![FSmidletile](/image/pinzu/8-pin.png)
-![FSmidletile](/image/souzu/2-sou.png)
-![FSmidletile](/image/souzu/3-sou.png)
-![FSmidletile](/image/souzu/6-sou.png)
-![FSmidletile](/image/souzu/7-sou.png)
-![FSmidletile](/image/souzu/8-sou.png)
-![FSmidletile](/image/honor/chun.png)
-![FSmidletile](/image/honor/chun.png)
-![FSmidletile](/image/honor/chun.png)
-
+![drawtile](/image/tiles/3-pin.png)
+![drawtile](/image/tiles/5-pin.png)
+![drawtile](/image/tiles/5-pin.png)
+![drawtile](/image/tiles/8-pin.png)
+![drawtile](/image/tiles/8-pin.png)
+![drawtile](/image/tiles/2-sou.png)
+![drawtile](/image/tiles/3-sou.png)
+![drawtile](/image/tiles/6-sou.png)
+![drawtile](/image/tiles/7-sou.png)
+![drawtile](/image/tiles/8-sou.png)
+![drawtile](/image/tiles/chun.png)
+![drawtile](/image/tiles/chun.png)
+![drawtile](/image/tiles/chun.png)
 </fieldset>
 
-This hand becomes ready if you draw any of
-![midletile](/image/pinzu/4-pin.png)
-![midletile](/image/pinzu/5-pin.png) 
-![midletile](/image/pinzu/8-pin.png)
-![midletile](/image/souzu/1-sou.png)
-![righttile](/image/souzu/4-sou.png). We say
-this hand accepts
-![midletile](/image/pinzu/4-pin.png)
-![midletile](/image/pinzu/5-pin.png) 
-![midletile](/image/pinzu/8-pin.png)
-![midletile](/image/souzu/1-sou.png)
-![righttile](/image/souzu/4-sou.png) (5 kinds–16 tiles) as any of them can
+This hand becomes ready if you draw any of  ![singletile](/image/tiles/4-pin.png)  ![singletile](/image/tiles/5-pin.png)  ![singletile](/image/tiles/8-pin.png)  ![singletile](/image/tiles/1-sou.png)  ![singletile](/image/tiles/4-sou.png). We say  
+this hand accepts  ![singletile](/image/tiles/4-pin.png)  ![singletile](/image/tiles/5-pin.png)  ![singletile](/image/tiles/8-pin.png)  ![singletile](/image/tiles/1-sou.png)  ![singletile](/image/tiles/4-sou.png)(5 kinds–16 tiles) as any of them can
 make this hand advance from 1-away to ready. Tile acceptance (ukeire)
 refers to the kinds and the number of tiles a hand can accept. Other
 things being equal, having a 1-away hand with greater tile acceptance
@@ -236,35 +226,24 @@ following hand is 2-away from ready.
 <fieldset class="mahjong-group">
   <legend>2-away hand</legend>
 
-![FSfirsttile](/image/pinzu/3-pin.png)
-![FSmidletile](/image/pinzu/5-pin.png)
-![FSmidletile](/image/pinzu/5-pin.png)
-![FSmidletile](/image/pinzu/8-pin.png)
-![FSmidletile](/image/pinzu/8-pin.png)
-![FSmidletile](/image/souzu/2-sou.png)
-![FSmidletile](/image/souzu/3-sou.png)
-![FSmidletile](/image/souzu/6-sou.png)
-![FSmidletile](/image/souzu/7-sou.png)
-![FSmidletile](/image/souzu/7-sou.png)
-![FSmidletile](/image/honor/chun.png)
-![FSmidletile](/image/honor/chun.png)
-![FSmidletile](/image/honor/chun.png)
+![drawtile](/image/tiles/3-pin.png)
+![drawtile](/image/tiles/5-pin.png)
+![drawtile](/image/tiles/5-pin.png)
+![drawtile](/image/tiles/8-pin.png)
+![drawtile](/image/tiles/8-pin.png)
+![drawtile](/image/tiles/2-sou.png)
+![drawtile](/image/tiles/3-sou.png)
+![drawtile](/image/tiles/6-sou.png)
+![drawtile](/image/tiles/7-sou.png)
+![drawtile](/image/tiles/7-sou.png)
+![drawtile](/image/tiles/chun.png)
+![drawtile](/image/tiles/chun.png)
+![drawtile](/image/tiles/chun.png)
 
 </fieldset>
 
-This hand accepts all the tiles that the 1-away hand above accepts
-(![midletile](/image/pinzu/4-pin.png)
-![midletile](/image/pinzu/5-pin.png) 
-![midletile](/image/pinzu/8-pin.png)
-![midletile](/image/souzu/1-sou.png)
-![righttile](/image/souzu/4-sou.png)), plus seven additional kinds of tiles
-![midletile](/image/pinzu/3-pin.png)
-![midletile](/image/souzu/2-sou.png)
-![midletile](/image/souzu/3-sou.png)
-![midletile](/image/souzu/5-sou.png)
-![midletile](/image/souzu/6-sou.png)
-![midletile](/image/souzu/7-sou.png)
-![righttile](/image/souzu/8-sou.png)
+This hand accepts all the tiles that the 1-away hand above accepts  
+(![singletile](/image/tiles/4-pin.png)  ![singletile](/image/tiles/5-pin.png)  ![singletile](/image/tiles/8-pin.png)  ![singletile](/image/tiles/1-sou.png)  ![singletile](/image/tiles/4-sou.png)), plus seven additional kinds of tiles  ![singletile](/image/tiles/3-pin.png)  ![singletile](/image/tiles/2-sou.png)  ![singletile](/image/tiles/3-sou.png)  ![singletile](/image/tiles/5-sou.png)  ![singletile](/image/tiles/6-sou.png)  ![singletile](/image/tiles/7-sou.png)  ![singletile](/image/tiles/8-sou.png)
 7
 The hand will become 1-away if any of these tiles gets drawn.
 A hand can also be 3-away, 4-away, 5-away, or 6-away from ready.
@@ -278,26 +257,14 @@ Tile acceptance shrinkage
 As n gets smaller and the hand gets closer to completion, the
 kinds and the number of tiles it can accept will necessarily get smaller.
 Consider the three stages of a hand we have seen above.
-- When 2-away, it accepts: 
-![midletile](/image/pinzu/3-pin.png)
-![midletile](/image/pinzu/4-pin.png)
-![midletile](/image/pinzu/5-pin.png) 
-![midletile](/image/pinzu/8-pin.png)
-![midletile](/image/souzu/1-sou.png)
-![midletile](/image/souzu/2-sou.png)
-![midletile](/image/souzu/3-sou.png)
-![midletile](/image/souzu/4-sou.png)
-![midletile](/image/souzu/5-sou.png)
-![midletile](/image/souzu/6-sou.png)
-![midletile](/image/souzu/7-sou.png)
-![righttile](/image/souzu/8-sou.png).
-- When 1-away, it accepts: ![midletile](/image/pinzu/4-pin.png)
-![midletile](/image/pinzu/5-pin.png) 
-![midletile](/image/pinzu/8-pin.png)
-![midletile](/image/souzu/1-sou.png)
-![righttile](/image/souzu/4-sou.png).
-- When ready, it waits for: ![midletile](/image/souzu/1-sou.png)
-![righttile](/image/souzu/4-sou.png).
+- When 2-away, it accepts:  
+![singletile](/image/tiles/3-pin.png)  ![singletile](/image/tiles/4-pin.png)  ![singletile](/image/tiles/5-pin.png)  ![singletile](/image/tiles/8-pin.png)  ![singletile](/image/tiles/1-sou.png)  ![singletile](/image/tiles/2-sou.png)  ![singletile](/image/tiles/3-sou.png)  ![singletile](/image/tiles/4-sou.png)  ![singletile](/image/tiles/5-sou.png)  ![singletile](/image/tiles/6-sou.png)  ![singletile](/image/tiles/7-sou.png)  ![singletile](/image/tiles/8-sou.png).  
+
+- When 1-away, it accepts:  
+![singletile](/image/tiles/4-pin.png)  ![singletile](/image/tiles/5-pin.png)  ![singletile](/image/tiles/8-pin.png)  ![singletile](/image/tiles/1-sou.png) ![singletile](/image/tiles/4-sou.png).  
+
+- When ready, it waits for:  
+![singletile](/image/tiles/1-sou.png)  ![singletile](/image/tiles/4-sou.png).
 
 Tile acceptance is minimized when the hand is ready. Note also that
 it is virtually minimized when it is 1-away. This is because with a
@@ -322,30 +289,25 @@ to make the hand ready. For example, consider the following hand.
 <fieldset class="mahjong-group">
   <legend>2-away vs. 1-away</legend>
 
-![FSfirsttile](/image/manzu/5-man.png)
-![FSmidletile](/image/manzu/6-man.png)
-![FSmidletile](/image/manzu/7-man.png)
-![FSmidletile](/image/manzu/7-man.png)
-![FSmidletile](/image/pinzu/3-pin.png)
-![FSmidletile](/image/pinzu/4-pin.png)
-![FSmidletile](/image/souzu/4-sou.png)
-![FSmidletile](/image/souzu/5-sou.png)
-![FSmidletile](/image/souzu/5-sou.png)
-![FSmidletile](/image/souzu/6-sou.png)
-![FSmidletile](/image/souzu/8-sou.png)
-![FSmidletile](/image/honor/hatsu.png)
-![FSmidletile](/image/honor/hatsu.png)
-![FSmidletile](/image/honor/hatsu.png)
+![drawtile](/image/tiles/5-man.png)
+![drawtile](/image/tiles/6-man.png)
+![drawtile](/image/tiles/7-man.png)
+![drawtile](/image/tiles/7-man.png)
+![drawtile](/image/tiles/3-pin.png)
+![drawtile](/image/tiles/4-pin.png)
+![drawtile](/image/tiles/4-sou.png)
+![drawtile](/image/tiles/5-sou.png)
+![drawtile](/image/tiles/5-sou.png)
+![drawtile](/image/tiles/6-sou.png)
+![drawtile](/image/tiles/8-sou.png)
+![drawtile](/image/tiles/hatsu.png)
+![drawtile](/image/tiles/hatsu.png)
+![drawtile](/image/tiles/hatsu.png)
 
 </fieldset>
 
-Discarding ![onetile](/image/souzu/9-sou.png)	 makes the hand 2-away, whereas discarding either ![onetile](/image/manzu/7-man.png) ﬀ
-or ![onetile](/image/souzu/4-sou.png) makes the hand 1-away. You should thus discard ![onetile](/image/manzu/7-man.png) or ![onetile](/image/souzu/4-sou.png) to
-make the hand 1-away. Reverting a 1-away hand to 2-away makes
-sense only in some exceptional cases where tile acceptance at 1-away
-becomes unbearably small (i.e., fewer than 2 kinds). With this hand,
-the hand will be able to accept ![midletile](/image/pinzu/2-pin.png)![midletile](/image/pinzu/5-pin.png)![righttile](/image/souzu/8-sou.png) (3 kinds–12 tiles) when it
-becomes 1-away.
+
+Discarding ![singletile](/image/tiles/9-sou.png) makes the hand 2-away, whereas discarding either ![singletile](/image/tiles/7-man.png)  or ![singletile](/image/tiles/4-sou.png) makes the hand 1-away. You should thus discard ![singletile](/image/tiles/7-man.png) or ![singletile](/image/tiles/4-sou.png) to  make the hand 1-away. Reverting a 1-away hand to 2-away makes  sense only in some exceptional cases where tile acceptance at 1-away  becomes unbearably small (i.e., fewer than 2 kinds). With this hand,  the hand will be able to accept ![singletile](/image/tiles/2-pin.png)![singletile](/image/tiles/5-pin.png)![singletile](/image/tiles/8-sou.png) (3 kinds–12 tiles) when it  becomes 1-away.
 
 ## Protoruns (taatsu)
 Of the two kinds of groups, it is easier to complete a run than
@@ -359,19 +321,17 @@ in Table 3.1.
 
 Table 3.1: Types of protoruns
 
-| Name        | Japanese | Example                                                                 | Wait                                     | Acceptance       |
-|-------------|----------|--------------------------------------------------------------------------|------------------------------------------|------------------|
-| side wait   | *ryanmen*| ![midletile](/image/manzu/3-man.png) ![midletile](/image/manzu/4-man.png) | ![midletile](/image/manzu/2-man.png) ![midletile](/image/manzu/5-man.png) | 2 kinds–8 tiles  |
-| closed wait | *kanchan*| ![midletile](/image/pinzu/2-pin.png) ![midletile](/image/pinzu/4-pin.png)                 | ![midletile](/image/pinzu/3-pin.png)              | 1 kind–4 tiles   |
-| edge wait   | *penchan*| ![midletile](/image/souzu/8-sou.png) ![midletile](/image/souzu/9-sou.png)  | ![midletile](/image/souzu/3-sou.png)              | 1 kind–4 tiles   |
-
-
+| Name        | Japanese   | Example                                                                 | Wait                                     | Acceptance       |
+|-------------|------------|--------------------------------------------------------------------------|------------------------------------------|------------------|
+| side wait   | *ryanmen*  | ![singletile](/image/tiles/3-man.png) ![singletile](/image/tiles/4-man.png) | ![singletile](/image/tiles/2-man.png) ![singletile](/image/tiles/5-man.png) | 2 kinds–8 tiles  |
+| closed wait | *kanchan*  | ![singletile](/image/tiles/2-pin.png) ![singletile](/image/tiles/4-pin.png) | ![singletile](/image/tiles/3-pin.png)              | 1 kind–4 tiles   |
+| edge wait   | *penchan*  | ![singletile](/image/tiles/8-sou.png) ![singletile](/image/tiles/9-sou.png) | ![singletile](/image/tiles/7-sou.png)              | 1 kind–4 tiles   |
 
 As we can see in the table, a side-wait (ryanmen) protorun can accept twice as many tiles as a closed-wait (kanchan) protorun or
 an edge-wait (penchan) protorun can. Therefore, building side-wait
 protoruns is the key to advancing a hand. Winning tiles of side-wait
 protoruns are often denoted with a hyphen in the middle, such as
-![midletile](/image/souzu/1-sou.png)-![midletile](/image/souzu/4-sou.png) or ![midletile](/image/pinzu/5-pin.png) -![midletile](/image/pinzu/8-pin.png) .
+![singletile](/image/tiles/1-sou.png)-![singletile](/image/tiles/4-sou.png) or ![singletile](/image/tiles/5-pin.png)-![singletile](/image/tiles/8-pin.png).
 10
 
 Closed wait vs. edge wait
@@ -381,22 +341,14 @@ by closed-wait and edge-wait protoruns; they both accept 1
 kind–4 tiles. However, closed-wait protoruns are superior to edgewait
 ones because they can more easily evolve into a side-wait protorun.
 
-A closed-wait protorun can evolve into a side-wait protorun in
-just one step. For example, a protorun ![midletile](/image/pinzu/1-pin.png)![righttile](/image/pinzu/3-pin.png) 
- can become a side-wait
-one if you draw ![midletile](/image/pinzu/4-pin.png)  and discard ![midletile](/image/pinzu/1-pin.png) .
+A closed-wait protorun can evolve into a side-wait protorun in  just one step. For example, a protorun ![singletile](/image/tiles/1-pin.png)![singletile](/image/tiles/3-pin.png)  can become a side-wait one if you draw ![singletile](/image/tiles/4-pin.png) and discard ![singletile](/image/tiles/1-pin.png).  ![singletile](/image/tiles/1-pin.png)![singletile](/image/tiles/3-pin.png) -> ![singletile](/image/tiles/3-pin.png)![singletile](/image/tiles/4-pin.png)  draw ![singletile](/image/tiles/4-pin.png)  
 
-![midletile](/image/pinzu/1-pin.png)![righttile](/image/pinzu/3-pin.png)  -> ![midletile](/image/pinzu/3-pin.png)![righttile](/image/pinzu/4-pin.png) 
+On the other hand, it requires two steps for an edge-wait protorun to  evolve into a side-wait protorun. For example, a protorun ![singletile](/image/tiles/8-pin.png)![singletile](/image/tiles/9-pin.png) can become a side-wait one if you draw ![singletile](/image/tiles/6-pin.png) first and then ![singletile](/image/tiles/5-pin.png).  
 
-draw ![midletile](/image/pinzu/4-pin.png)
+![singletile](/image/tiles/8-pin.png)![singletile](/image/tiles/9-pin.png) -> ![singletile](/image/tiles/6-pin.png)![singletile](/image/tiles/8-pin.png) -> ![singletile](/image/tiles/5-pin.png)![singletile](/image/tiles/6-pin.png)  
 
-On the other hand, it requires two steps for an edge-wait protorun to
-evolve into a side-wait protorun. For example, a protorun ![midletile](/image/pinzu/8-pin.png)![righttile](/image/pinzu/9-pin.png)  can
-become a side-wait one if you draw ![midletile](/image/pinzu/6-pin.png) ﬁrst and then ![righttile](/image/pinzu/5-pin.png).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; draw ![singletile](/image/tiles/6-pin.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; draw ![singletile](/image/tiles/5-pin.png)  
 
-![midletile](/image/pinzu/8-pin.png)![righttile](/image/pinzu/9-pin.png)  -> ![midletile](/image/pinzu/6-pin.png)![righttile](/image/pinzu/8-pin.png) -> ![midletile](/image/pinzu/5-pin.png)![righttile](/image/pinzu/6-pin.png) 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; draw ![midletile](/image/pinzu/6-pin.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; draw ![midletile](/image/pinzu/5-pin.png)
 
 <fieldset class="redline">
   <legend>Value ranking of protoruns</legend>
@@ -415,21 +367,11 @@ tiles are more versatile than honor tiles because honor tiles can never
 form a run. Moreover, we can rank order the versatility of number
 tiles based on the types of protoruns they can form.
 
-Number tiles between 3 and 7 are the most versatile. This is be-
-cause each of them can form a protorun with four kinds of number
-tiles. For example, ![onetile](/image/pinzu/3-pin.png) can form a protorun with ![onetile](/image/pinzu/1-pin.png), ![onetile](/image/pinzu/2-pin.png), ![onetile](/image/pinzu/4-pin.png), and ![onetile](/image/pinzu/5-pin.png).
-Two out of the four resulting protoruns will be side wait.
+Number tiles between 3 and 7 are the most versatile. This is because each of them can form a protorun with four kinds of number tiles. For example, ![singletile](/image/tiles/3-pin.png) can form a protorun with ![singletile](/image/tiles/1-pin.png), ![singletile](/image/tiles/2-pin.png), ![singletile](/image/tiles/4-pin.png), and ![singletile](/image/tiles/5-pin.png). Two out of the four resulting protoruns will be side wait.
 
-2 and 8 are less versatile. They can form a protorun with only
-three kinds of number tiles. For example, ![onetile](/image/pinzu/2-pin.png) can form a protorun
-with ![onetile](/image/pinzu/1-pin.png), ![onetile](/image/pinzu/3-pin.png)
-, and ![onetile](/image/pinzu/4-pin.png). Only one out of the three resulting protoruns is
-side wait.
-Terminals (1 and 9) are the least versatile. They can form a pro-
-torun with only two kinds of tiles. For example, ![onetile](/image/pinzu/1-pin.png) can form a protorun
-only with ![onetile](/image/pinzu/2-pin.png) and ![onetile](/image/pinzu/3-pin.png)
-. Neither of the two resulting protoruns is
-side wait.
+2 and 8 are less versatile. They can form a protorun with only three kinds of number tiles. For example, ![singletile](/image/tiles/2-pin.png) can form a protorun with ![singletile](/image/tiles/1-pin.png), ![singletile](/image/tiles/3-pin.png), and ![singletile](/image/tiles/4-pin.png). Only one out of the three resulting protoruns is side wait.
+
+Terminals (1 and 9) are the least versatile. They can form a protorun with only two kinds of tiles. For example, ![singletile](/image/tiles/1-pin.png) can form a protorun only with ![singletile](/image/tiles/2-pin.png) and ![singletile](/image/tiles/3-pin.png). Neither of the two resulting protoruns is side wait.
 
 
 <fieldset class="redline">
@@ -440,15 +382,9 @@ side wait.
 </fieldset>
 
 
-Applying the same logic, we can also rank order the versatility of
-closed-wait protoruns. For example, a closed-wait protorun ![midletile](/image/pinzu/1-pin.png)![onetile](/image/pinzu/3-pin.png)
-can become a side-wait one only if we draw ![onetile](/image/pinzu/4-pin.png). Likewise, a closedwait
-protorun ![midletile](/image/pinzu/2-pin.png)![onetile](/image/pinzu/4-pin.png) can become a side-wait one only if we draw ![onetile](/image/pinzu/5-pin.png).
-However, a closed-wait protorun 
-![midletile](/image/pinzu/3-pin.png)![onetile](/image/pinzu/5-pin.png) can become a side-wait one if
-we draw ![onetile](/image/pinzu/2-pin.png) or ![onetile](/image/pinzu/4-pin.png). Clearly, 
-![midletile](/image/pinzu/3-pin.png)![onetile](/image/pinzu/5-pin.png) is more versatile than ![midletile](/image/pinzu/1-pin.png)![onetile](/image/pinzu/3-pin.png)
- or ![midletile](/image/pinzu/2-pin.png)![onetile](/image/pinzu/4-pin.png).
+Applying the same logic, we can also rank order the versatility of closed-wait protoruns. For example, a closed-wait protorun ![singletile](/image/tiles/1-pin.png)![singletile](/image/tiles/3-pin.png) can become a side-wait one only if we draw ![singletile](/image/tiles/4-pin.png). Likewise, a closed-wait protorun ![singletile](/image/tiles/2-pin.png)![singletile](/image/tiles/4-pin.png) can become a side-wait one only if we draw ![singletile](/image/tiles/5-pin.png).
+
+However, a closed-wait protorun ![singletile](/image/tiles/3-pin.png)![singletile](/image/tiles/5-pin.png) can become a side-wait one if we draw ![singletile](/image/tiles/2-pin.png) or ![singletile](/image/tiles/6-pin.png). Clearly, ![singletile](/image/tiles/3-pin.png)![singletile](/image/tiles/5-pin.png) is more versatile than ![singletile](/image/tiles/1-pin.png)![singletile](/image/tiles/3-pin.png) or ![singletile](/image/tiles/2-pin.png)![singletile](/image/tiles/4-pin.png).
 
 
 <fieldset class="redline">
@@ -476,63 +412,47 @@ the head. For example, consider the following hand.
 <fieldset class="mahjong-group">
   <legend>Hand with no head</legend>
 
-![FSfirsttile](/image/manzu/7-man.png)
-![FSmidletile](/image/manzu/8-man.png)
-![FSmidletile](/image/manzu/9-man.png)
-![FSmidletile](/image/pinzu/2-pin.png)
-![FSmidletile](/image/pinzu/3-pin.png)
-![FSmidletile](/image/pinzu/4-pin.png)
-![FSmidletile](/image/pinzu/5-pin.png)
-![FSmidletile](/image/pinzu/6-pin.png)
-![FSmidletile](/image/pinzu/7-pin.png)
-![FSmidletile](/image/souzu/3-sou.png)
-![FSmidletile](/image/souzu/4-sou.png)
-![FSmidletile](/image/souzu/5-sou.png)
-![FSmidletile](/image/souzu/6-sou.png)
+![drawtile](/image/tiles/7-man.png)
+![drawtile](/image/tiles/8-man.png)
+![drawtile](/image/tiles/9-man.png)
+![drawtile](/image/tiles/2-pin.png)
+![drawtile](/image/tiles/3-pin.png)
+![drawtile](/image/tiles/4-pin.png)
+![drawtile](/image/tiles/5-pin.png)
+![drawtile](/image/tiles/6-pin.png)
+![drawtile](/image/tiles/7-pin.png)
+![drawtile](/image/tiles/3-sou.png)
+![drawtile](/image/tiles/4-sou.png)
+![drawtile](/image/tiles/5-sou.png)
+![drawtile](/image/tiles/6-sou.png)
+
 </fieldset>
 
 
-This hand currently lacks the head and the wait is not very good.
-The hand is complete only with ![onetile](/image/souzu/7-sou.png) (1 kind–3 tiles). However, if we
-draw any of 
-![midletile](/image/manzu/6-man.png)
-![midletile](/image/manzu/9-man.png)
-![midletile](/image/pinzu/1-pin.png)
-![midletile](/image/pinzu/2-pin.png)
-![midletile](/image/pinzu/4-pin.png)
-![midletile](/image/pinzu/5-pin.png)
-![midletile](/image/pinzu/7-pin.png)
-![midletile](/image/pinzu/8-pin.png)
-![midletile](/image/souzu/2-sou.png)
-![midletile](/image/souzu/3-sou.png)
-![midletile](/image/souzu/5-sou.png)
-![onetile](/image/souzu/6-sou.png) (12 kinds–41 tiles), the
-wait will be signiﬁcantly improved. For example, if we draw ![onetile](/image/pinzu/5-pin.png) and
-discard ![onetile](/image/souzu/7-sou.png), the hand becomes:
+This hand currently lacks the head and the wait is not very good.  
+The hand is complete only with ![singletile](/image/tiles/7-sou.png) (1 kind–3 tiles). However, if we  
+draw any of:  
+![singletile](/image/tiles/6-man.png)  ![singletile](/image/tiles/9-man.png)  ![singletile](/image/tiles/1-pin.png)  ![singletile](/image/tiles/2-pin.png)  ![singletile](/image/tiles/4-pin.png)  ![singletile](/image/tiles/5-pin.png)  ![singletile](/image/tiles/7-pin.png)  ![singletile](/image/tiles/8-pin.png)  ![singletile](/image/tiles/2-sou.png)  ![singletile](/image/tiles/3-sou.png)  ![singletile](/image/tiles/5-sou.png)  ![singletile](/image/tiles/6-sou.png)  (12 kinds–41 tiles), the wait will be significantly improved. For example, if we draw ![singletile](/image/tiles/5-pin.png) and  discard ![singletile](/image/tiles/7-sou.png), the hand becomes:
 
 <div class="no-border">
 
-![FSfirsttile](/image/manzu/7-man.png)
-![FSmidletile](/image/manzu/8-man.png)
-![FSmidletile](/image/manzu/9-man.png)
-![FSmidletile](/image/pinzu/2-pin.png)
-![FSmidletile](/image/pinzu/3-pin.png)
-![FSmidletile](/image/pinzu/4-pin.png)
-![FSmidletile](/image/pinzu/5-pin.png)
-![FSmidletile](/image/pinzu/5-pin.png)
-![FSmidletile](/image/pinzu/6-pin.png)
-![FSmidletile](/image/pinzu/7-pin.png)
-![FSmidletile](/image/souzu/3-sou.png)
-![FSmidletile](/image/souzu/4-sou.png)
-![FSmidletile](/image/souzu/5-sou.png)
+![drawtile](/image/tiles/7-man.png)
+![drawtile](/image/tiles/8-man.png)
+![drawtile](/image/tiles/9-man.png)
+![drawtile](/image/tiles/2-pin.png)
+![drawtile](/image/tiles/3-pin.png)
+![drawtile](/image/tiles/4-pin.png)
+![drawtile](/image/tiles/5-pin.png)
+![drawtile](/image/tiles/5-pin.png)
+![drawtile](/image/tiles/6-pin.png)
+![drawtile](/image/tiles/7-pin.png)
+![drawtile](/image/tiles/3-sou.png)
+![drawtile](/image/tiles/4-sou.png)
+![drawtile](/image/tiles/5-sou.png)
 
 </div>
 
-This hand is now waiting for 
-![onetile](/image/pinzu/2-pin.png)
-![onetile](/image/pinzu/5-pin.png)
-![onetile](/image/pinzu/8-pin.png)
-(3 kinds–9 tiles). When a hand is missing the head, it is often the case that the wait gets significantly
+This hand is now waiting for  ![singletile](/image/tiles/2-pin.png)  ![singletile](/image/tiles/5-pin.png)  ![singletile](/image/tiles/8-pin.png)  (3 kinds–9 tiles). When a hand is missing the head, it is often the case that the wait gets significantly  
 improved quite easily.
 
 
@@ -547,110 +467,85 @@ comparing hands with one, two, and three pairs.
 <fieldset class="mahjong-group">
   <legend>1. Hand with one pair</legend>
 
-![FSfirsttile](/image/manzu/1-man.png)
-![FSmidletile](/image/manzu/3-man.png)
-![FSmidletile](/image/manzu/5-man.png)
-![FSmidletile](/image/pinzu/5-pin.png)
-![FSmidletile](/image/pinzu/6-pin.png)
-![FSmidletile](/image/pinzu/7-pin.png)
-![FSmidletile](/image/pinzu/8-pin.png)
-![FSmidletile](/image/pinzu/9-pin.png)
-![FSmidletile](/image/souzu/2-sou.png)
-![FSmidletile](/image/souzu/2-sou.png)
-![FSmidletile](/image/souzu/6-sou.png)
-![FSmidletile](/image/souzu/7-sou.png)
-![FSmidletile](/image/honor/pei.png)
+![drawtile](/image/tiles/1-man.png)
+![drawtile](/image/tiles/3-man.png)
+![drawtile](/image/tiles/5-man.png)
+![drawtile](/image/tiles/5-pin.png)
+![drawtile](/image/tiles/6-pin.png)
+![drawtile](/image/tiles/7-pin.png)
+![drawtile](/image/tiles/8-pin.png)
+![drawtile](/image/tiles/9-pin.png)
+![drawtile](/image/tiles/2-sou.png)
+![drawtile](/image/tiles/2-sou.png)
+![drawtile](/image/tiles/6-sou.png)
+![drawtile](/image/tiles/7-sou.png)
+![drawtile](/image/tiles/pei.png)
+
 </fieldset>
 
 
-This 2-away hand has one pair: ![midletile](/image/souzu/2-sou.png)![onetile](/image/souzu/2-sou.png). This pair is not very useful as
-a candidate for a set for two reasons. First, if we draw another ![onetile](/image/souzu/2-sou.png),
-we will complete a set but then we will lose the head at the same
-time. The hand will still be 2-away from ready after all. Second, the
-probability of drawing another ![onetile](/image/souzu/2-sou.png) is not very high because there are
-only two tiles left.
+This 2-away hand has one pair: ![singletile](/image/tiles/2-sou.png)![singletile](/image/tiles/2-sou.png). This pair is not very useful as  a candidate for a set for two reasons. First, if we draw another ![singletile](/image/tiles/2-sou.png),  we will complete a set but then we will lose the head at the same  time. The hand will still be 2-away from ready after all. Second, the  probability of drawing another ![singletile](/image/tiles/2-sou.png) is not very high because there are  only two tiles left.
 
-What if a hand has two pairs? Suppose we drew ![onetile](/image/manzu/1-man.png) and discarded
-![onetile](/image/honor/pei.png), as follows.
+What if a hand has two pairs? Suppose we drew ![singletile](/image/tiles/1-man.png) and discarded  ![singletile](/image/tiles/pei.png), as follows.
 
 <fieldset class="mahjong-group">
   <legend>2. Hand with two pairs</legend>
 
-![FSfirsttile](/image/manzu/1-man.png)
-![FSmidletile](/image/manzu/1-man.png)
-![FSmidletile](/image/manzu/3-man.png)
-![FSmidletile](/image/manzu/5-man.png)
-![FSmidletile](/image/pinzu/5-pin.png)
-![FSmidletile](/image/pinzu/6-pin.png)
-![FSmidletile](/image/pinzu/7-pin.png)
-![FSmidletile](/image/pinzu/8-pin.png)
-![FSmidletile](/image/pinzu/9-pin.png)
-![FSmidletile](/image/souzu/2-sou.png)
-![FSmidletile](/image/souzu/2-sou.png)
-![FSmidletile](/image/souzu/6-sou.png)
-![FSmidletile](/image/souzu/7-sou.png)
+![drawtile](/image/tiles/1-man.png)
+![drawtile](/image/tiles/1-man.png)
+![drawtile](/image/tiles/3-man.png)
+![drawtile](/image/tiles/5-man.png)
+![drawtile](/image/tiles/5-pin.png)
+![drawtile](/image/tiles/6-pin.png)
+![drawtile](/image/tiles/7-pin.png)
+![drawtile](/image/tiles/8-pin.png)
+![drawtile](/image/tiles/9-pin.png)
+![drawtile](/image/tiles/2-sou.png)
+![drawtile](/image/tiles/2-sou.png)
+![drawtile](/image/tiles/6-sou.png)
+![drawtile](/image/tiles/7-sou.png)
+
 </fieldset>
 
+This hand is also 2-away, but it has two pairs: ![singletile](/image/tiles/1-man.png)![singletile](/image/tiles/1-man.png) and ![singletile](/image/tiles/2-sou.png)![singletile](/image/tiles/2-sou.png). Each  of these pairs is now functioning as an effective candidate for a set.  Whenever one pair becomes a set, the other pair becomes the head.  Drawing ![singletile](/image/tiles/1-man.png) or ![singletile](/image/tiles/2-sou.png) will advance this hand from 2-away to 1-away.
 
-This hand is also 2-away, but it has two pairs: ![midletile](/image/manzu/1-man.png)![onetile](/image/manzu/1-man.png) and ![midletile](/image/souzu/2-sou.png)![onetile](/image/souzu/2-sou.png). Each
-of these pairs is now functioning as an eﬀective candidate for a set.
-Whenever one pair becomes a set, the other pair becomes the head.
-Drawing ![onetile](/image/manzu/1-man.png)  or ![onetile](/image/souzu/2-sou.png) will advance this hand from 2-away to 1-away.
+Moreover, whereas the hand with one pair was able to accept two  tiles of ![singletile](/image/tiles/2-sou.png), the hand with two pairs can accept four tiles (two of ![singletile](/image/tiles/2-sou.png)  and two of ![singletile](/image/tiles/1-man.png)). The probability of drawing any one of four tiles  is obviously higher than the probability of drawing any one of two  tiles. In general, for each additional pair in a hand, tile acceptance  increases by two.
 
-Moreover, whereas the hand with one pair was able to accept two
-tiles of ![onetile](/image/souzu/2-sou.png) , the hand with two pairs can accept four tiles (two of ![onetile](/image/souzu/2-sou.png) 
-and two of  ![onetile](/image/manzu/1-man.png) ). The probability of drawing any one of four tiles
-is obviously higher than the probability of drawing any one of two
-tiles. In general, for each additional pair in a hand, tile acceptance
-increases by two.
-
-What if a hand has three pairs? Suppose we draw ![onetile](/image/souzu/9-sou.png) , as follows.
-
+What if a hand has three pairs? Suppose we draw ![singletile](/image/tiles/9-sou.png), as follows.
 
 
 <fieldset class="mahjong-group">
   <legend>3. Hand with three pairs</legend>
 
-![FSfirsttile](/image/manzu/1-man.png)
-![FSmidletile](/image/manzu/1-man.png)
-![FSmidletile](/image/manzu/3-man.png)
-![FSmidletile](/image/manzu/5-man.png)
-![FSmidletile](/image/pinzu/5-pin.png)
-![FSmidletile](/image/pinzu/6-pin.png)
-![FSmidletile](/image/pinzu/7-pin.png)
-![FSmidletile](/image/pinzu/8-pin.png)
-![FSmidletile](/image/pinzu/9-pin.png)
-![FSmidletile](/image/souzu/2-sou.png)
-![FSmidletile](/image/souzu/2-sou.png)
-![FSmidletile](/image/souzu/6-sou.png)
-![FSmidletile](/image/souzu/7-sou.png)
+![drawtile](/image/tiles/1-man.png)
+![drawtile](/image/tiles/1-man.png)
+![drawtile](/image/tiles/3-man.png)
+![drawtile](/image/tiles/5-man.png)
+![drawtile](/image/tiles/5-pin.png)
+![drawtile](/image/tiles/6-pin.png)
+![drawtile](/image/tiles/7-pin.png)
+![drawtile](/image/tiles/8-pin.png)
+![drawtile](/image/tiles/9-pin.png)
+![drawtile](/image/tiles/2-sou.png)
+![drawtile](/image/tiles/2-sou.png)
+![drawtile](/image/tiles/6-sou.png)
+![drawtile](/image/tiles/7-sou.png)
 
 
 <figure class="tile-with-caption">
-    <img src="/image/souzu/9-sou.png"
-         alt="FSopentile">
+    <img src="/image/tiles/9-sou.png"
+         alt="drawtile">
     <figcaption>Draw</figcaption>
 </figure>
 
 </fieldset>
 
 
-If we keep the second ![onetile](/image/souzu/6-sou.png) and discard the ![onetile](/image/souzu/7-sou.png) or the ![onetile](/image/manzu/5-man.png), the hand has
-three pairs. However, keeping three pairs in a hand is ineﬃcient. Recall
-that each additional pair increases tile acceptance by two tiles. In
-this case, keeping a pair of ![onetile](/image/souzu/6-sou.png)  means that the hand can accept two
-additional tiles of ![onetile](/image/souzu/6-sou.png) . However, doing so comes with a cost. Keeping
-three pairs by discarding the ![onetile](/image/souzu/7-sou.png)  means the hand can no longer
-accept ![onetile](/image/souzu/5-sou.png)  ![onetile](/image/souzu/8-sou.png)  (2 kinds–8 tiles). The net tile acceptance gain will be
-negative (2- 8 =-6). Similarly, keeping three pairs by discarding
-the ![onetile](/image/manzu/5-man.png) means the hand can no longer accept ![onetile](/image/manzu/4-man.png) (4 tiles). Therefore,
-discarding a ![onetile](/image/souzu/6-sou.png) to maintain two pairs is the most eﬃcient.
+If we keep the second ![singletile](/image/tiles/6-sou.png) and discard the ![singletile](/image/tiles/7-sou.png) or the ![singletile](/image/tiles/5-man.png), the hand has three pairs. However, keeping three pairs in a hand is inefficient. Recall  that each additional pair increases tile acceptance by two tiles. In  this case, keeping a pair of ![singletile](/image/tiles/6-sou.png) means that the hand can accept two  additional tiles of ![singletile](/image/tiles/6-sou.png). However, doing so comes with a cost. Keeping  three pairs by discarding the ![singletile](/image/tiles/7-sou.png) means the hand can no longer  accept ![singletile](/image/tiles/5-sou.png) ![singletile](/image/tiles/8-sou.png) (2 kinds–8 tiles). The net tile acceptance gain will be  negative (2 - 8 = -6). Similarly, keeping three pairs by discarding  the ![singletile](/image/tiles/5-man.png) means the hand can no longer accept ![singletile](/image/tiles/4-man.png) (4 tiles). Therefore,  discarding a ![singletile](/image/tiles/6-sou.png) to maintain two pairs is the most efficient.
 
 
-What we have seen so far is generalizable beyond the current ex-
-amples. As long as we intend to keep the hand closed (i.e., not calling
-pon or chii), we should avoid having three pairs in a hand. Having
-three pairs makes for the weakest form, whereas having two pairs
+What we have seen so far is generalizable beyond the current ex-amples. As long as we intend to keep the hand closed (i.e., not calling
+pon or chii), we should avoid having three pairs in a hand. Having three pairs makes for the weakest form, whereas having two pairs
 makes for the strongest form.
 11
 
@@ -678,25 +573,25 @@ pon once. For example, consider the following hand.
 <legend>Two pairs vs. three pairs</legend>
 
 
-![FSfirsttile](/image/manzu/1-man.png)
-![FSmidletile](/image/manzu/1-man.png)
-![FSmidletile](/image/manzu/3-man.png)
-![FSmidletile](/image/manzu/5-man.png)
-![FSmidletile](/image/pinzu/4-pin.png)
-![FSmidletile](/image/pinzu/5-pin.png)
-![FSmidletile](/image/souzu/2-sou.png)
-![FSmidletile](/image/souzu/4-sou.png)
-![FSmidletile](/image/souzu/4-sou.png)
-![FSmidletile](/image/souzu/7-sou.png)
-![FSmidletile](/image/souzu/8-sou.png)
-![FSmidletile](/image/souzu/9-sou.png)
-![FSmidletile](/image/honor/chun.png)
-![FSmidletile](/image/honor/chun.png)
+![drawtile](/image/tiles/1-man.png)
+![drawtile](/image/tiles/1-man.png)
+![drawtile](/image/tiles/3-man.png)
+![drawtile](/image/tiles/5-man.png)
+![drawtile](/image/tiles/4-pin.png)
+![drawtile](/image/tiles/5-pin.png)
+![drawtile](/image/tiles/2-sou.png)
+![drawtile](/image/tiles/4-sou.png)
+![drawtile](/image/tiles/4-sou.png)
+![drawtile](/image/tiles/7-sou.png)
+![drawtile](/image/tiles/8-sou.png)
+![drawtile](/image/tiles/9-sou.png)
+![drawtile](/image/tiles/chun.png)
+![drawtile](/image/tiles/chun.png)
 
 
 <figure class="tile-with-caption">
-    <img src="/image/honor/chun.png"
-         alt="FSopentile">
+    <img src="/image/tiles/chun.png"
+         alt="drawtile">
     <figcaption>Dora</figcaption>
 </figure>
 
@@ -706,44 +601,41 @@ pon once. For example, consider the following hand.
 </fieldset>
 
 
-We would deﬁnitely intend to call pon on ![onetile](/image/honor/chun.png). Anticipating that, we
-should discard ![onetile](/image/manzu/5-man.png) to keep three pairs in this case rather than discarding
-![onetile](/image/manzu/1-man.png)to have two pairs. After calling pon on ![onetile](/image/honor/chun.png), we will have a
-choice between discarding  ![onetile](/image/manzu/3-man.png)‌ or ![onetile](/image/souzu/2-sou.png).
+We would definitely intend to call pon on ![singletile](/image/tiles/chun.png). Anticipating that, we should discard ![singletile](/image/tiles/5-man.png) to keep three pairs in this case rather than discarding ![singletile](/image/tiles/1-man.png) to have two pairs. After calling pon on ![singletile](/image/tiles/chun.png), we will have a choice between discarding ![singletile](/image/tiles/3-man.png) or ![singletile](/image/tiles/2-sou.png).
 
 <div class="no-border">
 
-![FSfirsttile](/image/manzu/1-man.png)
-![FSmidletile](/image/manzu/1-man.png)
-![FSmidletile](/image/pinzu/4-pin.png)
-![FSmidletile](/image/pinzu/5-pin.png)
-![FSmidletile](/image/souzu/2-sou.png)
-![FSmidletile](/image/souzu/4-sou.png)
-![FSmidletile](/image/souzu/4-sou.png)
-![FSmidletile](/image/souzu/7-sou.png)
-![FSmidletile](/image/souzu/8-sou.png)
-![FSmidletile](/image/souzu/9-sou.png)
+![drawtile](/image/tiles/1-man.png)
+![drawtile](/image/tiles/1-man.png)
+![drawtile](/image/tiles/4-pin.png)
+![drawtile](/image/tiles/5-pin.png)
+![drawtile](/image/tiles/2-sou.png)
+![drawtile](/image/tiles/4-sou.png)
+![drawtile](/image/tiles/4-sou.png)
+![drawtile](/image/tiles/7-sou.png)
+![drawtile](/image/tiles/8-sou.png)
+![drawtile](/image/tiles/9-sou.png)
 
-![FSopentile](/image/honor/chun.png)
-![FSrighthtiles](/image/honor/h-chun.png)
-![FSmidletile](/image/honor/chun.png)
+![drawtile](/image/tiles/chun.png)
+![verticaldrawtile](/image/tiles/h-chun.png)
+![drawtile](/image/tiles/chun.png)
 
 <br/>
 
-![FSfirsttile](/image/manzu/1-man.png)
-![FSmidletile](/image/manzu/1-man.png)
-![FSmidletile](/image/manzu/3-man.png)
-![FSmidletile](/image/pinzu/4-pin.png)
-![FSmidletile](/image/pinzu/5-pin.png)
-![FSmidletile](/image/souzu/4-sou.png)
-![FSmidletile](/image/souzu/4-sou.png)
-![FSmidletile](/image/souzu/7-sou.png)
-![FSmidletile](/image/souzu/8-sou.png)
-![FSmidletile](/image/souzu/9-sou.png)
+![drawtile](/image/tiles/1-man.png)
+![drawtile](/image/tiles/1-man.png)
+![drawtile](/image/tiles/3-man.png)
+![drawtile](/image/tiles/4-pin.png)
+![drawtile](/image/tiles/5-pin.png)
+![drawtile](/image/tiles/4-sou.png)
+![drawtile](/image/tiles/4-sou.png)
+![drawtile](/image/tiles/7-sou.png)
+![drawtile](/image/tiles/8-sou.png)
+![drawtile](/image/tiles/9-sou.png)
 
-![FSopentile](/image/honor/chun.png)
-![FSrighthtiles](/image/honor/h-chun.png)
-![FSmidletile](/image/honor/chun.png)
+![drawtile](/image/tiles/chun.png)
+![verticaldrawtile](/image/tiles/h-chun.png)
+![drawtile](/image/tiles/chun.png)
 
 </div>
 
@@ -774,19 +666,19 @@ it is called perfect 1-away.
 <legend>Perfect 1-away</legend>
 
 
-![FSfirsttile](/image/manzu/2-man.png)
-![FSmidletile](/image/manzu/3-man.png)
-![FSmidletile](/image/manzu/3-man.png)
-![FSmidletile](/image/pinzu/1-pin.png)
-![FSmidletile](/image/pinzu/2-pin.png)
-![FSmidletile](/image/pinzu/3-pin.png)
-![FSmidletile](/image/pinzu/6-pin.png)
-![FSmidletile](/image/pinzu/6-pin.png)
-![FSmidletile](/image/souzu/6-sou.png)
-![FSmidletile](/image/souzu/7-sou.png)
-![FSmidletile](/image/honor/haku.png)
-![FSmidletile](/image/honor/haku.png)
-![FSmidletile](/image/honor/haku.png)
+![drawtile](/image/tiles/2-man.png)
+![drawtile](/image/tiles/3-man.png)
+![drawtile](/image/tiles/3-man.png)
+![drawtile](/image/tiles/1-pin.png)
+![drawtile](/image/tiles/2-pin.png)
+![drawtile](/image/tiles/3-pin.png)
+![drawtile](/image/tiles/6-pin.png)
+![drawtile](/image/tiles/6-pin.png)
+![drawtile](/image/tiles/6-sou.png)
+![drawtile](/image/tiles/7-sou.png)
+![drawtile](/image/tiles/haku.png)
+![drawtile](/image/tiles/haku.png)
+![drawtile](/image/tiles/haku.png)
 
 </fieldset>
 
@@ -808,19 +700,19 @@ and three pairs, as follows.
 <legend>Perfect 2-away</legend>
 
 
-![FSfirsttile](/image/manzu/2-man.png)
-![FSmidletile](/image/manzu/3-man.png)
-![FSmidletile](/image/manzu/3-man.png)
-![FSmidletile](/image/pinzu/2-pin.png)
-![FSmidletile](/image/pinzu/3-pin.png)
-![FSmidletile](/image/pinzu/6-pin.png)
-![FSmidletile](/image/pinzu/6-pin.png)
-![FSmidletile](/image/souzu/6-sou.png)
-![FSmidletile](/image/souzu/7-sou.png)
-![FSmidletile](/image/souzu/7-sou.png)
-![FSmidletile](/image/honor/haku.png)
-![FSmidletile](/image/honor/haku.png)
-![FSmidletile](/image/honor/haku.png)
+![drawtile](/image/tiles/2-man.png)
+![drawtile](/image/tiles/3-man.png)
+![drawtile](/image/tiles/3-man.png)
+![drawtile](/image/tiles/2-pin.png)
+![drawtile](/image/tiles/3-pin.png)
+![drawtile](/image/tiles/6-pin.png)
+![drawtile](/image/tiles/6-pin.png)
+![drawtile](/image/tiles/6-sou.png)
+![drawtile](/image/tiles/7-sou.png)
+![drawtile](/image/tiles/7-sou.png)
+![drawtile](/image/tiles/haku.png)
+![drawtile](/image/tiles/haku.png)
+![drawtile](/image/tiles/haku.png)
 
 </fieldset>
 
@@ -839,24 +731,24 @@ the tile eﬃciency logics we have learned so far. Consider the following
 <legend>Advancing a hand 1</legend>
 
 
-![FSfirsttile](/image/manzu/5-man.png)
-![FSmidletile](/image/manzu/5-man.png)
-![FSmidletile](/image/manzu/7-man.png)
-![FSmidletile](/image/souzu/2-sou.png)
-![FSmidletile](/image/souzu/4-sou.png)
-![FSmidletile](/image/souzu/8-sou.png)
-![FSmidletile](/image/souzu/8-sou.png)
-![FSmidletile](/image/souzu/9-sou.png)
-![FSmidletile](/image/pinzu/2-pin.png)
-![FSmidletile](/image/pinzu/3-pin.png)
-![FSmidletile](/image/pinzu/7-pin.png)
-![FSmidletile](/image/pinzu/8-pin.png)
-![FSmidletile](/image/pinzu/9-pin.png)
+![drawtile](/image/tiles/5-man.png)
+![drawtile](/image/tiles/5-man.png)
+![drawtile](/image/tiles/7-man.png)
+![drawtile](/image/tiles/2-sou.png)
+![drawtile](/image/tiles/4-sou.png)
+![drawtile](/image/tiles/8-sou.png)
+![drawtile](/image/tiles/8-sou.png)
+![drawtile](/image/tiles/9-sou.png)
+![drawtile](/image/tiles/2-pin.png)
+![drawtile](/image/tiles/3-pin.png)
+![drawtile](/image/tiles/7-pin.png)
+![drawtile](/image/tiles/8-pin.png)
+![drawtile](/image/tiles/9-pin.png)
 
 
 <figure class="tile-with-caption">
-    <img src="/image/souzu/2-sou.png"
-         alt="FSopentile">
+    <img src="/image/tiles/2-sou.png"
+         alt="drawtile">
     <figcaption>Draw</figcaption>
 </figure>
 
@@ -865,26 +757,27 @@ the tile eﬃciency logics we have learned so far. Consider the following
 
 </fieldset>
 
+
 The hand now has three pairs, and we should avoid it. In order to reduce
 the number of pairs in this hand from three to two, our discard
-candidates should be ![onetile](/image/manzu/5-man.png), ![onetile](/image/souzu/2-sou.png), or ![onetile](/image/souzu/8-sou.png). Which one should we choose?
+candidates should be ![singletile](/image/tiles/5-man.png), ![singletile](/image/tiles/2-sou.png), or ![singletile](/image/tiles/8-sou.png). Which one should we choose?
 
 Recall that a closed-wait protorun of 57 is stronger than a closed-
 wait protorun of 24 or an edge-wait protorun of 89. Therefore, it is
-OK to cut down the ![midletile](/image/manzu/5-man.png)![midletile](/image/manzu/5-man.png)![onetile](/image/manzu/7-man.png) shape to ![midletile](/image/manzu/5-man.png)![onetile](/image/manzu/7-man.png) by discarding ![onetile](/image/manzu/5-man.png). This is
-because ![midletile](/image/manzu/5-man.png)![onetile](/image/manzu/7-man.png)  can become a side-wait protorun relatively easily. On
-the other hand, the ![midletile](/image/souzu/2-sou.png)![midletile](/image/souzu/2-sou.png)
-![onetile](/image/souzu/4-sou.png) shape and the ![midletile](/image/souzu/8-sou.png)![midletile](/image/souzu/8-sou.png)
-![onetile](/image/souzu/9-sou.png) 	 shape are both
-weak; the ﬁrst can become a side-wait protorun only if we draw ![onetile](/image/souzu/5-sou.png) ,
+OK to cut down the ![singletile](/image/tiles/5-man.png)![singletile](/image/tiles/5-man.png)![singletile](/image/tiles/7-man.png) shape to ![singletile](/image/tiles/5-man.png)![singletile](/image/tiles/7-man.png) by discarding ![singletile](/image/tiles/5-man.png). This is
+because ![singletile](/image/tiles/5-man.png)![singletile](/image/tiles/7-man.png) can become a side-wait protorun relatively easily. On
+the other hand, the ![singletile](/image/tiles/2-sou.png)![singletile](/image/tiles/2-sou.png)
+![singletile](/image/tiles/4-sou.png) shape and the ![singletile](/image/tiles/8-sou.png)![singletile](/image/tiles/8-sou.png)
+![singletile](/image/tiles/9-sou.png) shape are both
+weak; the first can become a side-wait protorun only if we draw ![singletile](/image/tiles/5-sou.png),
 and the second one will never become a side-wait protorun in one
-step. Therefore, both ![midletile](/image/souzu/2-sou.png)![midletile](/image/souzu/2-sou.png)
-![onetile](/image/souzu/4-sou.png) and ![midletile](/image/souzu/8-sou.png)![midletile](/image/souzu/8-sou.png)
-![onetile](/image/souzu/9-sou.png)  should be kept as a candidate
+step. Therefore, both ![singletile](/image/tiles/2-sou.png)![singletile](/image/tiles/2-sou.png)
+![singletile](/image/tiles/4-sou.png) and ![singletile](/image/tiles/8-sou.png)![singletile](/image/tiles/8-sou.png)
+![singletile](/image/tiles/9-sou.png) should be kept as a candidate
 for the head or a group rather than making them into weak
 closed-wait protoruns.
 
-Let’s say we discard ![onetile](/image/manzu/5-man.png), and then we draw ![onetile](/image/manzu/8-man.png), resulting in the
+Let’s say we discard ![singletile](/image/tiles/5-man.png), and then we draw ![singletile](/image/tiles/8-man.png), resulting in the
 following hand.
 
 
@@ -894,24 +787,24 @@ following hand.
 <legend>Advancing a hand 2</legend>
 
 
-![FSmidletile](/image/manzu/5-man.png)
-![FSmidletile](/image/manzu/7-man.png)
-![FSmidletile](/image/souzu/2-sou.png)
-![FSmidletile](/image/souzu/2-sou.png)
-![FSmidletile](/image/souzu/4-sou.png)
-![FSmidletile](/image/souzu/8-sou.png)
-![FSmidletile](/image/souzu/8-sou.png)
-![FSmidletile](/image/souzu/9-sou.png)
-![FSmidletile](/image/pinzu/2-pin.png)
-![FSmidletile](/image/pinzu/3-pin.png)
-![FSmidletile](/image/pinzu/7-pin.png)
-![FSmidletile](/image/pinzu/8-pin.png)
-![FSmidletile](/image/pinzu/9-pin.png)
+![drawtile](/image/tiles/5-man.png)
+![drawtile](/image/tiles/7-man.png)
+![drawtile](/image/tiles/2-sou.png)
+![drawtile](/image/tiles/2-sou.png)
+![drawtile](/image/tiles/4-sou.png)
+![drawtile](/image/tiles/8-sou.png)
+![drawtile](/image/tiles/8-sou.png)
+![drawtile](/image/tiles/9-sou.png)
+![drawtile](/image/tiles/2-pin.png)
+![drawtile](/image/tiles/3-pin.png)
+![drawtile](/image/tiles/7-pin.png)
+![drawtile](/image/tiles/8-pin.png)
+![drawtile](/image/tiles/9-pin.png)
 
 
 <figure class="tile-with-caption">
-    <img src="/image/manzu/8-man.png"
-         alt="FSopentile">
+    <img src="/image/tiles/8-man.png"
+         alt="drawtile">
     <figcaption>Draw</figcaption>
 </figure>
 
@@ -925,28 +818,29 @@ Now that we have a side-wait protorun ![midletile](/image/manzu/7-man.png)![onet
 Let’s say we draw ![onetile](/image/souzu/7-sou.png), resulting in the following hand.
 
 
+
 <fieldset class="mahjong-group">
 <legend>Advancing a hand 3</legend>
 
 
-![FSmidletile](/image/manzu/7-man.png)
-![FSmidletile](/image/manzu/8-man.png)
-![FSmidletile](/image/souzu/2-sou.png)
-![FSmidletile](/image/souzu/2-sou.png)
-![FSmidletile](/image/souzu/4-sou.png)
-![FSmidletile](/image/souzu/8-sou.png)
-![FSmidletile](/image/souzu/8-sou.png)
-![FSmidletile](/image/souzu/9-sou.png)
-![FSmidletile](/image/pinzu/2-pin.png)
-![FSmidletile](/image/pinzu/3-pin.png)
-![FSmidletile](/image/pinzu/7-pin.png)
-![FSmidletile](/image/pinzu/8-pin.png)
-![FSmidletile](/image/pinzu/9-pin.png)
+![drawtile](/image/tiles/7-man.png)
+![drawtile](/image/tiles/8-man.png)
+![drawtile](/image/tiles/2-sou.png)
+![drawtile](/image/tiles/2-sou.png)
+![drawtile](/image/tiles/4-sou.png)
+![drawtile](/image/tiles/8-sou.png)
+![drawtile](/image/tiles/8-sou.png)
+![drawtile](/image/tiles/9-sou.png)
+![drawtile](/image/tiles/2-pin.png)
+![drawtile](/image/tiles/3-pin.png)
+![drawtile](/image/tiles/7-pin.png)
+![drawtile](/image/tiles/8-pin.png)
+![drawtile](/image/tiles/9-pin.png)
 
 
 <figure class="tile-with-caption">
-    <img src="/image/souzu/7-sou.png"
-         alt="FSopentile">
+    <img src="/image/tiles/7-sou.png"
+         alt="drawtile">
     <figcaption>Draw</figcaption>
 </figure>
 
@@ -954,14 +848,9 @@ Let’s say we draw ![onetile](/image/souzu/7-sou.png), resulting in the followi
 
 </fieldset>
 
-This hand is now 1-away from ready, and our discard choice is between
-![onetile](/image/souzu/4-sou.png) and ![onetile](/image/souzu/8-sou.png). Both tiles are equally useless from our perspective,
-and so we will eventually discard them both. The question is which
-one we should discard ﬁrst. Recall that a 4 is more versatile than an
-8. This means that ![onetile](/image/souzu/4-sou.png) in this hand may later become dangerous for
-the opponents; we should thus discard ![onetile](/image/souzu/4-sou.png) now rather than later.
+This hand is now 1-away from ready, and our discard choice is between  ![singletile](/image/tiles/4-sou.png) and ![singletile](/image/tiles/8-sou.png). Both tiles are equally useless from our perspective,  and so we will eventually discard them both. The question is which  one we should discard first. Recall that a 4 is more versatile than an  8. This means that ![singletile](/image/tiles/4-sou.png) in this hand may later become dangerous for  the opponents; we should thus discard ![singletile](/image/tiles/4-sou.png) now rather than later.  
 
-Let’s say we draw ![onetile](/image/pinzu/4-pin.png) after that, resulting in the following hand.
+Let's say we draw ![singletile](/image/tiles/4-pin.png) after that, resulting in the following hand.
 
 
 
@@ -969,24 +858,24 @@ Let’s say we draw ![onetile](/image/pinzu/4-pin.png) after that, resulting in 
 <legend>Advancing a hand 4</legend>
 
 
-![FSmidletile](/image/manzu/7-man.png)
-![FSmidletile](/image/manzu/8-man.png)
-![FSmidletile](/image/souzu/2-sou.png)
-![FSmidletile](/image/souzu/2-sou.png)
-![FSmidletile](/image/souzu/7-sou.png)
-![FSmidletile](/image/souzu/8-sou.png)
-![FSmidletile](/image/souzu/8-sou.png)
-![FSmidletile](/image/souzu/9-sou.png)
-![FSmidletile](/image/pinzu/2-pin.png)
-![FSmidletile](/image/pinzu/3-pin.png)
-![FSmidletile](/image/pinzu/7-pin.png)
-![FSmidletile](/image/pinzu/8-pin.png)
-![FSmidletile](/image/pinzu/9-pin.png)
+![drawtile](/image/tiles/7-man.png)
+![drawtile](/image/tiles/8-man.png)
+![drawtile](/image/tiles/2-sou.png)
+![drawtile](/image/tiles/2-sou.png)
+![drawtile](/image/tiles/7-sou.png)
+![drawtile](/image/tiles/8-sou.png)
+![drawtile](/image/tiles/8-sou.png)
+![drawtile](/image/tiles/9-sou.png)
+![drawtile](/image/tiles/2-pin.png)
+![drawtile](/image/tiles/3-pin.png)
+![drawtile](/image/tiles/7-pin.png)
+![drawtile](/image/tiles/8-pin.png)
+![drawtile](/image/tiles/9-pin.png)
 
 
 <figure class="tile-with-caption">
-    <img src="/image/pinzu/4-pin.png"
-         alt="FSopentile">
+    <img src="/image/tiles/4-pin.png"
+         alt="drawtile">
     <figcaption>Draw</figcaption>
 </figure>
 
@@ -994,8 +883,8 @@ Let’s say we draw ![onetile](/image/pinzu/4-pin.png) after that, resulting in 
 
 </fieldset>
 
-The hand is now ready. We should discard ![onetile](/image/souzu/8-sou.png) and call riichi. If we
-win on ![onetile](/image/manzu/9-man.png), we can claim riichi, pinfu, and sanshoku (Mixed Triple
+The hand is now ready. We should discard ![singletile](/image/tiles/8-sou.png) and call riichi. If we
+win on ![singletile](/image/tiles/9-man.png), we can claim riichi, pinfu, and sanshoku (Mixed Triple
 Chow), giving us 7700 points.
 12
 
