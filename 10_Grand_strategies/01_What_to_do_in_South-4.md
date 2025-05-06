@@ -112,7 +112,6 @@ has 15200 more points. Then, even getting a haneman tsumo
 is not enough. You need a mangan ron directly from the ﬁrst ranked
 player. This is suﬃcient because you gain 8000 points while the ﬁrst
 ranked player loses 8000 points, inducing a 8000
-
 2 = 16000 point
 diﬀerence.
 
@@ -131,19 +130,26 @@ points.
 
 
 <fieldset class="mahjong-group">
-<legend>South-4: 5100 points behind, dora ȷ</legend>
+<legend>South-4: 5100 points behind, dora <img class="singletile" src="/image/tiles/6-man.png"></legend>
 
-<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/1-man.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
 <img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
 <img class="drawtile" src="/image/tiles/1-pin.png">
 <img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
 
 
 <figure class="tile-with-caption">
-    <img src="/image/souzu/2-sou.png"
-         alt="FSopentile">
+    <img src="/image/tiles/8-man.png"
+         alt="drawtile">
     <figcaption>Draw</figcaption>
 </figure>
 
@@ -154,7 +160,8 @@ points.
 
 
 
-If you keep  and discard , the hand is ready. However, doing
+If you keep ![singletile](/image/tiles/8-man.png) and discard 
+![singletile](/image/tiles/2-sou.png), the hand is ready. However, doing
 insta-riichi with the current hand is not ideal. Since the hand
 value is only 2600 (2 han–40 minipoints), winning it by ron from the
 third-ranked or fourth-ranked player will not improve your placement
@@ -162,10 +169,16 @@ third-ranked or fourth-ranked player will not improve your placement
 only give you 1000-2000 (3 han–30 minipoints), generating only a
 4000 + 1000 = 5000 point diﬀerence. This is not suﬃcient to improve
 the placement.
-You should rather keep the hand 1-away by discarding . If you
-draw  or , you can then do insta-riichi to get riichi + sanshoku =
+
+You should rather keep the hand 1-away by discarding 
+![singletile](/image/tiles/8-man.png). If you
+draw 
+![singletile](/image/tiles/1-sou.png) or 
+![singletile](/image/tiles/3-sou.png), you can then do insta-riichi to get riichi + sanshoku =
 at least 5200 (3 han–40 minipoints). Winning it by ron from anyone
-is now suﬃcient to improve the placement. If you draw  or ﬀ, you
+is now suﬃcient to improve the placement. If you draw 
+![singletile](/image/tiles/5-man.png) or 
+![singletile](/image/tiles/7-man.png), you
 can also do insta-riichi to get riichi + pinfu + dora. Winning it either
 by tsumo or ippatsu ron is suﬃcient to improve the placement.
 3
@@ -268,19 +281,26 @@ in the 6th turn in South-4. You are currently ranked second, and the
 
 
 <fieldset class="mahjong-group">
-<legend>South-4: 3300 points behind, dora </legend>
+<legend>South-4: 3300 points behind, dora <img class="singletile" src="/image/tiles/5-man.png"></legend>
 
+<img class="drawtile" src="/image/tiles/1-man.png">
+<img class="drawtile" src="/image/tiles/1-man.png">
 <img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
 <img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/8-pin.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
 
 
 <figure class="tile-with-caption">
-    <img src="/image/souzu/2-sou.png"
-         alt="FSopentile">
+    <img src="/image/tiles/1-sou.png"
+         alt="drawtile">
     <figcaption>Draw</figcaption>
 </figure>
 
@@ -289,15 +309,15 @@ in the 6th turn in South-4. You are currently ranked second, and the
 
 </fieldset>	
 
-You wanted to draw ȷ ﬁrst so that you can have riichi + pinfu + one
+You wanted to draw <img class="singletile" src="/image/tiles/6-man.png"> ﬁrst so that you can have riichi + pinfu + one
 dora = 3900. Winning that hand by ron from anyone would improve
-your placement. However, now that you drew , what should you
+your placement. However, now that you drew <img class="singletile" src="/image/tiles/1-sou.png">, what should you
 do?
 
 Recall that a 700-1300 tsumo would induce a 3400 point diﬀer-
 ence. Since this is a pinfu hand, getting riichi + pinfu + tsumo
 gives you exactly 700-1300 tsumo. You should thus do insta-riichi by
-discarding . Once you call riichi, you can do either (1) ippatsu
+discarding <img class="singletile" src="/image/tiles/5-man.png">. Once you call riichi, you can do either (1) ippatsu
 ron from anyone, (2) direct hit ron from the ﬁrst ranked player, or
 (3) tsumo to improve the placement.
 4
@@ -311,44 +331,52 @@ which you can improve your placement with the following hand?
 
 
 <fieldset class="mahjong-group">
-<legend>South-4: 4700 points behind, dora </legend>
+<legend>South-4: 4700 points behind, dora <img class="singletile" src="/image/tiles/5-man.png"></legend>
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-
-
-<figure class="tile-with-caption">
-    <img src="/image/souzu/2-sou.png"
-         alt="FSopentile">
-    <figcaption>Draw</figcaption>
-</figure>
-
-
-<div class="discard-question">What are you waiting for?</div> 
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
+<img class="verticaldrawtile" src="/image/tiles/h8-pin.png">
+<img class="drawtile" src="/image/tiles/8-pin.png">
+<img class="drawtile" src="/image/tiles/8-pin.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+<img class="verticaldrawtile" src="/image/tiles/h7-sou.png">
 
 </fieldset>	
 
 
-Winning this hand on $ by ron from anyone or tsumo satisﬁes the
+Winning this hand on ![singletile](/image/tiles/hatsu.png) by ron from anyone or tsumo satisﬁes the
 condition because it gives you 5200 points (toitoi + Green Dragon
-with 40 minipoints). Winning it on , however, only gives you 2600
+with 40 minipoints). Winning it on 
+![singletile](/image/tiles/4-sou.png), however, only gives you 2600
 points. You can still improve the placement if you get a direct hit
 from the ﬁrst ranked player, but not if it is from other players. Even
-though the ﬁrst ranked player is the dealer, you cannot improve the placement if you draw , either. Declaring tsumo on  gives you
+though the ﬁrst ranked player is the dealer, you cannot improve the placement if you draw ![singletile](/image/tiles/4-sou.png), either. Declaring tsumo on ![singletile](/image/tiles/4-sou.png) gives you
 700-1300, which induces only a 4000 point diﬀerence even against the
 dealer.
 
-However, if you manage to draw  or , you should extend the
+However, if you manage to draw 
+![singletile](/image/tiles/8-pin.png) or 
+![singletile](/image/tiles/7-sou.png), you should extend the
 melded set to a melded quad. Doing so not only gives you a chance
 of rinshan tsumo or new dora but also enables you to improve the
-placement when drawing . This is because the hand will have 50
+placement when drawing 
+![singletile](/image/tiles/4-sou.png). This is because the hand will have 50
 minipoints if you tsumo: 20 for the base minipoints + 8 for a melded
-Kong of  or  + 2 for a melded set of  or  + 4 for a concealed
-set of  + 2 for a pair of $ + 4 for a concealed set of  + 2 for
+Kong of 
+![singletile](/image/tiles/8-pin.png) or 
+![singletile](/image/tiles/7-sou.png) + 2 for a melded set of 
+![singletile](/image/tiles/7-sou.png) or 
+![singletile](/image/tiles/8-pin.png) + 4 for a concealed
+set of 
+![singletile](/image/tiles/2-man.png) + 2 for a pair of 
+![singletile](/image/tiles/hatsu.png) + 4 for a concealed set of 
+![singletile](/image/tiles/4-sou.png) + 2 for
 tsumo = 42, rounded up to 50 minipoints. A 2 han–50 minipoints
 tsumo induces a 4800 point diﬀerence against the dealer.
 
@@ -370,19 +398,17 @@ ahead of the game in South-4, try to imagine what each of your opponents
 aims to do. Recall the situation I described in discussing riichi
 judgement in Section 7.3, reproduced below.
 
-Let’s think about the incentive structure for each of the other three
+Let’s think about the incentive structure for each of the other three players in turn.
 
-| East (you)     | 39000 | South | 22900 |
-| --------- | ---------- | ------ | ------ |
-| West  | 13000       | North   | 25100 |
-
-
- East (you) 39000 South 22900
-West
-13000 North 25100
+| Direction | Score  |
+|-----------|--------|
+| East (you)| 39000  |
+| South     | 22900  |
+| West      | 13000  |
+| North     | 25100  |
 
 
-players in turn. First, the fourth ranked player (West) should try to
+ First, the fourth ranked player (West) should try to
 have a mangan tsumo, for that would put him in the third place. The
 third ranked player (South) would need a 500-1000 tsumo or 2600
 ron to get the second place, which is a realistic goal to pursue. In
@@ -403,6 +429,7 @@ South player is your right player, you should discard versatile middle
 tiles (3–7) so that he would call chii on them, possibly with a
 red ﬁve (because South needs 2 han). Recall that even giving him a
 direct hit mangan ron will secure you the ﬁrst place.
+
 
 
 ## Footnotes
@@ -420,64 +447,10 @@ to deal into the mangan hand you helped him make.
 Drawing ﬀ means you are in furiten, but you should still do insta-riichi.
 
 
+
+
 4
 Whether or not you should let it go when the third or fourth ranked player
 discards your winning tile depends on the point diﬀerence between you and
 the third ranked player. Unless it is greater than 12000 points, you should call
 ron and hope to get one ura dora.
-
-10.1. WHAT TO DO IN SOUTH-4
-243
-placement if you draw , either. Declaring tsumo on  gives you
-700-1300, which induces only a 4000 point diﬀerence even against the
-dealer.
-However, if you manage to draw  or , you should extend the
-melded set to a melded quad. Doing so not only gives you a chance
-of rinshan tsumo or new dora but also enables you to improve the
-placement when drawing . This is because the hand will have 50
-minipoints if you tsumo: 20 for the base minipoints + 8 for a melded
-Kong of  or  + 2 for a melded set of  or  + 4 for a concealed
-set of  + 2 for a pair of $ + 4 for a concealed set of  + 2 for
-tsumo = 42, rounded up to 50 minipoints. A 2 han–50 minipoints
-tsumo induces a 4800 point diﬀerence against the dealer.
-Maintaining your placement
-If you are ahead of the game in South-4, you should do your best
-to maintain your current rank. Trying to win a cheap but fast hand
-to end the game is an option, but be extra careful not to deal into an
-opponent’s expensive hand. For example, suppose you have 15200
-more points than the second ranked player. If neither you nor the
-second ranked player is the dealer, he cannot defeat you even with
-a haneman tsumo. Then, what you need to be wary of the most is
-to give him a direct hit mangan ron. You will lose not only the 8000
-points for the mangan payment but also the 10000 bonus points for
-the placement, a total net loss of 18000 points.
-In order to ﬁgure out what exactly you should do when you are
-ahead of the game in South-4, try to imagine what each of your opponents
-aims to do. Recall the situation I described in discussing riichi
-judgement in Section 7.3, reproduced below.
-Let’s think about the incentive structure for each of the other three 
-244
-CHAPTER 10. GRAND STRATEGIES
-East (you) 39000 South 22900
-West
-13000 North 25100
-players in turn. First, the fourth ranked player (West) should try to
-have a mangan tsumo, for that would put him in the third place. The
-third ranked player (South) would need a 500-1000 tsumo or 2600
-ron to get the second place, which is a realistic goal to pursue. In
-order for him to get the ﬁrst place, he would need either a haneman
-tsumo or a direct hit haneman ron from you. Finally, in order for the
-second ranked player (North) to get the ﬁrst place, he would need
-a haneman tsumo or a direct hit mangan ron from you. Given that he
-has only 2200 more points than the third ranked player, the second
-ranked player should rather aim to win whatever hand possible to
-maintain the current rank.
-So, what should you do in such a situation? What you should be
-afraid of the most is a haneman tsumo by South or North. However,
-notice that South and North are in a ﬁerce competition among themselves.
-Take advantage of this. If winning a fast hand yourself does
-not seem possible, you should try to assist the South player. Since the
-South player is your right player, you should discard versatile middle
-tiles (3–7) so that he would call chii on them, possibly with a
-red ﬁve (because South needs 2 han). Recall that even giving him a
-direct hit mangan ron will secure you the ﬁrst place.

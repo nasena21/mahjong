@@ -29,21 +29,23 @@ currently ranked ﬁrst, and you only have 1000 more points than the
 second ranked player (West).
 
 <fieldset class="mahjong-group">
-<legend>Riichi judgement in South-3: dora ȷ</legend>
+<legend>Riichi judgement in South-3: dora <img class="singletile" src="/image/tiles/6-man.png"></legend>
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+![drawtile](/image/tiles/2-man.png)
+![drawtile](/image/tiles/3-man.png)
+![drawtile](/image/tiles/4-man.png)
+![drawtile](/image/tiles/6-man.png)
+![drawtile](/image/tiles/7-man.png)
+![drawtile](/image/tiles/8-man.png)
+![drawtile](/image/tiles/3-pin.png)
+![drawtile](/image/tiles/3-pin.png)
+![drawtile](/image/tiles/3-pin.png)
+![drawtile](/image/tiles/4-sou.png)
+![drawtile](/image/tiles/5-sou.png)
+![drawtile](/image/tiles/7-sou.png)
+![drawtile](/image/tiles/7-sou.png)
+![drawtile](/image/tiles/pei.png)
 
-
-<figure class="tile-with-caption">
-    <img src="/image/souzu/2-sou.png"
-         alt="FSopentile">
-    <figcaption>Draw</figcaption>
-</figure>
 
 
 <div class="discard-question">Riichi or dama?</div> 

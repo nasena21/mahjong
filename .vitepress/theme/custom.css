@@ -12,7 +12,6 @@
 }
 
 
-
 img[alt="singletile"] {  
   max-height: 40px;
   display: inline;
@@ -27,6 +26,13 @@ img[alt="drawtile"] {
 }
 
 img[alt="verticaldrawtile"] {  
+  max-height: 46px;
+  display: inline;
+  vertical-align: bottom;
+  margin-top: 10px;
+}
+
+.verticaldrawtile {  
   max-height: 46px;
   display: inline;
   vertical-align: bottom;
