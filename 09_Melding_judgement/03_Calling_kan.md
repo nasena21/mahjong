@@ -31,58 +31,102 @@ the examples.)
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
 <img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
 <img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/pei.png">
+<img class="drawtile" src="/image/tiles/pei.png">
+<img class="drawtile" src="/image/tiles/pei.png">
+<img class="drawtile" src="/image/tiles/pei.png">
 
 </fieldset>	
 
 (2) ‌
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
+
+<img class="drawtile" src="/image/tiles/3-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
 <img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/pei.png">
+<img class="drawtile" src="/image/tiles/pei.png">
+<img class="drawtile" src="/image/tiles/pei.png">
+<img class="drawtile" src="/image/tiles/pei.png">
 
 </fieldset>	
 (3)
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
+
+<img class="drawtile" src="/image/tiles/3-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
 <img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/pei.png">
+<img class="drawtile" src="/image/tiles/pei.png">
+<img class="drawtile" src="/image/tiles/pei.png">
+<img class="drawtile" src="/image/tiles/pei.png">
 
 </fieldset>	
 
 (4)
 <fieldset class="no-border">
 
+
+<img class="drawtile" src="/image/tiles/3-man.png">
 <img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
 <img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/pei.png">
+<img class="drawtile" src="/image/tiles/pei.png">
+<img class="drawtile" src="/image/tiles/pei.png">
+<img class="drawtile" src="/image/tiles/pei.png">
+<img class="drawtile" src="/image/tiles/haku.png">
 
 </fieldset>	
 (5)
 <fieldset class="no-border">
 
+
+<img class="drawtile" src="/image/tiles/3-man.png">
 <img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
 <img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/pei.png">
+<img class="drawtile" src="/image/tiles/pei.png">
+<img class="drawtile" src="/image/tiles/pei.png">
+<img class="drawtile" src="/image/tiles/pei.png">
+<img class="drawtile" src="/image/tiles/haku.png">
+<img class="drawtile" src="/image/tiles/haku.png">
 
 </fieldset>	
 
@@ -123,20 +167,20 @@ calling kan.
 <fieldset class="mahjong-group">
 <legend>Concealed quad?</legend>
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
 <img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-
-
-<figure class="tile-with-caption">
-    <img src="/image/souzu/2-sou.png"
-         alt="FSopentile">
-    <figcaption>Draw</figcaption>
-</figure>
-
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/8-sou.png">
 
 <div class="discard-question">It is your turn. What would you do?</div> 
 
@@ -146,39 +190,65 @@ calling kan.
 
 If you call kan, the hand will be 1-away and the wait will not be terribly
 bad; it can be made ready if you draw any of
-
-	, and you may draw one of these
+![singletile](/image/tiles/8-man.png)
+![singletile](/image/tiles/2-pin.png)
+![singletile](/image/tiles/3-pin.png)
+![singletile](/image/tiles/4-pin.png)
+![singletile](/image/tiles/5-pin.png)
+![singletile](/image/tiles/6-pin.png)
+![singletile](/image/tiles/7-pin.png)
+![singletile](/image/tiles/8-pin.png)
+![singletile](/image/tiles/9-pin.png)
+![singletile](/image/tiles/3-sou.png)
+![singletile](/image/tiles/6-sou.png)
+![singletile](/image/tiles/7-sou.png)
+![singletile](/image/tiles/9-sou.png), and you may draw one of these
 tiles as a rinshan tile (the bonus draw after kan). However, the resulting
 hand will be either riichi only or riichi + tanyao only, sometimes
 with a bad wait.
 
-If you choose not to call kan and discard , you can treat one
-of the four tiles of  as a ﬂoating tile that could form a side-wait
+If you choose not to call kan and discard 
+![singletile](/image/tiles/8-sou.png), you can treat one
+of the four tiles of 
+![singletile](/image/tiles/4-man.png) as a ﬂoating tile that could form a side-wait
 protorun. The hand will be a side-wait ready hand if you draw any
-of ‌
-. Moreover, if you draw  or ȷ, the hand will be
+of 
+![singletile](/image/tiles/3-man.png)
+![singletile](/image/tiles/5-man.png)
+![singletile](/image/tiles/3-pin.png)
+![singletile](/image/tiles/5-pin.png)
+![singletile](/image/tiles/6-pin.png)
+![singletile](/image/tiles/8-pin.png). Moreover, if you draw 
+![singletile](/image/tiles/5-man.png) or 
+![singletile](/image/tiles/6-man.png), the hand will be
 ready for sanshoku of 456. If you call kan, on the other hand, the hand
-will lose the ability to accept ‌ȷ that would otherwise make
+will lose the ability to accept 
+![singletile](/image/tiles/2-man.png)
+![singletile](/image/tiles/3-man.png)
+![singletile](/image/tiles/5-man.png)
+![singletile](/image/tiles/6-man.png) that would otherwise make
 the hand ready. Therefore, you should not call kan at this point and
-simply discard . You can call kan later if the hand becomes ready
+simply discard 
+![singletile](/image/tiles/8-sou.png). You can call kan later if the hand becomes ready
 by drawing a pinzu (dots) tile.
 
 <fieldset class="mahjong-group">
 <legend>Concealed quad?</legend>
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
 <img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-
-
-<figure class="tile-with-caption">
-    <img src="/image/souzu/2-sou.png"
-         alt="FSopentile">
-    <figcaption>Draw</figcaption>
-</figure>
+<img class="drawtile" src="/image/tiles/9-man.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+<img class="drawtile" src="/image/tiles/8-sou.png">
 
 
 <div class="discard-question">It is your turn. What would you do?</div> 
@@ -187,9 +257,9 @@ by drawing a pinzu (dots) tile.
 
 If you call kan, you will lose pinfu. Moreover, if you draw a tile that
 completes one of the two side-wait protoruns after calling kan, the
-hand becomes a single-wait hand. You should thus discard . Then,
+hand becomes a single-wait hand. You should thus discard ![singletile](/image/tiles/4-man.png). Then,
 if you complete one of the side-wait protoruns ﬁrst, you can discard
-another  to make the hand ready for pinfu.
+another ![singletile](/image/tiles/4-man.png) to make the hand ready for pinfu.
 
 
 
@@ -215,10 +285,17 @@ You can make an open quad in any of the following situations:
 <fieldset class="mahjong-group">
 <legend>Open quad?</legend>
 
-<img class="drawtile" src="/image/tiles/5-man.png">
 <img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/8-pin.png">
+<img class="drawtile" src="/image/tiles/8-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="verticaldrawtile" src="/image/tiles/h3-pin.png">
 <img class="drawtile" src="/image/tiles/1-pin.png">
 <img class="drawtile" src="/image/tiles/2-pin.png">
 
@@ -226,67 +303,83 @@ You can make an open quad in any of the following situations:
 <figure class="tile-with-caption">
     <img src="/image/souzu/2-sou.png"
          alt="FSopentile">
-    <figcaption>Draw</figcaption>
+    <figcaption>Dora</figcaption>
 </figure>
 
 
-<div class="discard-question">The right player discarded % just now.</div> 
+<div class="discard-question">The right player discarded <img class="singletile" src="/image/tiles/chun.png">  just now.</div> 
 
 </fieldset>	
 
 This ready hand is currently worth 2000 points with a good wait.
-Calling kan on %is therefore justiﬁable. If any one of the tiles in your
+Calling kan on <img class="singletile" src="/image/tiles/chun.png">  is therefore justiﬁable. If any one of the tiles in your
 hand becomes dora, the hand value increases from 2000 to 5200.
 
 <fieldset class="mahjong-group">
 <legend>Open quad?</legend>
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
 <img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/9-man.png">
+<img class="drawtile" src="/image/tiles/8-pin.png">
+<img class="drawtile" src="/image/tiles/8-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="verticaldrawtile" src="/image/tiles/h3-pin.png">
 <img class="drawtile" src="/image/tiles/1-pin.png">
 <img class="drawtile" src="/image/tiles/2-pin.png">
 
 
+
 <figure class="tile-with-caption">
-    <img src="/image/souzu/2-sou.png"
-         alt="FSopentile">
-    <figcaption>Draw</figcaption>
+    <img src="/image/tiles/2-sou.png"
+         alt="drawtile">
+    <figcaption>Dora</figcaption>
 </figure>
 
 
-<div class="discard-question">The right player discarded % just now.</div> 
+<div class="discard-question">The right player discarded <img class="singletile" src="/image/tiles/chun.png"> just now.</div> 
 
 </fieldset>	
 
 This ready hand is currently 2000 points with a bad wait. Calling kan
-on % is not justiﬁable when the wait is bad.
+on <img class="singletile" src="/image/tiles/chun.png"> is not justiﬁable when the wait is bad.
 
 <fieldset class="mahjong-group">
 <legend>Open quad?</legend>
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
+
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
+<img class="drawtile" src="/image/tiles/8-pin.png">
+<img class="drawtile" src="/image/tiles/8-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="verticaldrawtile" src="/image/tiles/h3-pin.png">
 <img class="drawtile" src="/image/tiles/1-pin.png">
 <img class="drawtile" src="/image/tiles/2-pin.png">
 
 
 <figure class="tile-with-caption">
-    <img src="/image/souzu/2-sou.png"
-         alt="FSopentile">
-    <figcaption>Draw</figcaption>
+    <img src="/image/tiles/9-sou.png"
+         alt="drawtile">
+    <figcaption>Dora</figcaption>
 </figure>
 
 
-<div class="discard-question">The right player discarded % just now.</div> 
+<div class="discard-question">The right player discarded <img class="singletile" src="/image/tiles/chun.png"> just now.</div> 
 
 </fieldset>	
 
 This ready hand is currently 1000 points with a good wait. Calling
-kan on % is not justiﬁable. Even when one of the tiles in your hand
+kan on ![singletile](/image/tiles/chun.png) is not justiﬁable. Even when one of the tiles in your hand
 becomes new dora, the hand value only increases from 1000 to 2600
 points.
 
@@ -316,49 +409,64 @@ to draw tiles;
 <fieldset class="mahjong-group">
 <legend>Open set to quad?</legend>
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
 <img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="verticaldrawtile" src="/image/tiles/h-chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
 
 
 <figure class="tile-with-caption">
-    <img src="/image/souzu/2-sou.png"
-         alt="FSopentile">
-    <figcaption>Draw</figcaption>
+    <img src="/image/tiles/3-man.png"
+         alt="drawtile">
+    <figcaption>Dora</figcaption>
 </figure>
 
 
-<div class="discard-question">The right player discarded % just now.</div> 
+<div class="discard-question">You drew the fourth <img class="singletile" src="/image/tiles/chun.png"> just now</div> 
 
 </fieldset>	
 
-This 1-away hand has two han and a good wait. Calling kan on % is
+This 1-away hand has two han and a good wait. Calling kan on ![singletile](/image/tiles/chun.png) is
 justiﬁable.
 
 <fieldset class="mahjong-group">
 <legend>Open set to quad?</legend>
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
+
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
 <img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/9-sou.png">
+<img class="drawtile" src="/image/tiles/9-sou.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="verticaldrawtile" src="/image/tiles/h-chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
 
 
 <figure class="tile-with-caption">
-    <img src="/image/souzu/2-sou.png"
-         alt="FSopentile">
-    <figcaption>Draw</figcaption>
+    <img src="/image/tiles/1-pin.png"
+         alt="drawtile">
+    <figcaption>Dora</figcaption>
 </figure>
 
 
-<div class="discard-question">The right player discarded % just now.</div> 
+<div class="discard-question">The right player discarded <img class="singletile" src="/image/tiles/chun.png"> just now.</div> 
 
 </fieldset>	
 
 This hand has three han and a good wait. However, since it is 2-away
-from ready, calling kan on % is not justiﬁable.
+from ready, calling kan on ![singletile](/image/tiles/chun.png) is not justiﬁable.

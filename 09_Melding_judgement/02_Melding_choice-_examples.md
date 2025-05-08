@@ -20,31 +20,43 @@ hand.
 
 <fieldset class="mahjong-group">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
 <img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/9-man.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/8-pin.png">
+<img class="drawtile" src="/image/tiles/9-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
 
 
 <figure class="tile-with-caption">
-    <img src="/image/souzu/2-sou.png"
-         alt="FSopentile">
-    <figcaption>Draw</figcaption>
+    <img src="/image/tiles/sha.png"
+         alt="drawtile">
+    <figcaption>Dora</figcaption>
 </figure>
 
 
-<div class="discard-question">The left player discarded  just now.</div> 
+<div class="discard-question">The left player discarded <img class="singletile" src="/image/tiles/7-man.png">  just now.</div> 
 
 </fieldset>
 
-You should call chii on ﬀ and discard . It is true that doing so
+You should call chii on <img class="singletile" src="/image/tiles/7-man.png">  and discard 
+<img class="singletile" src="/image/tiles/1-sou.png">. It is true that doing so
 means that the hand value will be 1000 (Green Dragon only) and that
-the hand can be won only with $. However, notice that the hand
+the hand can be won only with 
+<img class="singletile" src="/image/tiles/hatsu.png">. However, notice that the hand
 value is not very high anyway if you keep the hand closed. Even if
-you draw ﬀ and call riichi, the hand value is 2600 if you win on $
-or 1300 if you win on .
+you draw 
+<img class="singletile" src="/image/tiles/7-man.png"> and call riichi, the hand value is 2600 if you win on 
+<img class="singletile" src="/image/tiles/hatsu.png">
+or 1300 if you win on 
+<img class="singletile" src="/image/tiles/2-sou.png">.
 
 Keep in mind also that winning a cheap hand like this is not to-
 tally meaningless. This is because doing so also means you prevent
@@ -53,7 +65,11 @@ do not want to make your mangan hand into a 1000 hand, but the hand
 above is not a mangan hand.
 
 Moreover, this hand has pretty low tile acceptance (4 kinds–12
-tiles, ﬀ$); the chance of making the hand ready without melding
+tiles, 
+<img class="singletile" src="/image/tiles/7-man.png">
+<img class="singletile" src="/image/tiles/2-sou.png">
+<img class="singletile" src="/image/tiles/3-sou.png">
+<img class="singletile" src="/image/tiles/hatsu.png">); the chance of making the hand ready without melding
 is not very high, either.
 
 <fieldset class="redline">
@@ -74,32 +90,40 @@ good-wait 1-away one.
 <fieldset class="mahjong-group">
 <legend>Improving the wait</legend>
 
-<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5r-man.png">
 <img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5r-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="verticaldrawtile" src="/image/tiles/h-chun.png">
 
 
-<figure class="tile-with-caption">
-    <img src="/image/souzu/2-sou.png"
-         alt="FSopentile">
-    <figcaption>Draw</figcaption>
-</figure>
-
-
-<div class="discard-question">The left player discarded  just now.</div> 
+<div class="discard-question">The left player discarded <img class="singletile" src="/image/tiles/5-man.png"> just now.</div> 
 
 </fieldset>
 
 
-The hand is already ready, waiting for ‌. However, you should call
-chii on  with ȷﬀ and discard , so you can upgrade the wait
-to a side wait of ‌-ȷ. With melded hands, it is important to think
+The hand is already ready, waiting for <img class="singletile" src="/image/tiles/3-man.png">‌. However, you should call
+chii on 
+<img class="singletile" src="/image/tiles/5-man.png"> with 
+<img class="singletile" src="/image/tiles/6-man.png">
+<img class="singletile" src="/image/tiles/7-man.png"> and discard 
+<img class="singletile" src="/image/tiles/2-man.png">, so you can upgrade the wait
+to a side wait of ‌
+<img class="singletile" src="/image/tiles/3-man.png">-
+<img class="singletile" src="/image/tiles/6-man.png">. With melded hands, it is important to think
 about the possibilities of improving the wait and/or scores by melding
-further. In the current example, calling chii on - or pon on
- will improve the wait from a closed wait to a 2-way wait.
+further. In the current example, calling chii on 
+<img class="singletile" src="/image/tiles/5-man.png">-
+<img class="singletile" src="/image/tiles/8-man.png"> or pon on
+<img class="singletile" src="/image/tiles/1-sou.png"> will improve the wait from a closed wait to a 2-way wait.
 
 ## Conﬁrming yaku
 
@@ -112,84 +136,119 @@ by melding if doing so conﬁrms a certain yaku in a hand.
 <fieldset class="mahjong-group">
 <legend>Conﬁrming yaku</legend>
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
 <img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/5r-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+<img class="drawtile" src="/image/tiles/8-sou.png">
+<img class="drawtile" src="/image/tiles/9-sou.png">
 
 
 <figure class="tile-with-caption">
-    <img src="/image/souzu/2-sou.png"
-         alt="FSopentile">
-    <figcaption>Draw</figcaption>
+    <img src="/image/tiles/9-sou.png"
+         alt="drawtile">
+    <figcaption>Dora</figcaption>
 </figure>
 
 
-<div class="discard-question">The left player discarded  just now.</div> 
+<div class="discard-question">The left player discarded <img class="singletile" src="/image/tiles/4-sou.png"> just now.</div> 
 
 </fieldset>	
 
 
-Calling chii on  completes a side-wait block in this hand, leaving
+Calling chii on <img class="singletile" src="/image/tiles/4-sou.png"> completes a side-wait block in this hand, leaving
 the hand 1-away with one edge-wait and one side-wait protoruns.
-However, this is acceptable because calling chii onconﬁrms ittsu
-in this hand. Getting ittsu with this hand requires that we have ,
-not , to complete the protorun . We should thus think of this
+However, this is acceptable because calling chii on 
+<img class="singletile" src="/image/tiles/4-sou.png"> conﬁrms ittsu
+in this hand. Getting ittsu with this hand requires that we have 
+<img class="singletile" src="/image/tiles/4-sou.png">,
+not 
+<img class="singletile" src="/image/tiles/7-sou.png">, to complete the protorun 
+<img class="singletile" src="/image/tiles/5-sou.png">
+<img class="singletile" src="/image/tiles/9-sou.png">. We should thus think of this
 protorun more as an edge-wait protorun rather than a side-wait protorun.
-Calling chii on  is tantamount to eliminating a bad wait in
+Calling chii on 
+<img class="singletile" src="/image/tiles/4-sou.png"> is tantamount to eliminating a bad wait in
 this case.
 4
 
 <fieldset class="mahjong-group">
 <legend>Conﬁrming yaku</legend>
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
 <img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/8-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/ton.png">
+<img class="drawtile" src="/image/tiles/ton.png">
+<img class="drawtile" src="/image/tiles/ton.png">
+<img class="drawtile" src="/image/tiles/nan.png">
+<img class="drawtile" src="/image/tiles/nan.png">
+
 
 
 <figure class="tile-with-caption">
-    <img src="/image/souzu/2-sou.png"
-         alt="FSopentile">
-    <figcaption>Draw</figcaption>
+    <img src="/image/tiles/hatsu.png"
+         alt="drawtile">
+    <figcaption>Dora</figcaption>
 </figure>
 
 
-<div class="discard-question">The left player discarded  just now.</div> 
+<div class="discard-question">The left player discarded <img class="singletile" src="/image/tiles/2-pin.png"> just now.</div> 
 
 </fieldset>	
 
 
-If you call pon on  and discard , the hand is ready. However,
-doing so only gives you a 1300 hand. Instead, you should discard 
+If you call pon on <img class="singletile" src="/image/tiles/2-pin.png"> and discard 
+<img class="singletile" src="/image/tiles/8-pin.png">, the hand is ready. However,
+doing so only gives you a 1300 hand. Instead, you should discard 
+<img class="singletile" src="/image/tiles/4-sou.png">
 after calling pon to have a 1-away honitsu hand, as follows.
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/8-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/ton.png">
+<img class="drawtile" src="/image/tiles/ton.png">
+<img class="drawtile" src="/image/tiles/ton.png">
+<img class="drawtile" src="/image/tiles/nan.png">
+<img class="drawtile" src="/image/tiles/nan.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="verticaldrawtile" src="/image/tiles/h2-pin.png">
 <img class="drawtile" src="/image/tiles/2-pin.png">
 
 
+
 <figure class="tile-with-caption">
-    <img src="/image/souzu/2-sou.png"
-         alt="FSopentile">
-    <figcaption>Draw</figcaption>
+    <img src="/image/tiles/hatsu.png"
+         alt="drawtile">
+    <figcaption>Dora</figcaption>
 </figure>
 
 
 </fieldset>	
 
 
-You can further call chii on any of  or call pon on  to get
+You can further call chii on any of <img class="singletile" src="/image/tiles/4-pin.png">
+<img class="singletile" src="/image/tiles/6-pin.png">
+<img class="singletile" src="/image/tiles/7-pin.png">
+<img class="singletile" src="/image/tiles/9-pin.png"> or call pon on 
+<img class="singletile" src="/image/tiles/nan.png"> to get
 5200 or above.
 
 ## Concealed set of value tiles
@@ -204,33 +263,49 @@ an option even with a cheap and slow hand.
 <fieldset class="mahjong-group">
 <legend>Concealed set of value tiles</legend>
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
 <img class="drawtile" src="/image/tiles/6-man.png">
 <img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
 <img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+
+
 
 
 <figure class="tile-with-caption">
-    <img src="/image/souzu/2-sou.png"
-         alt="FSopentile">
-    <figcaption>Draw</figcaption>
+    <img src="/image/tiles/sha.png"
+         alt="drawtile">
+    <figcaption>Dora</figcaption>
 </figure>
 
 
-<div class="discard-question">The left player discarded  just now.</div> 
+<div class="discard-question">The left player discarded <img class="singletile" src="/image/tiles/5-man.png"> just now.</div> 
 
 </fieldset>	
 
 
-This hand is both cheap and slow. Even after calling chii on , the
+This hand is both cheap and slow. Even after calling chii on <img class="singletile" src="/image/tiles/5-man.png">, the
 hand is still 1-away with a bad wait. However, this hand has a concealed
-set of %, which can be used as three safe tiles when someone
+set of 
+<img class="singletile" src="/image/tiles/chun.png">, which can be used as three safe tiles when someone
 calls riichi. In such cases, you can meld as long as doing so advances
-the hand. That is, you can chii any of ﬀ
-. You should not
-call chii on - or pon on , because doing so does not advance
+the hand. That is, you can chii any of 
+<img class="singletile" src="/image/tiles/5-man.png">
+<img class="singletile" src="/image/tiles/7-man.png">
+<img class="singletile" src="/image/tiles/3-pin.png">
+<img class="singletile" src="/image/tiles/3-sou.png">. You should not
+call chii on 
+<img class="singletile" src="/image/tiles/4-sou.png">-
+<img class="singletile" src="/image/tiles/7-sou.png"> or pon on 
+<img class="singletile" src="/image/tiles/9-sou.png">, because doing so does not advance
 this hand from 2-away to 1-away or improve the wait/scores.
 
 <fieldset class="redline">

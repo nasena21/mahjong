@@ -43,22 +43,29 @@ with a bad wait. Let’s see a few examples.
 <fieldset class="mahjong-group">
 <legend>Cheap and slow hand</legend>
 
+<img class="drawtile" src="/image/tiles/3-man.png">
 <img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/haku.png">
+<img class="drawtile" src="/image/tiles/haku.png">
+
 
 
 <figure class="tile-with-caption">
-    <img src="/image/souzu/2-sou.png"
-         alt="FSopentile">
-    <figcaption>Draw</figcaption>
+    <img src="/image/tiles/1-man.png"
+         alt="drawtile">
+    <figcaption>Dora</figcaption>
 </figure>
 
 
-<div class="discard-question">An opponent discarded # just now.</div> 
+<div class="discard-question">An opponent discarded <img class="singletile" src="/image/tiles/haku.png"> just now.</div> 
 
 </fieldset>
 
@@ -69,18 +76,26 @@ hand is still 2-away from ready with a couple of bad waits, as follows.
 
 <fieldset class="no-border">
 
+<img class="drawtile" src="/image/tiles/3-man.png">
 <img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="verticaldrawtile" src="/image/tiles/h-haku.png">
+<img class="drawtile" src="/image/tiles/haku.png">
+<img class="drawtile" src="/image/tiles/haku.png">
+
 
 
 <figure class="tile-with-caption">
-    <img src="/image/souzu/2-sou.png"
-         alt="FSopentile">
-    <figcaption>Draw</figcaption>
+    <img src="/image/tiles/1-man.png"
+         alt="drawtile">
+    <figcaption>Dora</figcaption>
 </figure>
 
 
@@ -91,33 +106,39 @@ What if an opponent calls riichi now? You will have nothing but simple
 tiles between 3 and 7 to discard. It is not worthwhile to discard
 such tiles against riichi when you have a cheap 2-away hand. When
 your hand is cheap and slow, you should worry more about keeping
-safe tiles such as # than about winning the hand.
+safe tiles such as  <img class="singletile" src="/image/tiles/haku.png">  than about winning the hand.
 
 
 <fieldset class="mahjong-group">
 <legend>Slow but expensive hand</legend>
 
+<img class="drawtile" src="/image/tiles/3-man.png">
 <img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/9-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/haku.png">
+<img class="drawtile" src="/image/tiles/haku.png">
 
 <figure class="tile-with-caption">
-    <img src="/image/souzu/2-sou.png"
-         alt="FSopentile">
-    <figcaption>Draw</figcaption>
+    <img src="/image/tiles/6-pin.png"
+         alt="drawtile">
+    <figcaption>Dora</figcaption>
 </figure>
 
 
-<div class="discard-question">An opponent discarded # just now.</div> 
+<div class="discard-question">An opponent discarded  <img class="singletile" src="/image/tiles/haku.png">  just now.</div> 
 
 </fieldset>
 
 
-This time, you can call pon on # then discard . This hand is still
+This time, you can call pon on  <img class="singletile" src="/image/tiles/haku.png">  then discard <img class="singletile" src="/image/tiles/9-pin.png">. This hand is still
 slow (after all, the hand shape is exactly the same as before), but it
 has a potential to be 7700 (White Dragon + sanshoku + two dora)
 even when you open it. When you see a high score potential, you can
@@ -129,26 +150,34 @@ meld even with a slow hand.
 
 <img class="drawtile" src="/image/tiles/5-man.png">
 <img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/9-pin.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/haku.png">
+<img class="drawtile" src="/image/tiles/haku.png">
 
 
 <figure class="tile-with-caption">
-    <img src="/image/souzu/2-sou.png"
-         alt="FSopentile">
-    <figcaption>Draw</figcaption>
+    <img src="/image/tiles/4-man.png"
+         alt="drawtile">
+    <figcaption>Dora</figcaption>
 </figure>
 
 
-<div class="discard-question">An opponent discarded # just now.</div> 
+<div class="discard-question">An opponent discarded <img class="singletile" src="/image/tiles/haku.png"> just now.</div> 
 
 </fieldset>
 
 
 
-Again, you can call pon on # then discard . This hand is cheap
+Again, you can call pon on <img class="singletile" src="/image/tiles/haku.png">  then discard 
+<img class="singletile" src="/image/tiles/9-pin.png">. This hand is cheap
 and it will be 2-away after the pon, but all the remaining blocks have
 a good wait. When you can expect to win a hand in no time, you can
 meld even with a cheap hand.
@@ -173,28 +202,36 @@ hand value drops from 7700 or above to 2000 or below.
 <fieldset class="mahjong-group">
 <legend>Cheap but fast hand</legend>
 
+<img class="drawtile" src="/image/tiles/4-man.png">
 <img class="drawtile" src="/image/tiles/5-man.png">
 <img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
 <img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+
 
 
 <figure class="tile-with-caption">
-    <img src="/image/souzu/2-sou.png"
-         alt="FSopentile">
-    <figcaption>Draw</figcaption>
+    <img src="/image/tiles/6-sou.png"
+         alt="drawtile">
+    <figcaption>Dora</figcaption>
 </figure>
 
 
-<div class="discard-question">The left player discarded  just now.</div> 
+<div class="discard-question">The left player discarded <img class="singletile" src="/image/tiles/3-sou.png"> just now.</div> 
 
 </fieldset>
 
 
 Do not meld with a hand like this, at least until the 13th turn or so
-(the third row in the discard). Although calling chii onwill make
+(the third row in the discard). Although calling chii on <img class="singletile" src="/image/tiles/3-sou.png"> will make
 the hand ready with a good wait, the hand value reduces to 1000. If
 you keep the hand closed and call riichi, the hand can potentially be a game-deciding hand with a realistic possibility of getting mangan
 or haneman.
@@ -205,31 +242,38 @@ or haneman.
 <fieldset class="mahjong-group">
 <legend>Fast and expensive hand</legend>
 
-<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/5r-man.png">
 <img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
 
 
 <figure class="tile-with-caption">
-    <img src="/image/souzu/2-sou.png"
-         alt="FSopentile">
-    <figcaption>Draw</figcaption>
+    <img src="/image/tiles/4-sou.png"
+         alt="drawtile">
+    <figcaption>Dora</figcaption>
 </figure>
 
 
-<div class="discard-question">The left player discarded  just now.</div> 
+<div class="discard-question">The left player discarded <img class="singletile" src="/image/tiles/7-pin.png"> just now.</div> 
 
 </fieldset>
 
 
-Calling chii on  will make the hand ready with a good wait and a
+Calling chii on <img class="singletile" src="/image/tiles/7-pin.png"> will make the hand ready with a good wait and a
 high score (7700). It is true that this hand can be even more expensive
 if you keep it closed. However, 7700 is already pretty expensive.
 An additional han does not improve the hand value as much beyond
-4 han. We should thus call chii on , especially after the 9th turn
+4 han. We should thus call chii on <img class="singletile" src="/image/tiles/7-pin.png">, especially after the 9th turn
 or so.
 
 <fieldset class="redline">
