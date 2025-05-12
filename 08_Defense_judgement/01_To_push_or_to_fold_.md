@@ -109,24 +109,25 @@ hand when another player calls riichi.
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
 <img class="drawtile" src="/image/tiles/6-man.png">
 <img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
 <img class="drawtile" src="/image/tiles/6-pin.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
 <img class="drawtile" src="/image/tiles/4-sou.png">
 <img class="drawtile" src="/image/tiles/5-sou.png">
-<img class="drawtile" src="/image/tiles/6-sou.png">
-<img class="drawtile" src="/image/tiles/7-sou.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
+<img class="drawtile" src="/image/tiles/pei.png">
 
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
+
+<figure class="tile-with-caption">
+    <img src="/image/tiles/hatsu.png"
+         alt="drawtile">
     <figcaption>Dora</figcaption>
 </figure>
 
@@ -137,9 +138,18 @@ decision to push or fold depends on the third condition. Notice that
 this is a perfect 1-away hand; no matter how this hand becomes ready,
 you can always choose to have a side wait. In other words, the best
 possible wait pattern you can choose when this hand becomes ready
-is always a good one. If you draw or pon on ȷ or  or chii -,
-you can have a side wait of -. If you draw or chii -, you
-can have a side wait of -. Therefore, you can push to the fullest
+is always a good one. If you draw or pon on <img class="singletile" src="/image/tiles/6-man.png"> or 
+<img class="singletile" src="/image/tiles/6-pin.png"> or chii 
+<img class="singletile" src="/image/tiles/5-pin.png"> - 
+<img class="singletile" src="/image/tiles/8-pin.png">,
+you can have a side wait of 
+<img class="singletile" src="/image/tiles/3-sou.png"> - 
+<img class="singletile" src="/image/tiles/9-sou.png">. If you draw or chii 
+<img class="singletile" src="/image/tiles/3-sou.png"> - 
+<img class="singletile" src="/image/tiles/9-sou.png">, you
+can have a side wait of 
+<img class="singletile" src="/image/tiles/5-pin.png"> - 
+<img class="singletile" src="/image/tiles/8-pin.png">. Therefore, you can push to the fullest
 (zentsu) with this hand.
 
 On the other hand, the following hand is also 1-away from ready
@@ -149,32 +159,36 @@ ready hand.
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/5r-pin.png">
 <img class="drawtile" src="/image/tiles/6-pin.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/8-pin.png">
+<img class="drawtile" src="/image/tiles/9-pin.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
 <img class="drawtile" src="/image/tiles/4-sou.png">
-<img class="drawtile" src="/image/tiles/5-sou.png">
 <img class="drawtile" src="/image/tiles/6-sou.png">
-<img class="drawtile" src="/image/tiles/7-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/pei.png">
 
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
+
+<figure class="tile-with-caption">
+    <img src="/image/tiles/3-sou.png"
+         alt="drawtile">
     <figcaption>Dora</figcaption>
 </figure>
 
 </fieldset>
 
-Speciﬁcally, it will be a side-wait ready hand only if you draw  ﬁrst.
-If you draw - ﬁrst (which will occur with a much higher probability
-than drawing  will), it will be a closed-wait hand. Therefore,
+Speciﬁcally, it will be a side-wait ready hand only if you draw <img class="singletile" src="/image/tiles/7-pin.png"> ﬁrst.
+If you draw 
+<img class="singletile" src="/image/tiles/2-man.png"> - 
+<img class="singletile" src="/image/tiles/5-man.png"> ﬁrst (which will occur with a much higher probability
+than drawing 
+<img class="singletile" src="/image/tiles/7-pin.png"> will), it will be a closed-wait hand. Therefore,
 the best possible wait pattern in the worst-case scenario is not a good
 one. Therefore, you should fold with this hand when you are forestalled
 by an opponent.

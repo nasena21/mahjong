@@ -11,7 +11,9 @@ hand. There are six suji: 1-4, 2-5, 3-6, 4-7, 5-8, and 6-9.
 See Section 8.2.2.
 - Suji tile is a tile that is made safe against side wait when a certain
 tile(s) is among an opponent’s genbutsu. For example, when
- is among genbutsu,  and  are safe against a side-wait
+<img class="singletile" src="/image/tiles/4-sou.png"> is among genbutsu, 
+<img class="singletile" src="/image/tiles/1-sou.png"> and 
+<img class="singletile" src="/image/tiles/7-sou.png"> are safe against a side-wait
 hand.
 - Suji trap is when the wait is a suji tile. When this happens, the
 wait is either dual pon wait, closed wait, edge wait, or single

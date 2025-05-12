@@ -49,28 +49,35 @@ safe. Consider the following riichi.
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/pei.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
+<img class="drawtile" src="/image/tiles/9-sou.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
 
 
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
+<figure class="tile-with-caption">
+    <img src="/image/tiles/h8-man.png"
+         alt="verticaldrawtile">
     <figcaption>riichi</figcaption>
 </figure>
 
 </fieldset>
 
-This opponent discarded  in the 2nd turn, which is relatively early.
-This suggests that he is not very likely to have - suji wait. If
-he had a tile block ‌, he would probably have kept it and discarded
+This opponent discarded <img class="singletile" src="/image/tiles/2-man.png"> in the 2nd turn, which is relatively early.
+This suggests that he is not very likely to have 
+<img class="singletile" src="/image/tiles/1-man.png"> - 
+<img class="singletile" src="/image/tiles/4-man.png"> suji wait. If
+he had a tile block‌ 
+<img class="singletile" src="/image/tiles/2-man.png">
+<img class="singletile" src="/image/tiles/2-man.png">
+<img class="singletile" src="/image/tiles/3-man.png">, he would probably have kept it and discarded
 something else. This line of argument is obviously not 100%
-reliable. However, if you compare  and  in the current example,
- is relatively safe.
+reliable. However, if you compare 
+<img class="singletile" src="/image/tiles/9-man.png"> and 
+<img class="singletile" src="/image/tiles/1-man.png"> in the current example,
+<img class="singletile" src="/image/tiles/1-man.png"> is relatively safe.
 
 ## Miscellaneous
 Here are some additional factors you may want to take into account
@@ -103,29 +110,29 @@ following discard.
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/pei.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
+<img class="drawtile" src="/image/tiles/9-man.png">
 
 
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
+<figure class="tile-with-caption">
+    <img src="/image/tiles/h2-sou.png"
+         alt="verticaldrawtile">
     <figcaption>riichi</figcaption>
 </figure>
 
 </fieldset>
 
-So far, only 2 out of 18 suji have been denied by the discards (ȷ
-and -), leaving 16 suji alive. Suppose you are considering
-whether to discard . Assuming that the riichi’ed player has a sidewait
+So far, only 2 out of 18 suji have been denied by the discards (<img class="singletile" src="/image/tiles/6-man.png"> - 
+<img class="singletile" src="/image/tiles/9-man.png">
+and 
+<img class="singletile" src="/image/tiles/2-sou.png"> - 
+<img class="singletile" src="/image/tiles/5-sou.png"> ), leaving 16 suji alive. Suppose you are considering
+whether to discard 
+<img class="singletile" src="/image/tiles/1-pin.png">. Assuming that the riichi’ed player has a sidewait
 hand, the conditional probability of dealing into his hand with
- is only
-1
-16
+<img class="singletile" src="/image/tiles/1-pin.png">  is only
+1/16
 at this point.
 4
 
@@ -136,42 +143,42 @@ discard is as follows.
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/pei.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
+<img class="drawtile" src="/image/tiles/9-man.png">
+<img class="verticaldrawtile" src="/image/tiles/h2-sou.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
 
 </fieldset>
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+
 
 
 </fieldset>
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
 <img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
 
 
 </fieldset>
 
 Since as many as 16 suji waits have already been denied, there are
-only 2 suji waits that are “alive” (- and -). Then, the conditional
-probability of dealing into his hand with given that he has
+only 2 suji waits that are “alive” (<img class="singletile" src="/image/tiles/1-pin.png">-
+<img class="singletile" src="/image/tiles/4-pin.png"> and 
+<img class="singletile" src="/image/tiles/5-sou.png">-
+<img class="singletile" src="/image/tiles/8-sou.png">). Then, the conditional
+probability of dealing into his hand with <img class="singletile" src="/image/tiles/1-pin.png"> given that he has
 a side-wait hand is now as high as 50%. This gives us an additional
 reason to be more defensive towards the end of a hand.
 

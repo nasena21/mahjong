@@ -42,19 +42,19 @@ following open hand in East-1.
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-
-
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
-    <figcaption>riichi</figcaption>
-</figure>
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="verticaldrawtile" src="/image/tiles/h-ton.png">
+<img class="drawtile" src="/image/tiles/ton.png">
+<img class="drawtile" src="/image/tiles/ton.png">
+<img class="verticaldrawtile" src="/image/tiles/h6-sou.png">
+<img class="drawtile" src="/image/tiles/5r-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
 
 </fieldset>
 
@@ -67,19 +67,19 @@ Flush hands (honitsu or chinitsu) tend to get expensive as well.
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-
-
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
-    <figcaption>riichi</figcaption>
-</figure>
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="verticaldrawtile" src="/image/tiles/h1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="verticaldrawtile" src="/image/tiles/h4-sou.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/5r-sou.png">
+<img class="verticaldrawtile" src="/image/tiles/h6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+<img class="drawtile" src="/image/tiles/8-sou.png">
 
 </fieldset>
 
@@ -92,18 +92,25 @@ Value tiles
 Open sets of value tiles also make for an expensive hand.
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="verticaldrawtile" src="/image/tiles/h-haku.png">
+<img class="drawtile" src="/image/tiles/haku.png">
+<img class="drawtile" src="/image/tiles/haku.png">
+<img class="drawtile" src="/image/tiles/9-man.png">
+<img class="verticaldrawtile" src="/image/tiles/h9-man.png">
+<img class="drawtile" src="/image/tiles/9-man.png">
+<img class="drawtile" src="/image/tiles/ton.png">
+<img class="drawtile" src="/image/tiles/ton.png">
+<img class="verticaldrawtile" src="/image/tiles/h-ton.png">
 
 
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
-    <figcaption>riichi</figcaption>
+<figure class="tile-with-caption">
+    <img src="/image/tiles/1-sou.png"
+         alt="drawtile">
+    <figcaption>Dora</figcaption>
 </figure>
 
 </fieldset>
@@ -119,18 +126,25 @@ doing the following.
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="verticaldrawtile" src="/image/tiles/h7-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/8-sou.png">
+<img class="verticaldrawtile" src="/image/tiles/h7-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
 
 
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
-    <figcaption>riichi</figcaption>
+<figure class="tile-with-caption">
+    <img src="/image/tiles/1-sou.png"
+         alt="drawtile">
+    <figcaption>Dora</figcaption>
 </figure>
 
 </fieldset>
@@ -142,18 +156,25 @@ hand is inexpensive. It is true that the following is still a possibility.
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/haku.png">
+<img class="drawtile" src="/image/tiles/haku.png">
+<img class="drawtile" src="/image/tiles/haku.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/h7-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/8-sou.png">
+<img class="verticaldrawtile" src="/image/tiles/h5-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
 
 
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
-    <figcaption>riichi</figcaption>
+<figure class="tile-with-caption">
+    <img src="/image/tiles/1-sou.png"
+         alt="drawtile">
+    <figcaption>Dora</figcaption>
 </figure>
 
 </fieldset>
@@ -173,19 +194,18 @@ For example, consider the following.
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-
-
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
-    <figcaption>riichi</figcaption>
-</figure>
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="verticaldrawtile" src="/image/tiles/h-hatsu.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
+<img class="drawtile" src="/image/tiles/9-man.png">
+<img class="drawtile" src="/image/tiles/9-man.png">
+<img class="verticaldrawtile" src="/image/tiles/h9-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="verticaldrawtile" src="/image/tiles/h3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
 
 </fieldset>
 
@@ -202,18 +222,26 @@ For another example, consider the following.
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/9-man.png">
+<img class="drawtile" src="/image/tiles/9-man.png">
+<img class="verticaldrawtile" src="/image/tiles/h9-man.png">
+<img class="verticaldrawtile" src="/image/tiles/h6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+<img class="drawtile" src="/image/tiles/8-sou.png">
 
 
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
-    <figcaption>riichi</figcaption>
+
+<figure class="tile-with-caption">
+    <img src="/image/tiles/6-pin.png"
+         alt="drawtile">
+    <figcaption>Dora</figcaption>
 </figure>
 
 </fieldset>
@@ -224,18 +252,26 @@ other, as follows.
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
+<img class="drawtile" src="/image/tiles/9-man.png">
+<img class="drawtile" src="/image/tiles/9-man.png">
+<img class="verticaldrawtile" src="/image/tiles/h9-man.png">
+<img class="verticaldrawtile" src="/image/tiles/h6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+<img class="drawtile" src="/image/tiles/8-sou.png">
 
 
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
-    <figcaption>riichi</figcaption>
+
+<figure class="tile-with-caption">
+    <img src="/image/tiles/6-pin.png"
+         alt="drawtile">
+    <figcaption>Dora</figcaption>
 </figure>
 
 </fieldset>
@@ -250,101 +286,112 @@ dangerous against an open hand by paying attention to what
 an opponent discarded upon calling the last chii or pon. Consider
 the following three cases.
 
-Case 1 chii
-!
-discard a tile in the same suit
+Case 1 chii -> discard a tile in the same suit
 
-An opponent who had an open set of $ called chii on 
- and
-discarded .
+An opponent who had an open set of <img class="singletile" src="/image/tiles/hatsu.png"> called chii on 
+<img class="singletile" src="/image/tiles/3-pin.png"> and
+discarded 
+<img class="singletile" src="/image/tiles/4-pin.png">.
 
 <fieldset class="mahjong-group">
 
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="verticaldrawtile" src="/image/tiles/h3-pin.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="verticaldrawtile" src="/image/tiles/h-hatsu.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
 
 
-<figure class="tile-with-caption">
-    <img src="/image/souzu/2-sou.png"
-         alt="FSopentile">
-    <figcaption>Draw</figcaption>
-</figure>
 
-
-<div class="discarded">and discarded <img class="drawtile" src="/image/tiles/1-pin.png"></div> 
+<div class="discarded">and discarded <img class="drawtile" src="/image/tiles/4-pin.png"></div> 
 
 </fieldset>
 
 In this case, it is unlikely that this opponent has a wait in the neighborhood
-of , so pinzu (dots) tiles such as 
- are relatively
+of <img class="singletile" src="/image/tiles/4-pin.png">, so pinzu (dots) tiles such as 
+<img class="singletile" src="/image/tiles/2-pin.png">
+<img class="singletile" src="/image/tiles/3-pin.png">
+<img class="singletile" src="/image/tiles/5-pin.png">
+<img class="singletile" src="/image/tiles/6-pin.png">
+<img class="singletile" src="/image/tiles/7-pin.png"> are relatively
 safe.
 
-Case 2 chii
-!
-discard a tile in a diﬀerent suit
+Case 2 chii -> discard a tile in a diﬀerent suit
 
-An opponent who had an open set of $ called chii on 
+An opponent who had an open set of <img class="singletile" src="/image/tiles/hatsu.png"> called chii on 
+<img class="singletile" src="/image/tiles/3-pin.png">
  and
-discarded .
+discarded 
+<img class="singletile" src="/image/tiles/4-sou.png">.
 
 <fieldset class="mahjong-group">
 
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="verticaldrawtile" src="/image/tiles/h3-pin.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="verticaldrawtile" src="/image/tiles/h-hatsu.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
 
 
-<figure class="tile-with-caption">
-    <img src="/image/souzu/2-sou.png"
-         alt="FSopentile">
-    <figcaption>Draw</figcaption>
-</figure>
 
-
-<div class="discarded">and discarded <img class="drawtile" src="/image/tiles/1-pin.png"></div> 
+<div class="discarded">and discarded <img class="drawtile" src="/image/tiles/4-sou.png"></div> 
 
 </fieldset>
 
 In this case, this opponent’s wait is very likely to be in the neighborhood
-of the the last discard, . In particular, - suji and
-- suji are extremely dangerous, and a closed wait of  is also
+of the the last discard, <img class="singletile" src="/image/tiles/4-sou.png">. In particular, 
+<img class="singletile" src="/image/tiles/2-sou.png">-
+<img class="singletile" src="/image/tiles/5-sou.png"> suji and
+<img class="singletile" src="/image/tiles/3-sou.png">-
+<img class="singletile" src="/image/tiles/6-sou.png"> suji are extremely dangerous, and a closed wait of 
+<img class="singletile" src="/image/tiles/7-sou.png"> is also
 a possibility.
 
 Case 3 pon
 
-An opponent who had an open set of $ called pon on 
- and
-discarded .
+An opponent who had an open set of <img class="singletile" src="/image/tiles/hatsu.png"> called pon on 
+<img class="singletile" src="/image/tiles/3-pin.png"> and
+discarded 
+<img class="singletile" src="/image/tiles/4-sou.png">.
 
 <fieldset class="mahjong-group">
 
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="verticaldrawtile" src="/image/tiles/h3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="verticaldrawtile" src="/image/tiles/h-hatsu.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
 
 
-<figure class="tile-with-caption">
-    <img src="/image/souzu/2-sou.png"
-         alt="FSopentile">
-    <figcaption>Draw</figcaption>
-</figure>
-
-
-<div class="discarded">and discarded <img class="drawtile" src="/image/tiles/1-pin.png"></div> 
+<div class="discarded">and discarded <img class="drawtile" src="/image/tiles/4-sou.png"></div> 
 
 </fieldset>
 In this case, this opponent’s wait can be in any suit; we cannot identify
@@ -356,80 +403,106 @@ the last chii or pon. In Case 1, the opponent has the following perfect
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/1-man.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
 <img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-
-
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
-    <figcaption>riichi</figcaption>
-</figure>
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="verticaldrawtile" src="/image/tiles/h-hatsu.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
 
 </fieldset>
 
-Then, after calling chii on 
- the opponent discards , making the
-neighborhood of  relatively safe.
+Then, after calling chii on <img class="singletile" src="/image/tiles/3-pin.png">
+ the opponent discards 
+<img class="singletile" src="/image/tiles/4-pin.png">, making the
+neighborhood of 
+<img class="singletile" src="/image/tiles/4-pin.png"> relatively safe.
 
 On the other hand, in Case 2, the opponent has the following
 perfect 1-away hand before the last chii.
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/1-man.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
 <img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-
-
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
-    <figcaption>riichi</figcaption>
-</figure>
+<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="verticaldrawtile" src="/image/tiles/h-hatsu.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
 
 </fieldset>
 
-Then, after calling chii on 
- the opponent discards , making the
-neighborhood of  dangerous. In this particular case, the resulting
-wait is - suji. If the  block were  instead, the
-resulting wait is - suji. If the  block were , the
-resulting wait is .
+Then, after calling chii on <img class="singletile" src="/image/tiles/3-pin.png">
+ the opponent discards 
+<img class="singletile" src="/image/tiles/4-sou.png">, making the
+neighborhood of 
+<img class="singletile" src="/image/tiles/4-sou.png"> dangerous. In this particular case, the resulting
+wait is 
+<img class="singletile" src="/image/tiles/2-sou.png">-
+<img class="singletile" src="/image/tiles/5-sou.png"> suji. If the 
+<img class="singletile" src="/image/tiles/3-sou.png">
+<img class="singletile" src="/image/tiles/4-sou.png">
+<img class="singletile" src="/image/tiles/4-sou.png"> block were 
+<img class="singletile" src="/image/tiles/4-sou.png">
+<img class="singletile" src="/image/tiles/4-sou.png">
+<img class="singletile" src="/image/tiles/5-sou.png"> instead, the
+resulting wait is 
+<img class="singletile" src="/image/tiles/3-sou.png">-
+<img class="singletile" src="/image/tiles/6-sou.png"> suji. If the 
+<img class="singletile" src="/image/tiles/3-sou.png">
+<img class="singletile" src="/image/tiles/4-sou.png">
+<img class="singletile" src="/image/tiles/4-sou.png"> block were 
+<img class="singletile" src="/image/tiles/4-sou.png">
+<img class="singletile" src="/image/tiles/6-sou.png">
+<img class="singletile" src="/image/tiles/8-sou.png">, the
+resulting wait is 
+<img class="singletile" src="/image/tiles/7-sou.png">.
 
 Finally, in Case 3, the opponent has the following perfect 1-away
 hand before the last pon.
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/1-man.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
 <img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="verticaldrawtile" src="/image/tiles/h-hatsu.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
 
-
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
-    <figcaption>riichi</figcaption>
-</figure>
 
 </fieldset>
 Then, after calling pon on 
- the opponent discards , making the
-wait unrelated to . Notice that, if the opponent calls chii on ȷ
-with this hand and discards , the neighborhood of the last discard
+ the opponent discards <img class="singletile" src="/image/tiles/3-sou.png">, making the
+wait unrelated to <img class="singletile" src="/image/tiles/4-sou.png">
+. Notice that, if the opponent calls chii on <img class="singletile" src="/image/tiles/6-man.png">
+with this hand and discards <img class="singletile" src="/image/tiles/3-sou.png">
+, the neighborhood of the last discard 
 becomes dangerous (just like Case 2). Similarly, if the opponent calls
-chii on  with this hand and discards , the neighborhood of the
+chii on 
+<img class="singletile" src="/image/tiles/2-sou.png"> with this hand and discards 
+<img class="singletile" src="/image/tiles/3-sou.png"> , the neighborhood of the
 last discard becomes safe (just like Case 1).
 
 

@@ -35,17 +35,23 @@ Until their temporary furiten status is lifted, the right and the facing
 players cannot call ron on it.
 
 The second kind of absolutely safe tile is relatively simple. Sup-
-pose all four of  are visible to you (among the discards, in your
+pose all four of <img class="singletile" src="/image/tiles/9-pin.png"> are visible to you (among the discards, in your
 hand, or as a dora indicator). Then, none of your opponents can win
-Thirteen Orphans unless you discard . In such situations, a fourth
-honor tile is 100% safe. That is, ﬄ is 100% safe for everyone if all the
-other three tiles of ﬄ are visible to you.
+Thirteen Orphans unless you discard 
+<img class="singletile" src="/image/tiles/9-pin.png">. In such situations, a fourth honor tile is 100% safe. That is, 
+<img class="singletile" src="/image/tiles/ton.png"> is 100% safe for everyone if all the
+other three tiles of 
+<img class="singletile" src="/image/tiles/ton.png"> are visible to you.
 
 The third kind, absolute “no chance”, needs some explanation.
-Let me just give you an example here. Suppose all four tiles of , all
-four tiles of , and all three tiles of 
+Let me just give you an example here. Suppose all four tiles of 
+<img class="singletile" src="/image/tiles/2-pin.png">, all
+four tiles of 
+<img class="singletile" src="/image/tiles/4-pin.png">, and all three tiles of 
+<img class="singletile" src="/image/tiles/3-pin.png">
  are visible to you. Then, the
 fourth 
+<img class="singletile" src="/image/tiles/3-pin.png">
  is 100% safe for everyone because this tile cannot be a part
 of any set, run, or pair. I will explain more about “no chance” tiles in
 Section 8.2.2 of this chapter.
@@ -72,8 +78,15 @@ eﬃciency.
 Suji defense is a defense tactic to avoid dealing into a side-wait
 hand. A suji is a three-tile interval that corresponds to the wait of a
 side-wait hand. For example, when a hand has a side-wait protorun
-‌, the wait is  or . This wait combination of  and  is
-called - suji. There are 6 suji in each suit, giving rise to 18 suji
+<img class="singletile" src="/image/tiles/2-man.png">
+<img class="singletile" src="/image/tiles/3-man.png">‌, the wait is 
+<img class="singletile" src="/image/tiles/1-man.png"> or 
+<img class="singletile" src="/image/tiles/4-man.png">. This wait combination of 
+<img class="singletile" src="/image/tiles/1-man.png"> and 
+<img class="singletile" src="/image/tiles/4-man.png"> is
+called 
+<img class="singletile" src="/image/tiles/1-man.png"> - 
+<img class="singletile" src="/image/tiles/4-man.png"> suji. There are 6 suji in each suit, giving rise to 18 suji
 in total. All the six suji and their corresponding side-wait protoruns
 are summarized in Table 8.1.
 
@@ -96,19 +109,42 @@ Table 8.2: suji tiles
 | <img class="singletile" src="/image/tiles/2-man.png"> and <img class="singletile" src="/image/tiles/8-man.png"> discarded | <img class="singletile" src="/image/tiles/5-man.png"> become safer                                                           |
 | <img class="singletile" src="/image/tiles/3-man.png"> and <img class="singletile" src="/image/tiles/9-man.png"> discarded | <img class="singletile" src="/image/tiles/6-man.png"> become safer                                                           |
 
-When is among a player’s genbutsu, we say and ﬀare suji
+When <img class="singletile" src="/image/tiles/4-man.png"> is among a player’s genbutsu, we say 
+<img class="singletile" src="/image/tiles/1-man.png"> and 
+<img class="singletile" src="/image/tiles/7-man.png"> are suji
 tiles. Suji tiles are safer than non-suji tiles because the furiten rule
-prohibits a player from calling ron on  when  is his genbutsu and
-his wait is -. Likewise, when  is among a player’s genbutsu,
- and  are suji tiles and thus they are safer than non-suji tiles;
-when ȷ is among a player’s genbutsu, ‌ and  are suji tiles and
+prohibits a player from calling ron on <img class="singletile" src="/image/tiles/1-man.png"> when 
+<img class="singletile" src="/image/tiles/4-man.png"> is his genbutsu and
+his wait is 
+<img class="singletile" src="/image/tiles/1-man.png"> - 
+<img class="singletile" src="/image/tiles/4-man.png">. Likewise, when 
+<img class="singletile" src="/image/tiles/5-man.png"> is among a player’s genbutsu,
+<img class="singletile" src="/image/tiles/2-man.png"> and 
+<img class="singletile" src="/image/tiles/8-man.png"> are suji tiles and thus they are safer than non-suji tiles;
+when 
+<img class="singletile" src="/image/tiles/6-man.png"> is among a player’s genbutsu, ‌
+<img class="singletile" src="/image/tiles/3-man.png"> and 
+<img class="singletile" src="/image/tiles/9-man.png"> are suji tiles and
 thus they are safer than non-suji tiles.
 
-Although  makes  a suji tile, the opposite is not true;  in
-itself does not make  a suji tile.  is no safer than other tiles just
-because  is among genbutsu. What  negates is the possibility
-of the - side wait, but the -ﬀ side wait is still a possibility.
- becomes safer only when both  and ﬀ are among a player’s
+Although 
+<img class="singletile" src="/image/tiles/4-man.png"> makes 
+<img class="singletile" src="/image/tiles/1-man.png"> a suji tile, the opposite is not true; 
+<img class="singletile" src="/image/tiles/1-man.png"> in
+itself does not make 
+<img class="singletile" src="/image/tiles/4-man.png"> a suji tile. 
+<img class="singletile" src="/image/tiles/4-man.png"> is no safer than other tiles just
+because 
+<img class="singletile" src="/image/tiles/1-man.png"> is among genbutsu. What 
+<img class="singletile" src="/image/tiles/1-man.png"> negates is the possibility
+of the 
+<img class="singletile" src="/image/tiles/1-man.png"> - 
+<img class="singletile" src="/image/tiles/4-man.png"> side wait, but the 
+<img class="singletile" src="/image/tiles/4-man.png"> - 
+<img class="singletile" src="/image/tiles/7-man.png"> side wait is still a possibility.
+<img class="singletile" src="/image/tiles/4-man.png"> becomes safer only when both 
+<img class="singletile" src="/image/tiles/1-man.png"> and 
+<img class="singletile" src="/image/tiles/7-man.png"> are among a player’s
 genbutsu. Table 8.2 summarizes combinations of genbutsu tiles and
 tiles that are made safer by them.
 
@@ -127,31 +163,33 @@ in riichi mahjong primarily because of double closed shape (e.g., 135,
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
 <img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/9-man.png">
+<img class="drawtile" src="/image/tiles/9-man.png">
+<img class="drawtile" src="/image/tiles/9-man.png">
 <img class="drawtile" src="/image/tiles/6-pin.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
 <img class="drawtile" src="/image/tiles/4-sou.png">
 <img class="drawtile" src="/image/tiles/5-sou.png">
-<img class="drawtile" src="/image/tiles/6-sou.png">
-<img class="drawtile" src="/image/tiles/7-sou.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
 
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
+<figure class="tile-with-caption">
+    <img src="/image/tiles/3-sou.png"
+         alt="drawtile">
     <figcaption>Dora</figcaption>
 </figure>
 
 </fieldset>
 
-If you call riichi by discarding the ȷ, the hand waits for ‌, which
-is a suji tile of ȷ (immediate suji-trap riichi).
+If you call riichi by discarding the <img class="singletile" src="/image/tiles/6-man.png">, the hand waits for ‌
+<img class="singletile" src="/image/tiles/3-man.png">, which
+is a suji tile of 
+<img class="singletile" src="/image/tiles/6-man.png"> (immediate suji-trap riichi).
 
 In general, the reliability of suji is higher for tiles discarded ear-
 lier in a hand. That is, suji tiles of early discards tend to be safer,
@@ -167,84 +205,128 @@ the following discards.
 <fieldset class="no-border">
 
 
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/4-sou.png">
-<img class="drawtile" src="/image/tiles/5-sou.png">
-<img class="drawtile" src="/image/tiles/6-sou.png">
-<img class="drawtile" src="/image/tiles/7-sou.png">
+<img class="drawtile" src="/image/tiles/pei.png">
+<img class="drawtile" src="/image/tiles/hatsu.png">
+<img class="drawtile" src="/image/tiles/9-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
 
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
+
+<figure class="tile-with-caption">
+    <img src="/image/tiles/h5-sou.png"
+         alt="verticaldrawtile">
     <figcaption>riichi</figcaption>
 </figure>
 
 </fieldset>
 There are three tiles in the discard that create suji tiles.
--  makes  and ﬀ suji tiles.
 
--  makes 
- and  suji tiles.
--  makes  and  suji tiles.
+- <img class="singletile" src="/image/tiles/4-man.png"> makes 
+<img class="singletile" src="/image/tiles/1-man.png"> and 
+<img class="singletile" src="/image/tiles/7-man.png">suji tiles.
 
-Note that and do not create any suji tiles on their own. Among
-these three tiles , suji tiles of  are relatively safe, whereas
-suji tiles of  are rather dangerous. The reason why suji tiles of
- are dangerous is that players tend to keep double closed shape
-such as 	 or  until the hand becomes ready. Consider
+
+- <img class="singletile" src="/image/tiles/6-pin.png"> makes 
+<img class="singletile" src="/image/tiles/3-pin.png"> and 
+<img class="singletile" src="/image/tiles/9-pin.png"> suji tiles.
+
+- <img class="singletile" src="/image/tiles/5-sou.png"> makes 
+<img class="singletile" src="/image/tiles/2-sou.png"> and 
+<img class="singletile" src="/image/tiles/8-sou.png"> suji tiles.
+
+
+Note that 
+<img class="singletile" src="/image/tiles/9-man.png"> and 
+<img class="singletile" src="/image/tiles/2-pin.png"> do not create any suji tiles on their own. Among
+these three tiles 
+<img class="singletile" src="/image/tiles/4-man.png">
+<img class="singletile" src="/image/tiles/6-pin.png">
+<img class="singletile" src="/image/tiles/5-sou.png">, suji tiles of 
+<img class="singletile" src="/image/tiles/4-man.png"> are relatively safe, whereas
+suji tiles of 
+<img class="singletile" src="/image/tiles/5-sou.png"> are rather dangerous. The reason why suji tiles of
+<img class="singletile" src="/image/tiles/5-sou.png"> are dangerous is that players tend to keep double closed shape
+such as 
+<img class="singletile" src="/image/tiles/5-sou.png">
+<img class="singletile" src="/image/tiles/7-sou.png">
+<img class="singletile" src="/image/tiles/9-sou.png">	 or 
+<img class="singletile" src="/image/tiles/1-sou.png">
+<img class="singletile" src="/image/tiles/3-sou.png">
+<img class="singletile" src="/image/tiles/5-sou.png"> until the hand becomes ready. Consider
 the following 1-away hand.
 
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/1-man.png">
+<img class="drawtile" src="/image/tiles/1-man.png">
+<img class="drawtile" src="/image/tiles/1-man.png">
 <img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
 <img class="drawtile" src="/image/tiles/8-man.png">
 <img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/5r-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
 <img class="drawtile" src="/image/tiles/6-pin.png">
 <img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
 <img class="drawtile" src="/image/tiles/5-sou.png">
-<img class="drawtile" src="/image/tiles/6-sou.png">
-<img class="drawtile" src="/image/tiles/7-sou.png">
 
 
 </fieldset>
-We would discard  rather than . Then, if we draw - ﬁrst,
-we do insta-riichi by discarding , creating an immediate suji-trap
+
+We would discard <img class="singletile" src="/image/tiles/6-pin.png"> rather than 
+<img class="singletile" src="/image/tiles/5-sou.png">. Then, if we draw 
+<img class="singletile" src="/image/tiles/4-pin.png"> - 
+<img class="singletile" src="/image/tiles/7-pin.png"> ﬁrst,
+we do insta-riichi by discarding 
+<img class="singletile" src="/image/tiles/5-sou.png">, creating an immediate suji-trap
 wait.
 
 3. Understanding tile blockade (kabe)
 Another defense tactic to identify safer tiles is to utilize a tile
 blockade (kabe; wall). When chunks of a number tile are visible
 to you, we say these tiles form a blockade; they block a formation of
-runs that contain that tile. Suppose all four of  are visible to you,
+runs that contain that tile. Suppose all four of <img class="singletile" src="/image/tiles/2-man.png"> are visible to you,
 either because they have been discarded, they are in your hand, or
 they are used as a dora indicator. Then, none of your opponents can
-have - suji wait, making  relatively safe. This is because no
-one can have a protorun ‌ in such a situation.
+have 
+<img class="singletile" src="/image/tiles/1-man.png"> - 
+<img class="singletile" src="/image/tiles/4-man.png"> suji wait, making 
+<img class="singletile" src="/image/tiles/1-man.png"> relatively safe. This is because no
+one can have a protorun 
+<img class="singletile" src="/image/tiles/2-man.png">
+<img class="singletile" src="/image/tiles/3-man.png">s‌ in such a situation.
 
 No chance
 
 When all four of a number tile are visible, we say we have a “no
 chance” situation, meaning that there is no chance that an opponent
 has a suji wait that contains the tile that forms a blockade. In the
-example above,  is a no-chance tile thanks to a blockade of .
+example above, <img class="singletile" src="/image/tiles/1-man.png"> is a no-chance tile thanks to a blockade of 
+<img class="singletile" src="/image/tiles/2-man.png">.
 
 No-chance tiles are safer than a non-suji tile, but keep in mind
 that dual pon wait and single wait of a no-chance tile is still possible.
 A nice thing about no-chance tiles is that their safety does not depend
 on whether it is a suji tile or not. For example, when we have a blockade
-of ,  is safe regardless of whether  is among genbutsu.
-Note also that  is not necessarily safe just because we have a blockade
-of , for -ﬀ suji wait is still a possibility. Of course, when
-all four of  are visible to you and ﬀ is among a player’s genbutsu,
-then  becomes safer for that player.
+of 
+<img class="singletile" src="/image/tiles/2-man.png">, 
+<img class="singletile" src="/image/tiles/1-man.png"> is safe regardless of whether 
+<img class="singletile" src="/image/tiles/4-man.png"> is among genbutsu.
+Note also that 
+<img class="singletile" src="/image/tiles/4-man.png"> is not necessarily safe just because we have a blockade
+of 
+<img class="singletile" src="/image/tiles/2-man.png">, for 
+<img class="singletile" src="/image/tiles/4-man.png"> - 
+<img class="singletile" src="/image/tiles/7-man.png"> suji wait is still a possibility. Of course, when
+all four of 
+<img class="singletile" src="/image/tiles/2-man.png"> are visible to you and 
+<img class="singletile" src="/image/tiles/7-man.png"> is among a player’s genbutsu,
+then 
+<img class="singletile" src="/image/tiles/4-man.png"> becomes safer for that player.
 
 
 Blockade Safe tiles
@@ -276,23 +358,33 @@ Similarly, a blockade of 5 makes only 3 and
 7 safer, negating 3-6 and 4-7 suji waits.
 
 A blockade can negate non-suji waits as well. For example, if all
-four of ‌ and all four of  are both visible, then a closed wait of 
+four of  <img class="singletile" src="/image/tiles/3-man.png">‌ and all four of <img class="singletile" src="/image/tiles/5-man.png">  are both visible, then a closed wait of 
+<img class="singletile" src="/image/tiles/4-man.png">
 is impossible. An opponent has to have a dual pon wait or a single
-wait if he is to win on . If, additionally, all three of  are visible
-to you as well, then the fourth  is 100% safe. Waiting for  in this
+wait if he is to win on 
+<img class="singletile" src="/image/tiles/4-man.png">. If, additionally, all three of 
+<img class="singletile" src="/image/tiles/4-man.png"> are visible
+to you as well, then the fourth 
+<img class="singletile" src="/image/tiles/4-man.png"> is 100% safe. Waiting for 
+<img class="singletile" src="/image/tiles/4-man.png"> in this
 situation is simply impossible.
 
 A blockade can also negate certain yaku, which decreases the
 chance that an opponent has an expensive hand. For example, when
-all four of ‌ are visible to you, then an opponent cannot have ittsu
+all four of  <img class="singletile" src="/image/tiles/3-man.png">‌ are visible to you, then an opponent cannot have ittsu
 (Pure Straight) in manzu (cracks). This information can help us decide
-whether to discard a non-suji  or a non-suji . The chance
+whether to discard a non-suji 
+<img class="singletile" src="/image/tiles/8-man.png"> or a non-suji 
+<img class="singletile" src="/image/tiles/8-sou.png">. The chance
 of dealing into an opponent’s hand is equal, but the chance of dealing
-into an expensive hand is lower with . A blockade of ‌ also
-negates sanshoku of 123, 234, or 345. This information can help us decide
-whether to discard a non-suji  or a non-suji . Again, the
+into an expensive hand is lower with 
+<img class="singletile" src="/image/tiles/8-man.png">. A blockade of  <img class="singletile" src="/image/tiles/3-man.png">‌ also negates sanshoku of 123, 234, or 345. This information can help us decide
+whether to discard a non-suji 
+<img class="singletile" src="/image/tiles/2-sou.png"> or a non-suji 
+<img class="singletile" src="/image/tiles/8-sou.png">. Again, the
 chance of dealing into an opponent’s hand is equal, but the chance
-of dealing into an expensive hand is lower with .
+of dealing into an expensive hand is lower with 
+<img class="singletile" src="/image/tiles/2-sou.png">.
 
 One chance
 
@@ -304,11 +396,11 @@ pends on two things.
 
 First, relying on an incomplete blockade is eﬀective in earlier turns
 but not as much in later turns. Suppose that an opponent calls riichi,
-and  is among his discards. Then, because other players are likely
-to discard  if they have one, this tile may become an incomplete
+and <img class="singletile" src="/image/tiles/2-man.png"> is among his discards. Then, because other players are likely
+to discard <img class="singletile" src="/image/tiles/2-man.png"> if they have one, this tile may become an incomplete
 blockade later on. However, an incomplete blockade formed this way
 is not very reliable. When all three players have apparently folded
-and the fourth  is still invisible to you, then it is highly likely that
+and the fourth <img class="singletile" src="/image/tiles/2-man.png"> is still invisible to you, then it is highly likely that
 the riichi’ed player has it. One-chance tiles would become almost as
 dangerous as non-suji tiles in later turns in situations like this.
 
@@ -321,8 +413,13 @@ one-chance tile and appears safe.
 
 When we have two incomplete blockade of consecutive number
 tiles, we say they form a “double one chance” situation. For example,
-if three of  and three of ‌ are both visible, an opponent has to
-have the fourth  and the fourth ‌ to have - suji wait, which
+if three of <img class="singletile" src="/image/tiles/2-man.png">
+ and three of  <img class="singletile" src="/image/tiles/3-man.png">
+‌ are both visible, an opponent has to
+have the fourth <img class="singletile" src="/image/tiles/2-man.png">
+ and the fourth  <img class="singletile" src="/image/tiles/3-man.png">‌ to have 
+<img class="singletile" src="/image/tiles/1-man.png"> - 
+<img class="singletile" src="/image/tiles/4-man.png"> suji wait, which
 is highly unlikely. Therefore, double-one-chance tiles are safer than
 single one-chance tiles.
 
@@ -341,9 +438,15 @@ Non-suji
 
 Combining blockade and suji
 
-When we have a blockade ofand ﬀis among a player’s genbutsu,
-we can deny not only - suji wait but also -ﬀ suji wait,
-making  safe. Combining the blockade and suji theories like this
+When we have a blockade of <img class="singletile" src="/image/tiles/2-man.png"> and 
+<img class="singletile" src="/image/tiles/7-man.png"> is among a player’s genbutsu,
+we can deny not only 
+<img class="singletile" src="/image/tiles/1-man.png"> - 
+<img class="singletile" src="/image/tiles/4-man.png"> suji wait but also 
+<img class="singletile" src="/image/tiles/4-man.png"> - 
+<img class="singletile" src="/image/tiles/7-man.png"> suji wait,
+making 
+<img class="singletile" src="/image/tiles/4-man.png">  safe. Combining the blockade and suji theories like this
 might seem a bit complicated at ﬁrst, but you will get used to it as
 you play more games.
 
