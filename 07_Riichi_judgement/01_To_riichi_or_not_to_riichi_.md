@@ -49,8 +49,11 @@ dora.
 - The opponents may completely fold or play more defensively
 than otherwise. As a result, the opponents may fail
 to make their hand ready, in which case:
-– you will have more opportunities to draw tiles;
-– you are less likely to deal into the opponents.
+
+  – you will have more opportunities to draw tiles;
+  
+  – you are less likely to deal into the opponents.
+
 - When your previous discards make it look that your winning
 tile is safe, riichi may actually increase the chance that
 the opponents discard your winning tile.

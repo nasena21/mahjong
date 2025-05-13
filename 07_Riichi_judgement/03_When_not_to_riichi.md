@@ -45,6 +45,8 @@ the board; and
 3. whether your wait is likely to appear safe in the eyes of your
 opponents.
 
+---
+
 1. The number of winning tiles left
 
 The ﬁrst factor to consider is the pure number of winning tiles
@@ -74,8 +76,11 @@ be bad waits.
 In counting the kinds and the number of winning tiles for your
 hand, keep in mind that you have to count the kinds and the number
 of live tiles to win on. For example, if your opponents have already
-discarded all the four tiles of  somehow, a side wait of - essentially
-becomes an edge wait of , leaving only 1 kind–4 tiles to
+discarded all the four tiles of <img class="singletile" src="/image/tiles/2-sou.png"> somehow, a side wait of 
+<img class="singletile" src="/image/tiles/2-sou.png"> - 
+<img class="singletile" src="/image/tiles/5-sou.png"> essentially
+becomes an edge wait of 
+<img class="singletile" src="/image/tiles/5-sou.png">, leaving only 1 kind–4 tiles to
 win on.
 
 2. Cheap / expensive waits
@@ -91,36 +96,49 @@ Judging whether certain tiles are likely to be used by the oppo-
 nents also involves a bit of board reading. If your opponents have
 already discarded a lot of tiles in souzu (bamboos), for example, we
 say that souzu are “cheap” in the board. Cheap waits are good waits.
-Suppose three or more of have already been discarded by your opponents.
-In such situations, an edge wait of  is not bad at all. This
-is because the paucity of  makes it rather diﬃcult for anyone to
-utilize  in their hand. There is also a good chance that  tiles are
-live in the wall. Even when an opponent draws  after you riichi,
+Suppose three or more of <img class="singletile" src="/image/tiles/4-sou.png"> have already been discarded by your opponents.
+In such situations, an edge wait of 
+<img class="singletile" src="/image/tiles/3-sou.png"> is not bad at all. This
+is because the paucity of 
+<img class="singletile" src="/image/tiles/4-sou.png"> makes it rather difficult for anyone to
+utilize 
+<img class="singletile" src="/image/tiles/3-sou.png"> in their hand. There is also a good chance that 
+<img class="singletile" src="/image/tiles/3-sou.png"> tiles are
+live in the wall. Even when an opponent draws 
+<img class="singletile" src="/image/tiles/3-sou.png"> after you riichi,
 they will have diﬃculty utilizing it in their hand; they have to either
-discard  or completely fold.
+discard 
+<img class="singletile" src="/image/tiles/3-sou.png"> or completely fold.
 
 Applying the same logic, we can see why honor tiles make for a
-good wait. For example, suppose % had already been discarded and
-you now have a pair of % in your hand. Then, the opponents will
-have diﬃculty utilizing the last % when they draw it. In a situation
-like this, a dual pon wait of % (and another tile) is almost as good
+good wait. For example, suppose <img class="singletile" src="/image/tiles/chun.png"> had already been discarded and
+you now have a pair of <img class="singletile" src="/image/tiles/chun.png"> in your hand. Then, the opponents will
+have diﬃculty utilizing the last <img class="singletile" src="/image/tiles/chun.png"> when they draw it. In a situation
+like this, a dual pon wait of <img class="singletile" src="/image/tiles/chun.png"> (and another tile) is almost as good
 as a side wait, despite the fact that the number of tiles to win on is
 smaller.
 
 On the other hand, when tiles in one suit are not being discarded
 as much as those in the other two suits, that suit is being “expensive”
 in the board. For example, suppose one or more opponents are pursuing a ﬂush hand (i.e., honitsu / chinitsu) in souzu. Then, even a
-side wait of - can be bad.
+side wait of 
+<img class="singletile" src="/image/tiles/2-sou.png"> - 
+<img class="singletile" src="/image/tiles/5-sou.png"> can be bad.
 
 3. Trap waits
 The third factor you may want to consider is whether your wait
 would appear safe in the eyes of your opponents. For example, when
-you have a closed wait of  and you have already discarded ,
+you have a closed wait of <img class="singletile" src="/image/tiles/2-sou.png"> and you have already discarded 
+<img class="singletile" src="/image/tiles/5-sou.png">,
 there is a good chance that your opponent is tricked into thinking
-that  is safe. This is called a suji-trap wait (see Chapter 8). For
-another example, suppose someone has a concealed quad of when
-you happen to have a dual pon wait of  and something else. Then,
-the opponents may think that  may be safe to discard even when
+that 
+<img class="singletile" src="/image/tiles/2-sou.png"> is safe. This is called a suji-trap wait (see Chapter 8). For
+another example, suppose someone has a concealed quad of 
+<img class="singletile" src="/image/tiles/8-man.png"> when
+you happen to have a dual pon wait of 
+<img class="singletile" src="/image/tiles/9-man.png"> and something else. Then,
+the opponents may think that 
+<img class="singletile" src="/image/tiles/9-man.png"> may be safe to discard even when
 it is not.
 
 That being said, reading the board requires some experience, and
@@ -188,51 +206,48 @@ Discards
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/6-pin.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
 <img class="drawtile" src="/image/tiles/4-sou.png">
-<img class="drawtile" src="/image/tiles/5-sou.png">
-<img class="drawtile" src="/image/tiles/6-sou.png">
-<img class="drawtile" src="/image/tiles/7-sou.png">
-
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
-    <figcaption>Draw</figcaption>
-</figure>
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/sha.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/8-sou.png">
 
 </fieldset>
 
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/6-pin.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/4-sou.png">
-<img class="drawtile" src="/image/tiles/5-sou.png">
-<img class="drawtile" src="/image/tiles/6-sou.png">
-<img class="drawtile" src="/image/tiles/7-sou.png">
 
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
-    <figcaption>Draw</figcaption>
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/8-man.png">
+
+</fieldset>
+
+
+<fieldset class="no-border">
+
+
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="verticaldrawtile" src="/image/tiles/h-haku.png">
+<img class="drawtile" src="/image/tiles/haku.png">
+<img class="drawtile" src="/image/tiles/haku.png">
+<img class="drawtile" src="/image/tiles/9-man.png">
+<img class="verticaldrawtile" src="/image/tiles/h9-man.png">
+<img class="drawtile" src="/image/tiles/9-man.png">
+<img class="drawtile" src="/image/tiles/ton.png">
+<img class="drawtile" src="/image/tiles/ton.png">
+<img class="verticaldrawtile" src="/image/tiles/h-ton.png">
+
+<figure class="tile-with-caption">
+    <img src="/image/tiles/1-sou.png"
+         alt="drawtile">
+    <figcaption>Dora</figcaption>
 </figure>
 
 </fieldset>
@@ -243,8 +258,10 @@ and the hand value can easily go up to haneman (18000) or baiman
 5
 In such a situation, everybody will be paying attention
 to the dealer (as they should). Suppose further that you manage
-to make your hand ready for pinfu, waiting for -. Then, you
-should keep the hand dama, as  is one of the dealer’s genbutsu
+to make your hand ready for pinfu, waiting for <img class="singletile" src="/image/tiles/3-sou.png"> - 
+<img class="singletile" src="/image/tiles/6-sou.png">. Then, you
+should keep the hand dama, as 
+<img class="singletile" src="/image/tiles/6-sou.png"> is one of the dealer’s genbutsu
 tiles. There is a good chance that the other two players fold against
 the dealer completely and try to discard nothing but his genbutsu
 tiles.
@@ -254,26 +271,19 @@ For example, suppose someone is doing the following.
 
 <fieldset class="no-border">
 
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="verticaldrawtile" src="/image/tiles/h4-man.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
 <img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="verticaldrawtile" src="/image/tiles/h-chun.png">
+<img class="drawtile" src="/image/tiles/9-sou.png">
+<img class="drawtile" src="/image/tiles/h9-sou.png">
+<img class="drawtile" src="/image/tiles/9-sou.png">
+<img class="verticaldrawtile" src="/image/tiles/h4-pin.png">
 <img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/6-pin.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/4-sou.png">
-<img class="drawtile" src="/image/tiles/5-sou.png">
-<img class="drawtile" src="/image/tiles/6-sou.png">
-<img class="drawtile" src="/image/tiles/7-sou.png">
-
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
-    <figcaption>Draw</figcaption>
-</figure>
+<img class="drawtile" src="/image/tiles/3-pin.png">
 
 </fieldset>
 
@@ -293,23 +303,25 @@ is OK to go dama. Let’s see a few examples.
 <fieldset class="excercise">
 <legend class="right-align">Expensive hand 1</legend>
 
+<img class="drawtile" src="/image/tiles/3-man.png">
 <img class="drawtile" src="/image/tiles/4-man.png">
 <img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/7-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
 <img class="drawtile" src="/image/tiles/3-pin.png">
 <img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
 <img class="drawtile" src="/image/tiles/6-pin.png">
-<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/8-pin.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
 <img class="drawtile" src="/image/tiles/3-sou.png">
 <img class="drawtile" src="/image/tiles/4-sou.png">
-<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
 <img class="drawtile" src="/image/tiles/6-sou.png">
 
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
+
+<figure class="tile-with-caption">
+    <img src="/image/tiles/3-pin.png"
+         alt="drawtile">
     <figcaption>Draw</figcaption>
 </figure>
 
@@ -317,37 +329,43 @@ is OK to go dama. Let’s see a few examples.
 
 You should keep this hand dama because the hand is already expensive
 (tanyao + three dora = mangan) and the wait is not very good.
-Keep dama, discarding  !
-)
 
-Why should we discard , not  (which will make for a suji-trap
+Keep dama, discarding <img class="singletile" src="/image/tiles/8-pin.png"> !
+
+
+Why should we discard 
+<img class="singletile" src="/image/tiles/8-pin.png">, not 
+<img class="singletile" src="/image/tiles/4-pin.png"> (which will make for a suji-trap
 wait)? This is to leave the possibility of improving the wait. If you
-draw or call pon on  or the fourth 
- after discarding , the wait
+draw or call pon on 
+<img class="singletile" src="/image/tiles/9-sou.png"> or the fourth 
+<img class="singletile" src="/image/tiles/3-pin.png">
+ after discarding 
+<img class="singletile" src="/image/tiles/8-pin.png">, the wait
 gets signiﬁcantly better, as follows:
 
 
 <fieldset class="no-border">
 
+<img class="drawtile" src="/image/tiles/3-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
 <img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
 <img class="drawtile" src="/image/tiles/6-pin.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
 <img class="drawtile" src="/image/tiles/4-sou.png">
-<img class="drawtile" src="/image/tiles/5-sou.png">
 <img class="drawtile" src="/image/tiles/6-sou.png">
-<img class="drawtile" src="/image/tiles/7-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
 
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
-    <figcaption>Draw</figcaption>
+
+<figure class="tile-with-caption">
+    <img src="/image/tiles/3-pin.png"
+         alt="drawtile">
+    <figcaption>Dora</figcaption>
 </figure>
 
 </fieldset>
@@ -355,26 +373,20 @@ gets signiﬁcantly better, as follows:
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/6-pin.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/4-sou.png">
-<img class="drawtile" src="/image/tiles/5-sou.png">
-<img class="drawtile" src="/image/tiles/6-sou.png">
-<img class="drawtile" src="/image/tiles/7-sou.png">
 
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
-    <figcaption>Draw</figcaption>
-</figure>
+<img class="drawtile" src="/image/tiles/3-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="verticaldrawtile" src="/image/tiles/h6-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
 
 </fieldset>
 
@@ -382,26 +394,20 @@ gets signiﬁcantly better, as follows:
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/6-pin.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/4-sou.png">
-<img class="drawtile" src="/image/tiles/5-sou.png">
-<img class="drawtile" src="/image/tiles/6-sou.png">
-<img class="drawtile" src="/image/tiles/7-sou.png">
 
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
-    <figcaption>Draw</figcaption>
-</figure>
+<img class="drawtile" src="/image/tiles/3-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="verticaldrawtile" src="/image/tiles/h3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
 
 </fieldset>
 
@@ -414,60 +420,66 @@ yaku (without it you cannot win by ron) and (2) its value is at least
 <fieldset class="excercise">
 <legend class="right-align">Expensive hand 2</legend>
 
+<img class="drawtile" src="/image/tiles/3-man.png">
 <img class="drawtile" src="/image/tiles/4-man.png">
 <img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/7-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
 <img class="drawtile" src="/image/tiles/3-pin.png">
 <img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
 <img class="drawtile" src="/image/tiles/6-pin.png">
-<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/8-pin.png">
+<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
 <img class="drawtile" src="/image/tiles/3-sou.png">
-<img class="drawtile" src="/image/tiles/4-sou.png">
-<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
 <img class="drawtile" src="/image/tiles/6-sou.png">
 
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
-    <figcaption>Draw</figcaption>
+
+<figure class="tile-with-caption">
+    <img src="/image/tiles/3-pin.png"
+         alt="drawtile">
+    <figcaption>Dora</figcaption>
 </figure>
 
 </fieldset>
-Dora
+
 This hand does not have yaku and so you cannot win by ron without
-riichi. You should do insta-riichi with this hand by discarding .
+riichi. You should do insta-riichi with this hand by discarding <img class="singletile" src="/image/tiles/4-pin.png">.
 
 
 <fieldset class="excercise">
 <legend class="right-align">Expensive hand 3</legend>
 
+<img class="drawtile" src="/image/tiles/3-man.png">
 <img class="drawtile" src="/image/tiles/4-man.png">
-<img class="drawtile" src="/image/tiles/5-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
 <img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/7-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
 <img class="drawtile" src="/image/tiles/3-pin.png">
-<img class="drawtile" src="/image/tiles/3-pin.png">
-<img class="drawtile" src="/image/tiles/6-pin.png">
-<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
 <img class="drawtile" src="/image/tiles/3-sou.png">
 <img class="drawtile" src="/image/tiles/4-sou.png">
 <img class="drawtile" src="/image/tiles/5-sou.png">
 <img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+<img class="drawtile" src="/image/tiles/8-sou.png">
 
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
-    <figcaption>Draw</figcaption>
+
+<figure class="tile-with-caption">
+    <img src="/image/tiles/pei.png"
+         alt="drawtile">
+    <figcaption>Dora</figcaption>
 </figure>
 
 </fieldset>
 
-This hand is worth 7700 when winning on  (tanyao + pinfu +
-sanshoku), but the hand is worth only 2000 if winning on  (tanyao
-+ pinfu). You should therefore do insta-riichi by discarding .
+This hand is worth 7700 when winning on <img class="singletile" src="/image/tiles/5-man.png"> (tanyao + pinfu +
+sanshoku), but the hand is worth only 2000 if winning on 
+<img class="singletile" src="/image/tiles/2-man.png"> (tanyao
++ pinfu). You should therefore do insta-riichi by discarding 
+<img class="singletile" src="/image/tiles/4-man.png">.
 
 When you have an expensive hand, going dama is acceptable but
 calling riichi is also an option, especially when you have a good wait.
@@ -477,30 +489,31 @@ Consider the following hand. Should we riichi?
 <fieldset class="excercise">
 <legend class="right-align">Expensive hand 4</legend>
 
+<img class="drawtile" src="/image/tiles/3-man.png">
 <img class="drawtile" src="/image/tiles/4-man.png">
-<img class="drawtile" src="/image/tiles/5-man.png">
 <img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/7-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
+<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/2-pin.png">
 <img class="drawtile" src="/image/tiles/3-pin.png">
-<img class="drawtile" src="/image/tiles/3-pin.png">
-<img class="drawtile" src="/image/tiles/6-pin.png">
-<img class="drawtile" src="/image/tiles/7-pin.png">
-<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
 <img class="drawtile" src="/image/tiles/4-sou.png">
-<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/5r-sou.png">
 <img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/7-sou.png">
+<img class="drawtile" src="/image/tiles/8-sou.png">
+<img class="drawtile" src="/image/tiles/9-sou.png">
 
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
-    <figcaption>Draw</figcaption>
+<figure class="tile-with-caption">
+    <img src="/image/tiles/3-pin.png"
+         alt="drawtile">
+    <figcaption>Dora
+</figcaption>
 </figure>
 
 </fieldset>
-Dora
 
-Discarding 	, we get a conﬁrmed 7700 hand without riichi. I already
+Discarding <img class="singletile" src="/image/tiles/7-sou.png">	, we get a conﬁrmed 7700 hand without riichi. I already
 said above that it is acceptable to keep dama when the minimum
 hand value is 7700. However, would calling riichi be even better?
 
@@ -562,83 +575,75 @@ can. For example, consider the following hand.
 
 <fieldset class="no-border">
 
+<img class="drawtile" src="/image/tiles/1-man.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
 <img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
 <img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/6-pin.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/4-sou.png">
+<img class="drawtile" src="/image/tiles/9-man.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/8-pin.png">
+<img class="drawtile" src="/image/tiles/9-pin.png">
+<img class="drawtile" src="/image/tiles/9-pin.png">
+<img class="drawtile" src="/image/tiles/9-pin.png">
 <img class="drawtile" src="/image/tiles/5-sou.png">
-<img class="drawtile" src="/image/tiles/6-sou.png">
 <img class="drawtile" src="/image/tiles/7-sou.png">
-
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
-    <figcaption>Draw</figcaption>
-</figure>
 
 </fieldset>
 
-Since calling riichi by discarding  gives you riichi-only with a bad
+Since calling riichi by discarding <img class="singletile" src="/image/tiles/5-man.png"> gives you riichi-only with a bad
 wait, you may want to refrain from riichi. However, if you discard
-, the hand can be improved only if you draw  or . Moreover,
-even when you luckily draw , the hand is still only riichi + pinfu,
+<img class="singletile" src="/image/tiles/5-man.png">, the hand can be improved only if you draw 
+<img class="singletile" src="/image/tiles/4-sou.png"> or 
+<img class="singletile" src="/image/tiles/8-sou.png">. Moreover,
+even when you luckily draw 
+<img class="singletile" src="/image/tiles/4-sou.png">, the hand is still only riichi + pinfu,
 albeit with an improved wait.
 
-A more sensible choice here is to discard  and revert the hand
+A more sensible choice here is to discard 
+<img class="singletile" src="/image/tiles/5-sou.png"> and revert the hand
 to 1-away, as follows.
 
 
 <fieldset class="no-border">
 
+<img class="drawtile" src="/image/tiles/1-man.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
 <img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
 <img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/6-pin.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/4-sou.png">
-<img class="drawtile" src="/image/tiles/5-sou.png">
-<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/9-man.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/8-pin.png">
+<img class="drawtile" src="/image/tiles/9-pin.png">
+<img class="drawtile" src="/image/tiles/9-pin.png">
+<img class="drawtile" src="/image/tiles/9-pin.png">
 <img class="drawtile" src="/image/tiles/7-sou.png">
-
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
-    <figcaption>Draw</figcaption>
-</figure>
 
 </fieldset>
 
 This is another example of golden 1-away. This 1-away hand is so
-much better than the ready hand you’d get by discarding . Specifically,
+much better than the ready hand you’d get by discarding <img class="singletile" src="/image/tiles/5-man.png">. Specifically,
 there are four kinds of tiles that can improve the score by at
 least three han.
 
-- If you draw 	, the hand is ready for junchan (Terminals in All
+- If you draw <img class="singletile" src="/image/tiles/9-sou.png">, the hand is ready for junchan (Terminals in All
 Sets) + sanshoku — mangan without riichi and haneman with
-6
-As I mentioned before, when there are four kinds of tiles that can improve your
-hand, it will take (on average) eight turns to draw one of them.
-
 riichi. You may want to go riichi in this case because your previous
-discard of  makes for a suji trap wait, although going
+discard of 
+<img class="singletile" src="/image/tiles/5-sou.png"> makes for a suji trap wait, although going
 dama is also OK.
-- If you draw, the hand is ready for pinfu + junchan + sanshoku
+- If you draw 
+<img class="singletile" src="/image/tiles/8-sou.png">, the hand is ready for pinfu + junchan + sanshoku
 — haneman without riichi. You may still want to riichi. It would
-be a shame to win this monster hand on , but doing so without
+be a shame to win this monster hand on 
+<img class="singletile" src="/image/tiles/9-sou.png">, but doing so without
 riichi is the worst.
-- If you draw  or ȷ, the hand is ready for pinfu + ittsu —
+- If you draw 
+<img class="singletile" src="/image/tiles/4-man.png"> or 
+<img class="singletile" src="/image/tiles/6-man.png">, the hand is ready for pinfu + ittsu —
 7700 with riichi. You should deﬁnitely riichi. Going dama with
 this hand is absurd.
 
@@ -647,47 +652,62 @@ For another (less exciting) example, consider the following hand.
 
 <fieldset class="no-border">
 
+<img class="drawtile" src="/image/tiles/3-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
 <img class="drawtile" src="/image/tiles/5-man.png">
 <img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/6-pin.png">
 <img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/4-sou.png">
-<img class="drawtile" src="/image/tiles/5-sou.png">
-<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
 <img class="drawtile" src="/image/tiles/7-sou.png">
+<img class="drawtile" src="/image/tiles/8-sou.png">
+<img class="drawtile" src="/image/tiles/9-sou.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/1-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
 
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
+
+<figure class="tile-with-caption">
+    <img src="/image/tiles/pei.png"
+         alt="drawtile">
     <figcaption>Draw</figcaption>
 </figure>
 
 </fieldset>
 
 Suppose this is the 5th turn in a hand. The choice is between (1)
-discarding ‌ to make this hand ready or (2) discarding  to revert
+discarding ‌<img class="singletile" src="/image/tiles/3-man.png"> to make this hand ready or (2) discarding 
+<img class="singletile" src="/image/tiles/1-sou.png"> to revert
 the hand to 1-away.
 
 It is OK to choose either of the two in this case, but there is one
-thing you should not do. That is discarding ‌ without calling riichi.
-If, according to your reading of the board, a closed wait of  is good
-enough (e.g., none of  has been discarded yet, but lots of other tiles
+thing you should not do. That is discarding <img class="singletile" src="/image/tiles/3-man.png"> without calling riichi.
+If, according to your reading of the board, a closed wait of 
+<img class="singletile" src="/image/tiles/2-sou.png"> is good
+enough (e.g., none of 
+<img class="singletile" src="/image/tiles/2-sou.png"> has been discarded yet, but lots of other tiles
 in souzu (bamboos) have been discarded), do insta-riichi. Waiting in
-dama with a yaku-less hand is generally a bad move. If you discard
+dama with a yaku-less hand is generally a bad move. If you discard 
+<img class="singletile" src="/image/tiles/3-man.png">
 ‌ just to keep the hand ready, the hand cannot be won by ron, and
-it can be improved only if you draw . It makes no sense to have such a hand.
+it can be improved only if you draw 
+<img class="singletile" src="/image/tiles/4-sou.png">. It makes no sense to have such a hand.
 7
 
 If you want to wait and improve the hand, you should discard
- to revert the hand to 1-away. If you draw any of ﬀ (5
+<img class="singletile" src="/image/tiles/1-sou.png"> to revert the hand to 1-away. If you draw any of 
+<img class="singletile" src="/image/tiles/2-man.png">
+<img class="singletile" src="/image/tiles/4-man.png">
+<img class="singletile" src="/image/tiles/5-man.png">
+<img class="singletile" src="/image/tiles/7-man.png">
+<img class="singletile" src="/image/tiles/4-sou.png"> (5
 kinds–15 tiles), both the wait and the scores get improved. If you
-draw any of ‌ȷ (4 kinds–11 tiles), at least the wait gets improved.
+draw any of ‌
+<img class="singletile" src="/image/tiles/3-man.png">
+<img class="singletile" src="/image/tiles/6-man.png">
+<img class="singletile" src="/image/tiles/3-sou.png">
+<img class="singletile" src="/image/tiles/1-pin.png"> (4 kinds–11 tiles), at least the wait gets improved.
 A basic rule of thumb with a yaku-less hand is as follows.
 
 
@@ -711,24 +731,24 @@ while keeping a yaku-less ready hand.
 
 <fieldset class="no-border">
 
+<img class="drawtile" src="/image/tiles/3-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
 <img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
 <img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/9-pin.png">
 <img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/4-sou.png">
-<img class="drawtile" src="/image/tiles/5-sou.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
 <img class="drawtile" src="/image/tiles/6-sou.png">
 <img class="drawtile" src="/image/tiles/7-sou.png">
+<img class="drawtile" src="/image/tiles/8-sou.png">
 
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
+<figure class="tile-with-caption">
+    <img src="/image/tiles/3-sou.png"
+         alt="drawtile">
     <figcaption>Draw</figcaption>
 </figure>
 
@@ -775,6 +795,10 @@ what’s already visible: toitoi (All Pungs), Green Dragon, Red Dragon,
 dora, honitsu, honroutou (All Terminals and Honors), and shousangen (Little
 Three Dragons). With this hand, the maximum possible hand value is
 sanbaiman (36000).
+
+6
+As I mentioned before, when there are four kinds of tiles that can improve your
+hand, it will take (on average) eight turns to draw one of them.
 
 
 7
