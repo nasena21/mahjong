@@ -71,7 +71,7 @@ Finally, we add 2 minipoints for each of the following, if any.
 - Closed, edge, or single wait
 
 When the head of a hand is of seat wind and prevailing wind
-(e.g., ﬄ for the East player in the East round), we get 2 + 2 = 4 minipoints.
+(e.g., <img class="singletile" src="/image/tiles/ton.png"> for the East player in the East round), we get 2 + 2 = 4 minipoints.
 6
 If the wait is either side wait or dual pon wait, we don’t get
 any minipoint for it. As we saw when we discussed wait patterns
@@ -82,30 +82,41 @@ hand.
 
 <fieldset class="no-border">
 
+<img class="drawtile" src="/image/tiles/3-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
 <img class="drawtile" src="/image/tiles/5-man.png">
 <img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/6-pin.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/4-sou.png">
-<img class="drawtile" src="/image/tiles/5-sou.png">
-<img class="drawtile" src="/image/tiles/6-sou.png">
-<img class="drawtile" src="/image/tiles/7-sou.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
+<img class="verticaldrawtile" src="/image/tiles/h3-sou.png">
 
 </fieldset>
 
 
-The hand is waiting for -. If we win by ron on , we get no
+The hand is waiting for <img class="singletile" src="/image/tiles/2-man.png"> - 
+<img class="singletile" src="/image/tiles/5-man.png">. If we win by ron on 
+<img class="singletile" src="/image/tiles/2-man.png">, we get no
 minipoints for the wait and so this hand has 30 minipoints (base 20
 + 8 for a concealed set of honors + 2 for an open set of simple = 30).
-However, if we win this hand on , we get additional 2 minipoints
-for closed wait. This is because ‌ȷ can be thought of as
-‌ + ȷ. Therefore, the hand has 40 minipoints in that case
+However, if we win this hand on 
+<img class="singletile" src="/image/tiles/5-man.png">, we get additional 2 minipoints
+for closed wait. This is because ‌
+<img class="singletile" src="/image/tiles/3-man.png">
+<img class="singletile" src="/image/tiles/4-man.png">
+<img class="singletile" src="/image/tiles/4-man.png">
+<img class="singletile" src="/image/tiles/5-man.png">
+<img class="singletile" src="/image/tiles/6-man.png"> can be thought of as
+<img class="singletile" src="/image/tiles/3-man.png">
+<img class="singletile" src="/image/tiles/4-man.png">
+<img class="singletile" src="/image/tiles/5-man.png"> + 
+<img class="singletile" src="/image/tiles/4-man.png">
+<img class="singletile" src="/image/tiles/6-man.png">. Therefore, the hand has 40 minipoints in that case
 (30 + 2 = 32, rounded up to 40).
 
 ## Scores for 50 minipoints or above
@@ -269,34 +280,37 @@ the following hand.
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
 <img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/8-pin.png">
+<img class="drawtile" src="/image/tiles/ton.png">
+<img class="drawtile" src="/image/tiles/ton.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/cover.png">
 <img class="drawtile" src="/image/tiles/1-sou.png">
 <img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/4-sou.png">
-<img class="drawtile" src="/image/tiles/5-sou.png">
-<img class="drawtile" src="/image/tiles/6-sou.png">
-<img class="drawtile" src="/image/tiles/7-sou.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/cover.png">
+<img class="drawtile" src="/image/tiles/9-sou.png">
+<img class="drawtile" src="/image/tiles/9-sou.png">
+<img class="drawtile" src="/image/tiles/cover.png">
 
 </fieldset>
 
 
 Suppose you are in the East round. If the dealer wins this hand by
-ron on %, he gets 20 (base) + 10 (closed hand ron) + 4 (pair of seat &
+ron on <img class="singletile" src="/image/tiles/chun.png">, he gets 20 (base) + 10 (closed hand ron) + 4 (pair of seat &
 prevailing wind tiles) + 4 (open set of honors) + 32 (concealed quad
 of terminals) + 32 (concealed quad of terminals) = 102, rounded up
 to 110 minipoints. The score for 1 han–110 minipoints is 5300.
 
-If he wins by ron on ﬄ, on the other hand, he gets more han
+If he wins by ron on 
+<img class="singletile" src="/image/tiles/ton.png">, on the other hand, he gets more han
 (set of seat & prevailing wind) but lower minipoints. This is because
-the minipoint contribution of the pair of % (2) is smaller than that
-of the pair of ﬄ (4). Since the score of 2 han–100 minipoints hand is
+the minipoint contribution of the pair of <img class="singletile" src="/image/tiles/chun.png"> (2) is smaller than that
+of the pair of 
+<img class="singletile" src="/image/tiles/ton.png"> (4). Since the score of 2 han–100 minipoints hand is
 the same as that of 3 han–50 minipoints hand, he obtains 9600 points.
 
 ## Examples
@@ -309,19 +323,19 @@ tiles and for tsumo and ron.
 <fieldset class="excercise">
 <legend class="right-align">Scoring 1</legend>
 
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
 <img class="drawtile" src="/image/tiles/4-man.png">
 <img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/7-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/3-pin.png">
-<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
 <img class="drawtile" src="/image/tiles/6-pin.png">
 <img class="drawtile" src="/image/tiles/7-pin.png">
-<img class="drawtile" src="/image/tiles/3-sou.png">
-<img class="drawtile" src="/image/tiles/4-sou.png">
-<img class="drawtile" src="/image/tiles/5-sou.png">
-<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
 
 <div class="discard-question">What are the scores?</div>
 
@@ -333,37 +347,40 @@ If you win this hand by ron, the hand has 1 han (Red Dragon) and
 40 minipoints: 20 (base) + 10 (closed hand ron) + 8 (concealed set
 of honors) = 38, rounded up to 40, so you get 1300 points.
 
-If you win it by drawing 
+If you win it by drawing <img class="singletile" src="/image/tiles/3-pin.png">
 , the hand has an additional yaku,
 menzen tsumo (Fully Concealed Hand), with 30 minipoints: 20 + 8
 + 2 (tsumo) = 30. You thus get 500-1000 tsumo = 2000 points.
 
-However, if you win it by drawing , you get 40 minipoints be-
+However, if you win it by drawing 
+<img class="singletile" src="/image/tiles/6-pin.png">, you get 40 minipoints be-
 cause of the additional 2 minipoints for
-closed wait: . You thus get 700-1300 tsumo = 2700 points.
+closed wait: 
+<img class="singletile" src="/image/tiles/5-pin.png">
+<img class="singletile" src="/image/tiles/7-pin.png">. You thus get 700-1300 tsumo = 2700 points.
 
-Let’s say you draw . What would you discard?
+Let’s say you draw 
+<img class="singletile" src="/image/tiles/5-pin.png"> . What would you discard?
 
 <fieldset class="no-border">
 
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
 <img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
 <img class="drawtile" src="/image/tiles/6-pin.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/4-sou.png">
-<img class="drawtile" src="/image/tiles/5-sou.png">
-<img class="drawtile" src="/image/tiles/6-sou.png">
-<img class="drawtile" src="/image/tiles/7-sou.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
 
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
+<figure class="tile-with-caption">
+    <img src="/image/tiles/5-pin.png"
+         alt="drawtile">
     <figcaption>Draw</figcaption>
 </figure>
 
@@ -371,9 +388,10 @@ Let’s say you draw . What would you discard?
 </fieldset>
 
 
-If you discard , the wait is 
-- (2 kinds–7 tiles). If you discard
-, however, you get a 3-way wait: -  (3 kinds–7 tiles). Let’s
+If you discard <img class="singletile" src="/image/tiles/5-pin.png">, the wait is <img class="singletile" src="/image/tiles/3-pin.png"> - <img class="singletile" src="/image/tiles/6-pin.png"> (2 kinds–7 tiles). If you discard
+<img class="singletile" src="/image/tiles/4-pin.png">, however, you get a 3-way wait: 
+<img class="singletile" src="/image/tiles/5-pin.png"> -
+<img class="singletile" src="/image/tiles/8-pin.png"> <img class="singletile" src="/image/tiles/2-man.png">  (3 kinds–7 tiles). Let’s
 say you choose the latter, resulting in the following hand. Now, let’s
 think about the scores for each winning tile.
 
@@ -381,141 +399,155 @@ think about the scores for each winning tile.
 <fieldset class="excercise">
 <legend class="right-align">Scoring 2</legend>
 
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
 <img class="drawtile" src="/image/tiles/4-man.png">
 <img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/7-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/3-pin.png">
-<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
 <img class="drawtile" src="/image/tiles/6-pin.png">
 <img class="drawtile" src="/image/tiles/7-pin.png">
-<img class="drawtile" src="/image/tiles/3-sou.png">
-<img class="drawtile" src="/image/tiles/4-sou.png">
-<img class="drawtile" src="/image/tiles/5-sou.png">
-<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
 
 <div class="discard-question">What are the scores?</div>
 
 </fieldset>
 
 
-If you win this hand on , the hand is still 1 han–40 minipoints =
-1300. However, if you win on  or , the three tiles of  within
+If you win this hand on 
+<img class="singletile" src="/image/tiles/2-man.png">, the hand is still 1 han–40 minipoints =
+1300. However, if you win on 
+<img class="singletile" src="/image/tiles/5-pin.png"> or 
+<img class="singletile" src="/image/tiles/8-pin.png">, the three tiles of 
+<img class="singletile" src="/image/tiles/5-pin.png"> within
 the hand are treated as a concealed set, giving you 4 additional minipoints:
-20 (base) + 10 (closed ron) + 8 (set of %) + 4 (set of ) =
+20 (base) + 10 (closed ron) + 8 (set of 
+<img class="singletile" src="/image/tiles/chun.png">) + 4 (set of 
+<img class="singletile" src="/image/tiles/5-pin.png">) =
 42, rounded up to 50 minipoints. You thus get 1 han–50 minipoints
 = 1600 points. If you win by tsumo, you get 40 minipoints so you will
 get 700-1300 = 2700 points.
 
-Let’s say you draw ‌. What would you discard?
+Let’s say you draw <img class="singletile" src="/image/tiles/3-man.png">‌. What would you discard?
 
 <fieldset class="no-border">
 
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
 <img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
 <img class="drawtile" src="/image/tiles/6-pin.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/4-sou.png">
-<img class="drawtile" src="/image/tiles/5-sou.png">
-<img class="drawtile" src="/image/tiles/6-sou.png">
-<img class="drawtile" src="/image/tiles/7-sou.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
 
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
+<figure class="tile-with-caption">
+    <img src="/image/tiles/3-man.png"
+         alt="drawtile">
     <figcaption>Draw</figcaption>
 </figure>
 
 </fieldset>
-If you discard , the wait is -. Let’s think about the scores for
+If you discard 
+<img class="singletile" src="/image/tiles/5-man.png">, the wait is 
+<img class="singletile" src="/image/tiles/1-man.png"> - 
+<img class="singletile" src="/image/tiles/4-man.png">. Let’s think about the scores for
 each winning tile.
 
 
 <fieldset class="excercise">
 <legend class="right-align">Scoring 3</legend>
 
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
 <img class="drawtile" src="/image/tiles/4-man.png">
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/7-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/3-pin.png">
-<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
 <img class="drawtile" src="/image/tiles/6-pin.png">
 <img class="drawtile" src="/image/tiles/7-pin.png">
-<img class="drawtile" src="/image/tiles/3-sou.png">
-<img class="drawtile" src="/image/tiles/4-sou.png">
-<img class="drawtile" src="/image/tiles/5-sou.png">
-<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+
 
 <div class="discard-question">What are the scores?</div>
 
 </fieldset>
 
 
-If you win the hand by ron on , you get an additional yaku, iipeiko
+If you win the hand by ron on <img class="singletile" src="/image/tiles/4-man.png">, you get an additional yaku, iipeiko
 (Pure Double Chow), giving you 2 han–40 minipoints = 2600 points.
 If you win the hand by tsumo, the minipoints are now lower than
 before because you have side wait and only one concealed set; we
-cannot think of the three tiles of  as a set any more. You get 2 han–
-30 minipoints if you draw  (500-1000 tsumo = 2000), whereas you
-get 3 han–30 minipoints if you draw  (1000-2000 tsumo = 4000).
+cannot think of the three tiles of 
+<img class="singletile" src="/image/tiles/5-pin.png"> as a set any more. You get 2 han–
+30 minipoints if you draw 
+<img class="singletile" src="/image/tiles/1-man.png"> (500-1000 tsumo = 2000), whereas you
+get 3 han–30 minipoints if you draw 
+<img class="singletile" src="/image/tiles/4-man.png"> (1000-2000 tsumo = 4000).
 
-Let’s say you draw . What would you discard?
+Let’s say you draw 
+<img class="singletile" src="/image/tiles/6-pin.png">. What would you discard?
 
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
 <img class="drawtile" src="/image/tiles/6-pin.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/4-sou.png">
-<img class="drawtile" src="/image/tiles/5-sou.png">
-<img class="drawtile" src="/image/tiles/6-sou.png">
-<img class="drawtile" src="/image/tiles/7-sou.png">
+<img class="drawtile" src="/image/tiles/7-pin.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
 
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
+<figure class="tile-with-caption">
+    <img src="/image/tiles/6-pin.png"
+         alt="drawtile">
     <figcaption>Draw</figcaption>
 </figure>
 
 </fieldset>
 
-Discardingis the best option. To understand why, let’s think about
+Discarding <img class="singletile" src="/image/tiles/7-pin.png">
+ is the best option. To understand why, let’s think about
 the scores.
 
 
 <fieldset class="excercise">
 <legend class="right-align">Scoring 4</legend>
 
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
 <img class="drawtile" src="/image/tiles/4-man.png">
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/7-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/3-pin.png">
-<img class="drawtile" src="/image/tiles/3-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
 <img class="drawtile" src="/image/tiles/6-pin.png">
-<img class="drawtile" src="/image/tiles/7-pin.png">
-<img class="drawtile" src="/image/tiles/3-sou.png">
-<img class="drawtile" src="/image/tiles/4-sou.png">
-<img class="drawtile" src="/image/tiles/5-sou.png">
-<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+
 
 <div class="discard-question">What are the scores?</div>
 
@@ -524,57 +556,59 @@ the scores.
 
 Notice that the wait and the potential han counts did not change at
 all. However, you get increased minipoints because you now have
-the concealed set of  back again. You will get 2 han–50 minipoints
-= 3200 points if you win by ron on . If you draw , you will get
+the concealed set of 
+<img class="singletile" src="/image/tiles/5-pin.png"> back again. You will get 2 han–50 minipoints
+= 3200 points if you win by ron on 
+<img class="singletile" src="/image/tiles/4-man.png">
+. If you draw <img class="singletile" src="/image/tiles/4-man.png">, you will get
 3 han–40 minipoints, giving you 1300-2600 tsumo = 5200 points.
 
-Let’s say you draw another . What would you discard?
+Let’s say you draw another <img class="singletile" src="/image/tiles/6-pin.png">. What would you discard?
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
 <img class="drawtile" src="/image/tiles/6-pin.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/4-sou.png">
-<img class="drawtile" src="/image/tiles/5-sou.png">
-<img class="drawtile" src="/image/tiles/6-sou.png">
-<img class="drawtile" src="/image/tiles/7-sou.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
 
-<figure class="figure-caption">
-    <img src="/image/tiles/7-sou.png"
-         alt="opentile">
+<figure class="tile-with-caption">
+    <img src="/image/tiles/6-pin.png"
+         alt="drawtile">
     <figcaption>Draw</figcaption>
 </figure>
 
 </fieldset>
 
-The best discard is , which makes this hand a toitoi (All Pungs)
+The best discard is <img class="singletile" src="/image/tiles/4-man.png">, which makes this hand a toitoi (All Pungs)
 hand, as follows.
 
 
 <fieldset class="excercise">
 <legend class="right-align">Scoring 5</legend>
 
-<img class="drawtile" src="/image/tiles/4-man.png">
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/7-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/3-pin.png">
-<img class="drawtile" src="/image/tiles/3-pin.png">
+
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
 <img class="drawtile" src="/image/tiles/6-pin.png">
-<img class="drawtile" src="/image/tiles/7-pin.png">
-<img class="drawtile" src="/image/tiles/3-sou.png">
-<img class="drawtile" src="/image/tiles/4-sou.png">
-<img class="drawtile" src="/image/tiles/5-sou.png">
-<img class="drawtile" src="/image/tiles/6-sou.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/6-pin.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
 
 <div class="discard-question">What are the scores?</div>
 

@@ -186,58 +186,54 @@ of minipoints with hands like the following.
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/6-pin.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/1-man.png">
+<img class="drawtile" src="/image/tiles/1-man.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
 <img class="drawtile" src="/image/tiles/4-sou.png">
-<img class="drawtile" src="/image/tiles/5-sou.png">
-<img class="drawtile" src="/image/tiles/6-sou.png">
 <img class="drawtile" src="/image/tiles/7-sou.png">
+<img class="drawtile" src="/image/tiles/8-sou.png">
+<img class="drawtile" src="/image/tiles/9-sou.png">
+<img class="drawtile" src="/image/tiles/chun.png">
+<img class="verticaldrawtile" src="/image/tiles/h-chun.png">
+<img class="drawtile" src="/image/tiles/chun.png">
 
 </fieldset>
 
 <fieldset class="no-border">
 
+<img class="drawtile" src="/image/tiles/4-man.png">
 <img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/6-pin.png">
 <img class="drawtile" src="/image/tiles/1-sou.png">
 <img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
 <img class="drawtile" src="/image/tiles/4-sou.png">
 <img class="drawtile" src="/image/tiles/5-sou.png">
-<img class="drawtile" src="/image/tiles/6-sou.png">
-<img class="drawtile" src="/image/tiles/7-sou.png">
+<img class="verticaldrawtile" src="/image/tiles/h-ton.png">
+<img class="drawtile" src="/image/tiles/ton.png">
+<img class="drawtile" src="/image/tiles/ton.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
+<img class="drawtile" src="/image/tiles/3-man.png">
+<img class="verticaldrawtile" src="/image/tiles/h3-man.png">
 
 </fieldset>
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/7-man.png">
 <img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/6-pin.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
 <img class="drawtile" src="/image/tiles/4-sou.png">
-<img class="drawtile" src="/image/tiles/5-sou.png">
 <img class="drawtile" src="/image/tiles/6-sou.png">
 <img class="drawtile" src="/image/tiles/7-sou.png">
+<img class="drawtile" src="/image/tiles/8-sou.png">
+<img class="drawtile" src="/image/tiles/9-sou.png">
 
 </fieldset>
 
@@ -255,20 +251,19 @@ calculation. For minipoint calculation, see Section 6.3.
 
 <fieldset class="no-border">
 
-<img class="drawtile" src="/image/tiles/5-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/6-man.png">
-<img class="drawtile" src="/image/tiles/8-man.png">
-<img class="drawtile" src="/image/tiles/1-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/2-pin.png">
-<img class="drawtile" src="/image/tiles/6-pin.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
-<img class="drawtile" src="/image/tiles/1-sou.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/2-man.png">
+<img class="drawtile" src="/image/tiles/4-pin.png">
+<img class="drawtile" src="/image/tiles/5-pin.png">
+<img class="drawtile" src="/image/tiles/2-sou.png">
+<img class="drawtile" src="/image/tiles/3-sou.png">
 <img class="drawtile" src="/image/tiles/4-sou.png">
-<img class="drawtile" src="/image/tiles/5-sou.png">
 <img class="drawtile" src="/image/tiles/6-sou.png">
 <img class="drawtile" src="/image/tiles/7-sou.png">
+<img class="drawtile" src="/image/tiles/8-sou.png">
+<img class="verticaldrawtile" src="/image/tiles/h3-man.png">
+<img class="drawtile" src="/image/tiles/4-man.png">
+<img class="drawtile" src="/image/tiles/5-man.png">
 
 </fieldset>
 
